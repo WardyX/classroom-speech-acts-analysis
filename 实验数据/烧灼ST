@@ -1,0 +1,77 @@
+Iter:      0,  Train Loss:   2.2,  Train Acc:  0.00%,  Val Loss:   2.3,  Val Acc:  1.78%,  Time: 0:00:09 *
+Iter:    100,  Train Loss:  0.72,  Train Acc: 81.25%,  Val Loss:   1.1,  Val Acc: 61.45%,  Time: 0:00:54 *
+Iter:    200,  Train Loss:   1.1,  Train Acc: 50.00%,  Val Loss:   1.1,  Val Acc: 63.83%,  Time: 0:01:38 *
+Iter:    300,  Train Loss:   1.7,  Train Acc: 50.00%,  Val Loss:   1.1,  Val Acc: 66.01%,  Time: 0:02:23 *
+Iter:    400,  Train Loss:   1.5,  Train Acc: 43.75%,  Val Loss:   1.1,  Val Acc: 64.62%,  Time: 0:03:07
+Iter:    500,  Train Loss:   1.0,  Train Acc: 75.00%,  Val Loss:  0.97,  Val Acc: 71.16%,  Time: 0:03:51 *
+Epoch [2/12]
+Iter:    600,  Train Loss:   1.1,  Train Acc: 68.75%,  Val Loss:  0.97,  Val Acc: 68.88%,  Time: 0:04:36 *
+Iter:    700,  Train Loss:   1.0,  Train Acc: 75.00%,  Val Loss:  0.96,  Val Acc: 69.28%,  Time: 0:05:21 *
+Iter:    800,  Train Loss:  0.56,  Train Acc: 87.50%,  Val Loss:  0.99,  Val Acc: 68.68%,  Time: 0:06:06
+Iter:    900,  Train Loss:   0.8,  Train Acc: 81.25%,  Val Loss:  0.94,  Val Acc: 71.56%,  Time: 0:06:51 *
+Iter:   1000,  Train Loss:  0.33,  Train Acc: 87.50%,  Val Loss:  0.94,  Val Acc: 72.35%,  Time: 0:07:35
+Epoch [3/12]
+Iter:   1100,  Train Loss:  0.55,  Train Acc: 75.00%,  Val Loss:  0.86,  Val Acc: 73.14%,  Time: 0:08:21 *
+Iter:   1200,  Train Loss:  0.68,  Train Acc: 87.50%,  Val Loss:   0.9,  Val Acc: 71.95%,  Time: 0:09:05
+Iter:   1300,  Train Loss:  0.84,  Train Acc: 62.50%,  Val Loss:  0.84,  Val Acc: 72.84%,  Time: 0:09:51 *
+Iter:   1400,  Train Loss:  0.83,  Train Acc: 75.00%,  Val Loss:  0.91,  Val Acc: 73.14%,  Time: 0:10:35
+Iter:   1500,  Train Loss:  0.73,  Train Acc: 81.25%,  Val Loss:   0.9,  Val Acc: 75.72%,  Time: 0:11:20
+Epoch [4/12]
+Iter:   1600,  Train Loss:   1.0,  Train Acc: 68.75%,  Val Loss:  0.84,  Val Acc: 76.21%,  Time: 0:12:06 *
+Iter:   1700,  Train Loss:  0.26,  Train Acc: 87.50%,  Val Loss:  0.96,  Val Acc: 73.54%,  Time: 0:12:50
+Iter:   1800,  Train Loss:  0.12,  Train Acc: 100.00%,  Val Loss:  0.99,  Val Acc: 73.54%,  Time: 0:13:34
+Iter:   1900,  Train Loss:  0.69,  Train Acc: 87.50%,  Val Loss:  0.99,  Val Acc: 74.23%,  Time: 0:14:19
+Iter:   2000,  Train Loss:  0.86,  Train Acc: 81.25%,  Val Loss:  0.91,  Val Acc: 74.03%,  Time: 0:15:03
+Epoch [5/12]
+Iter:   2100,  Train Loss:  0.22,  Train Acc: 93.75%,  Val Loss:  0.86,  Val Acc: 76.71%,  Time: 0:15:48
+Iter:   2200,  Train Loss:   0.4,  Train Acc: 93.75%,  Val Loss:  0.94,  Val Acc: 77.11%,  Time: 0:16:32
+Iter:   2300,  Train Loss:   0.1,  Train Acc: 93.75%,  Val Loss:  0.99,  Val Acc: 77.11%,  Time: 0:17:17
+Iter:   2400,  Train Loss:  0.25,  Train Acc: 93.75%,  Val Loss:  0.94,  Val Acc: 76.81%,  Time: 0:18:02
+Iter:   2500,  Train Loss: 0.089,  Train Acc: 100.00%,  Val Loss:  0.95,  Val Acc: 76.02%,  Time: 0:18:47
+Epoch [6/12]
+Iter:   2600,  Train Loss:  0.44,  Train Acc: 87.50%,  Val Loss:  0.91,  Val Acc: 76.51%,  Time: 0:19:31
+No optimization for a long time, auto-stopping...
+C:\ProgramData\Anaconda3\envs\bertLstm\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_divisio
+n` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\ProgramData\Anaconda3\envs\bertLstm\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_divisio
+n` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\ProgramData\Anaconda3\envs\bertLstm\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_divisio
+n` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+[[ 19   7   2  13   5   0   0   6]
+ [  3 195   1   2   4   0   0   0]
+ [  0   3  48  21   6   0   0  13]
+ [  6  19   7 255  46   1   0   6]
+ [  0   2   2  11  91   1   0  11]
+ [  0   0   1   2   2   2   0   1]
+ [  0   1   0   0   1   0   0   0]
+ [  2   7   6  11   9   0   0 153]]
+Test Loss:  0.83,  Test Acc: 76.00%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+   教师评价或回应学生     0.6333    0.3654    0.4634        52
+        教师提问     0.8333    0.9512    0.8884       205
+        教师指令     0.7164    0.5275    0.6076        91
+        教师讲授     0.8095    0.7500    0.7786       340
+     学生被动型应答     0.5549    0.7712    0.6454       118
+     学生创造型应答     0.5000    0.2500    0.3333         8
+   学生主动提问或发言     0.0000    0.0000    0.0000         2
+     沉寂杂音或讨论     0.8053    0.8138    0.8095       188
+
+    accuracy                         0.7600      1004
+   macro avg     0.6066    0.5536    0.5658      1004
+weighted avg     0.7620    0.7600    0.7542      1004
+
+Confusion Matrix...
+[[ 19   7   2  13   5   0   0   6]
+ [  3 195   1   2   4   0   0   0]
+ [  0   3  48  21   6   0   0  13]
+ [  6  19   7 255  46   1   0   6]
+ [  0   2   2  11  91   1   0  11]
+ [  0   0   1   2   2   2   0   1]
+ [  0   1   0   0   1   0   0   0]
+ [  2   7   6  11   9   0   0 153]]
+Time usage: 0:00:06

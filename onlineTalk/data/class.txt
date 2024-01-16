@@ -1,0 +1,8 @@
+answer
+question
+statement-non-opinion
+statement-opinion
+irony
+apology
+command
+disagreement

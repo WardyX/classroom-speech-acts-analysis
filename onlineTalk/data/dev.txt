@@ -1,0 +1,1513 @@
+[S]他就回来拿个相册[NEXT][S]你发那么大火干嘛[NEXT][T]他是拿一相册吗[NEXT][T]他这是来捣乱[NEXT][KEY][S]什么乱啊[KEY]	3
+[T]他听到我说的最后一句话[NEXT][T]是我讨厌你[NEXT][T]这么多年一想到这件事情我就特别的懊悔[NEXT][T]所以我才这么努力 因为我希望做一个和他一样的人 去帮他完成他那些没有做完的事[NEXT][KEY][S]对不起[KEY]	5
+[S]示范一下[NEXT][S]我一定见贤思齐[NEXT][S]从善如流[NEXT][T]你跟何塞怎么了[NEXT][KEY][S]他不喜欢我的笑容[KEY]	0
+[S]娘娘[NEXT][S]今天早上没上班[NEXT][S]早知道我就不跟外面吃早点了[NEXT][S]回来陪你睡个回笼觉[NEXT][KEY][S]怎么了[KEY]	1
+[T]你恢复去吧[NEXT][T]太没有斗争经验了[NEXT][S]闺女[NEXT][T]来了[NEXT][KEY][S]英子 开门[KEY]	6
+[S]我在医院[NEXT][S]我可能得病了[NEXT][S]千万不能让杨杨知道[NEXT][S]老季[NEXT][KEY][S]我得跟你说对不起[KEY]	5
+[S]那个小梦阿姨怎么就这么好[NEXT][S]怎么就那么招你喜欢[NEXT][S]你说他怎么就那么好[NEXT][T]没有[NEXT][KEY][S]什么没有[KEY]	1
+[T]他在外边给英子再生个弟弟[NEXT][T]啪他那财产一家一半[NEXT][T]你能拿他怎么着[NEXT][S]这英子跟他爸好[NEXT][KEY][S]人家亲身骨肉我也拦不住[KEY]	3
+[S]怎么招呼都不打就来了[NEXT][T]小安呢 我给他买了奶黄包[NEXT][S]去同学过生日去了[NEXT][T]这么小的孩子就聚众过生日[NEXT][KEY][S]对[KEY]	0
+[T]媳妇[NEXT][T]昨天晚上高兴的时候一块高兴 怎么现在就都赖我呢[NEXT][T]直播呢[NEXT][S]没有[NEXT][KEY][S]我录的视频[KEY]	2
+[S]你就会知道了[NEXT][S]规定太多了[NEXT][S]你不可能每一样都完成[NEXT][T]我什么时候才能想明白人生[NEXT][KEY][S]你希望自己的人生是什么样的[KEY]	1
+[S]你上次什么时候检查的[NEXT][T]我都记不住了[NEXT][S]你赶紧去我准你假[NEXT][T]这有这么严重吗[NEXT][KEY][S]你今天就得去你听我的[KEY]	6
+[S]把我当成开滴滴快车[NEXT][S]后来想热心肠 送了一段[NEXT][S]送的路上 我就琢磨[NEXT][S]其实实在不行了[NEXT][KEY][S]我就当个出租车司机去开个快车[KEY]	3
+[S]我还没跟你说呢 我们科有一个同事 他那天就逛他媳妇这个账号里面[NEXT][S]进去之后把他购物车的所有东西全给付了[NEXT][S]哟给他媳妇乐坏了[NEXT][S]我得跟他学学[NEXT][KEY][S]你知道咱怎么学吗[KEY]	1
+[S]正等着你[NEXT][S]那什么，处理完了，没事了吧[NEXT][T]都是你惯的[NEXT][T]没事你给他什么车[NEXT][KEY][S]没说给他就让他开一下[KEY]	3
+[T]你说我姐再怎么着[NEXT][T]我是他亲妹妹这个理儿他总知道吧[NEXT][T]那这有血缘在这[NEXT][T]他那还能分不清里外人[NEXT][KEY][S]这事可保不齐[KEY]	7
+[S]就这样吧挺好挺好[NEXT][T]什么森林大树的这不太好[NEXT][T]就这样你不懂[NEXT][T]这是文学[NEXT][KEY][S]你别发 给我[KEY]	6
+[T]是有什么政策吗[NEXT][S]我仔细给你讲讲[NEXT][T]但按你这么说 这样交贷款[NEXT][T]每天白交给银行多少钱[NEXT][KEY][S]不是白交[KEY]	7
+[T]你多大[NEXT][T]我问你[NEXT][T]你[NEXT][T]你告我今年多大了[NEXT][KEY][S]18[KEY]	0
+[S]我就几门没考好而已[NEXT][T]几门没考好而已[NEXT][T]三门不及格 理化生全班倒数第一[NEXT][T]你妈的老脸都让你给丢尽了[NEXT][KEY][S]对不起[KEY]	5
+[S]她有事啊 那可不走了吗[NEXT][T]那后面还俩菜 上不上[NEXT][S]上啊[NEXT][T]这吃得完吗[NEXT][KEY][S]吃得完[KEY]	0
+[T]那个什么，不是[NEXT][T]宋倩[NEXT][T]你把门打开一下[NEXT][T]我给孩子拿着点东西[NEXT][KEY][S]咱们说好了一个月见一次的[KEY]	2
+[S]他找我要我也得有[NEXT][T]反正我不管他要没要[NEXT][T]你得给我保证[NEXT][T]从现在开始一分钱都不能给他知道吗[NEXT][KEY][S]我是一分钱也没有听见了[KEY]	0
+[S]他 他那个时候才会失望[NEXT][S]你你你 你说这件事 我我我 我是ok的[NEXT][T]爸爸[NEXT][S]停[NEXT][KEY][S]我不是你爸爸[KEY]	7
+[T]当然[NEXT][T]樊斌你敢证明吗[NEXT][T]我敢[NEXT][T]你找我[NEXT][KEY][S]坐[KEY]	6
+[T]这没事给你抹指甲油[NEXT][T]你觉得合适吗[NEXT][S]太合适了[NEXT][S]你摸得比那个摸指甲油的小姑娘摸得都好[NEXT][KEY][S]以后实在没有工作干[KEY]	2
+[T]都各自有原因[NEXT][S]我不是想指责谁[NEXT][S]我只是想不明白[NEXT][S]你说妈怎么就突然出事[NEXT][KEY][S]他到底怎么了[KEY]	1
+[T]我们多包容一下 好不好[NEXT][S]不是我不包容[NEXT][S]你不能这么维护爸吧[NEXT][S]这是对人起码的尊重好不好[NEXT][KEY][S]好不好[KEY]	1
+[S]跟我说说[NEXT][T]蒂娜姐你说要是有一个跟你特别好的朋友要跟你绝交[NEXT][T]你会怎么办[NEXT][S]绝交[NEXT][KEY][S]这么严重谁[KEY]	1
+[T]我怎么拿[NEXT][T]我给你拿[NEXT][T]行行行，我给他拿去[NEXT][S]你说就这样的[NEXT][KEY][S]我能乐观的了[KEY]	3
+[S]你想要点什么态度[NEXT][T]电话里不好说[NEXT][T]咱们碰面聊[NEXT][S]行[NEXT][KEY][S]你请我吃饭吧[KEY]	6
+[S]哪样不花钱是不是[NEXT][S]你说没压力 我得往前看[NEXT][S]但别人给我压力[NEXT][S]早上起来童文洁就为了这穿衣服的事跟我吵一架[NEXT][KEY][S]为什么非让我穿着西装[KEY]	1
+[T]并且向我道歉[NEXT][S]你怎么那么可爱[NEXT][S]你还生气了[NEXT][S]我跟你开玩笑[NEXT][KEY][S]你还急了[KEY]	2
+[S]你们无所谓[NEXT][S]可咱爸年龄大了[NEXT][S]他的肠胃本来就不好[NEXT][S]明成 不是我说你啊 你真的应该多关心一下咱爸[NEXT][KEY][S]你记住了[KEY]	6
+[T]连你们家厕所也不让上了[NEXT][S]不是 我不是这意思[NEXT][T]你 你这不就是嫌弃我吗[NEXT][S]不是啊[NEXT][KEY][S]你看咱俩 那不还有丽丽的吗[KEY]	1
+[T]我们领导说第一件事就是关心业主[NEXT][T]但是不关心业主的隐私[NEXT][S]对[NEXT][T]您不会也是[NEXT][KEY][S]不是不是[KEY]	0
+[T]你说什么呢[NEXT][S]不是 那你 刚才我说不搬 你呲我[NEXT][S]我肯定想说那就搬[NEXT][S]我就顺着你说[NEXT][KEY][S]我顺着你说你要批评我没立场[KEY]	2
+[T]姐我只是打个比方[NEXT][T]我只是打个比方[NEXT][T]你不要胡思乱想[NEXT][S]没有胡思乱想[NEXT][KEY][S]你的比喻很恰当[KEY]	4
+[S]没事[NEXT][T]你才干了3天[NEXT][T]打碎了四个盘子[NEXT][T]这活你到底能不能干[NEXT][KEY][S]经理 对不起啊[KEY]	5
+[S]支支吾吾的 关系[NEXT][S]好 不好就是不好[NEXT][T]是挺好的[NEXT][S]老师问你[NEXT][KEY][S]他最近总是旷第一节课[KEY]	2
+[T]那依你的意思[NEXT][T]官司输了[NEXT][T]律师要给你写一份检查[NEXT][S]我不是这个意思[NEXT][KEY][S]我自己也有律师证[KEY]	7
+[S]我就是没学历[NEXT][S]但只要肯努力[NEXT][S]可以继续学[NEXT][S]可以继续考[NEXT][KEY][S]这有什么问题吗[KEY]	4
+[T]谁是冀遇[NEXT][S]冀遇是谁你都不知道[NEXT][S]罗琦的前夫罗槟的前姐夫[NEXT][T]啊就是那渣男啊[NEXT][KEY][S]创业失败能叫渣男吗[KEY]	4
+[T]你是喂牛[NEXT][T]你给我来块牛肉来瓶红酒行不行[NEXT][T]弄个剔骨[NEXT][S]你看看你那肚子[NEXT][KEY][S]你吃点草[KEY]	3
+[T]我自己开好了[NEXT][T]反正我一回去就吃药[NEXT][T]要不然今天早，我等你一会呗[NEXT][S]别等[NEXT][KEY][S]我今儿得后半宿[KEY]	2
+[T]我真是对不起我妈[NEXT][T]好了[NEXT][T]一会还上班[NEXT][T]都过去了[NEXT][KEY][S]这些都不行啊[KEY]	3
+[S]我怎么好麻烦他呀[NEXT][S]我看要不你亲自回来办吧[NEXT][T]爸[NEXT][T]明成没时间管你吗[NEXT][KEY][S]有时间管[KEY]	0
+[S]你放心以后只要是你的事[NEXT][S]我能帮一定帮[NEXT][S]我好像看到绯闻男主角[NEXT][T]你真认识他[NEXT][KEY][S]回来之前认识的[KEY]	0
+[S]我这前脚刚走[NEXT][S]你这后脚就给我整出这么大动静来了[NEXT][S]去向姥姥赔礼道歉[NEXT][T]我不去[NEXT][KEY][S]你闯这么大祸还有理了[KEY]	1
+[T]行 成成[NEXT][T]我哪有那个意思[NEXT][T]我巴不得你时时刻刻陪着我[NEXT][T]我觉得这个还可以看着很舒服[NEXT][KEY][S]你就知道挑好看的是吧[KEY]	1
+[T]依您的一贯作风绝对不会因为考试[NEXT][T]那是因为[NEXT][S]行了 你就别猜了[NEXT][S]我爸说了[NEXT][KEY][S]我以后不用参加考试[KEY]	2
+[S]不放我 我找roger 行 你走吧[NEXT][S]都在这儿 资料[NEXT][T]都在这儿[NEXT][S]小金 你以后再听到什么[NEXT][KEY][S]你还是得告诉我[KEY]	3
+[S]希望能够有在行业内各方面都资深的人来颁这个奖[NEXT][T]我没有明白您的意思[NEXT][S]他想颁奖人能不能换一换[NEXT][T]他认为我们DL的总裁没有颁奖资格[NEXT][KEY][S]不是这个意思[KEY]	0
+[S]不是，你要难死我[NEXT][S]我也只有这三板斧真的，我能把我想出主意都倾情奉献给你了[NEXT][T]我不管你现在立马想[NEXT][T]否则甭下车[NEXT][KEY][S]不是，你还想绑架我[KEY]	1
+[T]我不想得罪他[NEXT][S]我给我助理打[NEXT][S]是你给我姐出的主意[NEXT][T]您说哪一个我给您姐出了好多主意[NEXT][KEY][S]就是你最得意的[KEY]	0
+[T]行 大爷[NEXT][T]明玉昨天告诉我[NEXT][T]她不会把那件事跟爸和明成说的[NEXT][T]我觉得你应该给明玉打个电话道个歉[NEXT][KEY][S]你别为难我[KEY]	7
+[S]你干嘛 你现在给端出去[NEXT][S]一会你跟他又吵一架[NEXT][S]一大早上起来家里搞阶级斗争[NEXT][S]你别这样 先搁这 偷偷摸摸的[NEXT][KEY][S]咱回头再给他还回去 商量[KEY]	3
+[S]跟我见面的和给我老公送钱的是两个人[NEXT][S]为什么[NEXT][T]什么两个人 我不知道[NEXT][S]你不知道[NEXT][KEY][S]人是你联系的你不知道[KEY]	4
+[S]是挺好的[NEXT][S]又可以当后妈[NEXT][S]又可以当闺蜜[NEXT][S]还一举两[NEXT][KEY][S]得了[KEY]	4
+[S]最重要的就是齐齐整整[NEXT][S]整整齐齐[NEXT][S]媳妇儿 你看 这万户千家[NEXT][S]万家灯火的 你说人这一辈子图什么[NEXT][KEY][S]国泰民安[KEY]	3
+[S]不会是来追我的吧[NEXT][T]呸拜你所赐[NEXT][T]我现在要回国了[NEXT][S]我当然知道你要回国[NEXT][KEY][S]不然你怎么会在这飞机上呢[KEY]	4
+[T]我那时候跟你季叔叔[NEXT][T]我们在青岛的时候[NEXT][T]我们天天都喝[NEXT][S]阿姨不是那种咸奶茶[NEXT][KEY][S]就是我们现在特别流行的叫做海盐奶盖 没喝过吧[KEY]	1
+[S]就跟我请到派出所跟我聊聊[NEXT][S]盛情难却[NEXT][S]我就去了[NEXT][T]为什么这么晚才回来[NEXT][KEY][S]我不得医院去看看人家产妇[KEY]	4
+[T]抓紧啊[NEXT][S]你今儿是不是要上瑜伽课去[NEXT][S]什么时候走[NEXT][T]马上[NEXT][KEY][S]还是跟宋倩[KEY]	1
+[S]真的 这800块钱 我跟你讲我得到一个血的教训[NEXT][S]你看我一共发了68条微信[NEXT][S]今儿[NEXT][S]你瞅瞅[NEXT][KEY][S]回复的25条[KEY]	2
+[S]我就问你一句话[NEXT][S]你什么时候去跟大哥坦白事情[NEXT][T]永远不会去[NEXT][S]去不去[NEXT][KEY][S]你出去[KEY]	6
+[S]我知道[NEXT][S]但是你看杰西，你看我的团队我们也都辛苦了很长时间了[NEXT][T]行我都知道了[NEXT][T]还有事吗[NEXT][KEY][S]没事了[KEY]	0
+[T]刚才超市差点一巴掌呼死[NEXT][S]你别急[NEXT][S]这不是你们都还在吗[NEXT][S]等你们一走[NEXT][KEY][S]我那宝贝望远镜就要被没收了[KEY]	3
+[S]你这种心态耽误你进步[NEXT][T]我还这进什么步 说话工作就没了[NEXT][T]我现在想多吃点肉[NEXT][T]可能过段时间肉都吃不上了[NEXT][KEY][S]怎么着[KEY]	1
+[T]你没有不舒服你骗我[NEXT][T]你爸给你弄了一个秘密基地 可好玩了是吧[NEXT][T]不上学可好玩了吧[NEXT][T]你这么骗你妈可好玩了是吧[NEXT][KEY][S]我知道错了 妈[KEY]	5
+[T]学校 我妈 全部都在规定我[NEXT][T]我必须得次次都考好[NEXT][T]我觉得特别累[NEXT][S]你这样想[NEXT][KEY][S]等你到了我这个年龄[KEY]	3
+[S]老板请 咱是回家还是吃饭[NEXT][T]先回家换衣服[NEXT][T]晚上还有个饭局[NEXT][S]那是跟朋友还是生意伙伴[NEXT][KEY][S]我错了[KEY]	5
+[S]成晓峰跟你分手就对啦[NEXT][T]小北[NEXT][T]人家刚才文静要给跟你解释[NEXT][T]你为什么不听[NEXT][KEY][S]你别再跟我提韩文静了[KEY]	6
+[S]我也不知道怎么回事[NEXT][S]劈头盖脸就跟我说说要送朵朵出国[NEXT][S]我一下就懵了[NEXT][S]我说这事没人跟我说过[NEXT][KEY][S]爸也没跟我说过[KEY]	2
+[S]这么多年[NEXT][S]我确实是对不起宋倩[NEXT][S]英子我也没怎么管[NEXT][S]我对英子或多或少其实我内心是愧疚的[NEXT][KEY][S]但你说作为父亲[KEY]	3
+[S]这作家就 头一次我先接触着[NEXT][S]回到后面的你再替我去[NEXT][T]真的呀[NEXT][T]纯文学的吗[NEXT][KEY][S]对[KEY]	0
+[S]我知道我知道[NEXT][S]你不要啰里巴嗦了[NEXT][S]我这不赶上了吗[NEXT][S]我反正不会去找他的[NEXT][KEY][S]那会教这些东西的人多了[KEY]	3
+[S]他就不停的往厕所里跑[NEXT][S]最后整个人都虚脱了[NEXT][S]后来再也没有劲跟我们闹了[NEXT][T]你竟然能干出这种事[NEXT][KEY][S]那怎么了[KEY]	4
+[S]大叔[NEXT][S]你好[NEXT][S]来[NEXT][T]谢谢啊[NEXT][KEY][S]不好意思 大叔[KEY]	5
+[S]你就教教我 让我减减肚子[NEXT][S]对[NEXT][S]正好 那个[NEXT][S]油烟机这太窄了[NEXT][KEY][S]擦里面油怎么擦擦[KEY]	1
+[S]好[NEXT][T]吃别噎着[NEXT][T]慢点吃慢点吃小点口[NEXT][S]老爸[NEXT][KEY][S]你之前不是说你要搬过来吗[KEY]	1
+[S]我在这为什么喝酒[NEXT][S]借酒浇愁知道吗[NEXT][S]就是因为后悔这事[NEXT][S]好 这一晚上全耽误 全在白活[NEXT][KEY][S]我跟你讲[KEY]	3
+[S]方一凡[NEXT][S]你不要对妈妈有敌对情绪[NEXT][S]妈妈也不跟你吼[NEXT][S]妈妈就问你[NEXT][KEY][S]你好好跟妈妈说你这两个月到底怎么回事[KEY]	2
+[T]你也知道我有多喜欢航天 双语讲解[NEXT][T]这还能练口语[NEXT][S]你口语挺好的了[NEXT][S]不用这么练了[NEXT][KEY][S]英子你看高三了[KEY]	2
+[T]赵敏吧[NEXT][T]张敏[NEXT][T]演员[NEXT][T]我是说你最喜欢哪个剧中人[NEXT][KEY][S]你怎么样[KEY]	1
+[T]这是什么[NEXT][T]这叫居心不良 最重要是他明明认识我[NEXT][T]他装不认识 这叫什么[NEXT][T]这叫居心叵测[NEXT][KEY][S]不至于吧 说不定人家就是想泡你呢[KEY]	7
+[T]然后被人给下了套了[NEXT][T]他自己也不记得你那能叫出轨吗[NEXT][S]不记得就不叫了[NEXT][S]他说没有就没有了[NEXT][KEY][S]合着你是不是还想向他学习[KEY]	1
+[T]我会很高兴[NEXT][T]你真正应该道歉的是另外一件事[NEXT][S]我知道这件事给你带来很多困扰[NEXT][S]我作为他的妻子应该跟你道歉[NEXT][KEY][S]对不起[KEY]	5
+[S]你有女朋友了 好吗 啊[NEXT][S]你说这种一脚踩两船 道德败坏的事是人能干的吗[NEXT][T]那 那 要[NEXT][T]换是你 你干吗[NEXT][KEY][S]干啊[KEY]	0
+[S]是不是[NEXT][S]因为你妈住院的事[NEXT][S]我有钱[NEXT][S]我真的有钱[NEXT][KEY][S]拿着[KEY]	6
+[S]马云 啥也不用说[NEXT][S]马云 是吧[NEXT][S]姚明、黄渤[NEXT][S]这就你不需要再解释你是谁[NEXT][KEY][S]凭脸 人就知道了[KEY]	3
+[S]我懒得说，我说不过你[NEXT][S]我问你一下全国经销商大会的PPT[NEXT][S]你查了吗[NEXT][T]检查过了[NEXT][KEY][S]几遍[KEY]	1
+[T]要不咱们给这房子添点什么[NEXT][T]要不把沙发给换了怎么样[NEXT][T]老坐在电脑前累不累 来尝尝老公的如来玉指 怎么样[NEXT][T]老板 舒服吗[NEXT][KEY][S]不太舒服[KEY]	0
+[S]您问了吗[NEXT][T]好像中间有一段是高速山路还得走[NEXT][S]方圆[NEXT][S]方圆[NEXT][KEY][S]你明天要走[KEY]	1
+[T]这回他们俩是不是要分手呗[NEXT][T]你跟樊斌最近怎么样了[NEXT][T]还是不死不活的[NEXT][S]要么你死我活[NEXT][KEY][S]要么不死不活[KEY]	0
+[S]不是这谁[NEXT][T]表哥[NEXT][T]你不是大神直播吃鸡吗[NEXT][S]现在这不是有人找我吗[NEXT][KEY][S]什么时候不来[KEY]	3
+[S]我一个人住[NEXT][S]晚上也没有办法让人送我来医院[NEXT][T]没问题[NEXT][T]还有什么问题吗[NEXT][KEY][S]没有了[KEY]	0
+[S]咱爸病了[NEXT][T]什么病[NEXT][S]食物中毒 拉肚子[NEXT][T]去医院了吗[NEXT][KEY][S]你现在赶紧去看看[KEY]	6
+[S]方一凡 你看 听不见 这醉成这样还能听得见咱说话[NEXT][S]其实孩子心里明镜似的[NEXT][S]啥都知道[NEXT][S]你看 就在游泳池[NEXT][KEY][S]季杨杨学他爸爸[KEY]	2
+[S]我这个人孙不孙子[NEXT][T]你让我凭良心还是不凭良心[NEXT][S]你凭良心说[NEXT][T]凭良心我觉得你挺孙子的[NEXT][KEY][S]那你不凭良心说[KEY]	1
+[T]说到咱俩有缘分[NEXT][S]什么缘[NEXT][S]对，房子[NEXT][S]房子是吧[NEXT][KEY][S]你是房主[KEY]	2
+[S]妈妈是不是一直都支持的[NEXT][S]妈妈知道那是你的爱好和理想[NEXT][S]妈妈是愿意支持的[NEXT][S]可咱们现在高三了[NEXT][KEY][S]就别再去了[KEY]	3
+[T]梨园行里边点事[NEXT][T]她说这是一个头天死了爹妈[NEXT][T]隔天就得笑着登台的圈子[NEXT][T]你知道角儿们都是怎么出头的吗[NEXT][KEY][S]能成角儿的肯定是能忍的[KEY]	0
+[T]你说气不气人[NEXT][S]对 小童 小鬼[NEXT][S]不要闹情绪 行了[NEXT][S]你别说是请假一周休息休息 你就把工作辞了[NEXT][KEY][S]我也支持你[KEY]	3
+[S]高三遇到更年期[NEXT][S]这不就是火星撞地球吗[NEXT][S]所以我得搬回去[NEXT][S]在他们娘俩之间起到一个润滑的作用[NEXT][KEY][S]实在不行[KEY]	3
+[S]顺点没[NEXT][S]是吧 你看[NEXT][T]完了 起晚了[NEXT][T]飞机要赶不上了[NEXT][KEY][S]赶得上 怎么会赶不上 几点了[KEY]	3
+[T]别哭了[NEXT][T]妈我当然知道您对我最好了[NEXT][T]您跟我爸比起来[NEXT][T]我肯定更爱你的[NEXT][KEY][S]真的吗[KEY]	1
+[T]是吧[NEXT][T]我走了[NEXT][T]你怎么来了[NEXT][T]不是说公司好多事吗[NEXT][KEY][S]我累了[KEY]	0
+[S]开车开到半夜[NEXT][S]昨天还给咱们拉脸子发脾气[NEXT][S]刚才摔门是吧[NEXT][S]他还想让他们给他赔礼道歉[NEXT][KEY][S]是不是[KEY]	2
+[T]别怪你大哥[NEXT][T]他就是这样的一个人[NEXT][S]是我考虑不周 我不应该选在这个时间[NEXT][S]跑来打扰你们[NEXT][KEY][S]对不起啊[KEY]	5
+[S]你的卷子叠的乱乱七八糟的[NEXT][S]哪像个学生的样子[NEXT][S]我跟你说磊儿刚来好多情况不了解[NEXT][S]在家不怕有爸爸妈妈 在学校[NEXT][KEY][S]你就要多带他[KEY]	2
+[T]他刚下楼买菜[NEXT][S]碰到了[NEXT][S]差点让他发现我 要不是老爸有丰富的斗争经验[NEXT][S]老爸就上不来了[NEXT][KEY][S]化险为夷[KEY]	2
+[S]我哪敢我真是觉得这段时间你挺不容易的[NEXT][S]所以才想补偿补偿你[NEXT][S]蒂娜[NEXT][S]我上岁数了[NEXT][KEY][S]真的很多事都力不从心[KEY]	2
+[T]吃一口[NEXT][S]真不想吃[NEXT][T]怎么了[NEXT][T]你心情不好[NEXT][KEY][S]没什么[KEY]	0
+[S]再说你早更你不排卵你自己怎么知道的[NEXT][S]你不是早更，你是起早了是不是[NEXT][T]真的我有症状了[NEXT][T]今天安妮跟我说我有症状了[NEXT][KEY][S]你这样，你有什么症状[KEY]	1
+[T]也给我提了个醒[NEXT][T]其实我对孩子在学校的具体情况也不是特别了解[NEXT][T]就想问问您[NEXT][T]英子没早恋吧[NEXT][KEY][S]没有[KEY]	0
+[T]我觉得你这同学看上去没有想象的那么简单[NEXT][T]也挺拼的[NEXT][T]是不是也挺有心机的[NEXT][T]是不是[NEXT][KEY][S]你误会他了[KEY]	7
+[T]妈妈给你说点事[NEXT][S]怎么了 妈 我看你好像情绪不高[NEXT][S]是不是谁刺激你了[NEXT][S]怎么了[NEXT][KEY][S]没事吧[KEY]	1
+[S]留一份明天做[NEXT][T]妈[NEXT][T]我明天真的想去天文馆[NEXT][S]这事咱不是讨论过了吗[NEXT][KEY][S]决定的事就别讨论了好吗[KEY]	3
+[T]你跑哪去喝了[NEXT][T]你没少喝[NEXT][S]今天还真没多喝[NEXT][S]出门的时候[NEXT][KEY][S]你不是让我注意肚子吗[KEY]	2
+[S]我一件事一件事给你解释好不好[NEXT][S]先坐下[NEXT][S]听话[NEXT][S]听话[NEXT][KEY][S]今天童文洁的事我也听明白了[KEY]	2
+[S]你是嘱咐过他[NEXT][S]但他改了吗[NEXT][S]他这不又用了吗[NEXT][S]现在怎么办[NEXT][KEY][S]我用什么[KEY]	1
+[T]擒贼先擒王[NEXT][T]免得集团因为内部斗争搞得人心惶惶的[NEXT][T]哪来的狗啊[NEXT][S]流浪狗[NEXT][KEY][S]我都喂它两天了[KEY]	0
+[T]反正你也没有资格来参加妈的葬礼[NEXT][S]凭什么我没资格[NEXT][S]墓地是我买的[NEXT][S]葬礼钱是我出的[NEXT][KEY][S]你那么孝顺 妈去世到现在你出过一分钱吗[KEY]	4
+[S]挺难弄的[NEXT][S]多吃点[NEXT][S]多撕点[NEXT][T]够了 够了[NEXT][KEY][S]现在还不会断了[KEY]	2
+[S]结果一长大了[NEXT][S]每天数学物理化学[NEXT][S]语文什么英语全天天就学学这种高考好好考[NEXT][S]考完之后上一个公司到一个it公司天天在那挨踢[NEXT][KEY][S]是不是[KEY]	1
+[S]这孩子的身体 是不是 马上期中考试了[NEXT][S]尤其是紧要关头[NEXT][S]对不对[NEXT][S]这样 你看 我今天的来主要就是给英子送这作文讲座的讲义[NEXT][KEY][S]你看 我都给他带来了[KEY]	2
+[S]那耿跃呢[NEXT][S]我真的不是吓唬你[NEXT][S]你根本不知道你现在的处境是什么[NEXT][S]你也不知道你的行为会给你带来什么样的后果[NEXT][KEY][S]说实话[KEY]	6
+[S]要走也是我先走[NEXT][S]凭什么你先走[NEXT][S]上次就让你跑了是吧[NEXT][T]小北 那我这事你答应吗[NEXT][KEY][S]我考虑再说[KEY]	0
+[T]你这满头大汗[NEXT][T]你跑哪去喝了[NEXT][T]你没少喝[NEXT][S]今天还真没多喝[NEXT][KEY][S]出门的时候[KEY]	2
+[T]那你转告孟总[NEXT][T]我就在这儿等他[NEXT][S]行了[NEXT][S]这汤差不多快好了[NEXT][KEY][S]叫爸出来吃饭吧[KEY]	6
+[T]挺孙子的[NEXT][T]也挺鸡贼的[NEXT][T]对[NEXT][T]还出轨[NEXT][KEY][S]这根本就是道德品质问题[KEY]	3
+[T]你这拼反了[NEXT][T]你看这图纸是吧[NEXT][S]还真是 我说怎么安不上啊[NEXT][S]那怎么办[NEXT][KEY][S]拆了呀[KEY]	1
+[T]他现在尊重[NEXT][T]尊重咱们了吗[NEXT][T]说关门就关门[NEXT][T]说撵我们走就撵我们走[NEXT][KEY][S]小点声[KEY]	6
+[T]孩子是塞在你手里的[NEXT][T]跟我没关系[NEXT][T]更重要的是房租交给你了[NEXT][T]合同正式生效[NEXT][KEY][S]等等[KEY]	6
+[S]吃完了我还说带你去试一下那条裙子[NEXT][S]你还真是很少穿裙子[NEXT][S]现在整天穿校服[NEXT][S]像个小男孩似的可不行[NEXT][KEY][S]粉颜色喜欢吗还[KEY]	1
+[S]你就是看见他们了[NEXT][T]我就是看见了怎么了[NEXT][T]这是8楼[NEXT][T]别跳 有话好好说[NEXT][KEY][S]你小点声[KEY]	6
+[T]佳妮，下班啦，走吧[NEXT][T]早饭先吃点还热[NEXT][S]我这里临时有事了[NEXT][T]怎么了[NEXT][KEY][S]没有我们单位内科的医生[KEY]	0
+[T]每天暴露在我妈的炮火之下[NEXT][T]你知道方一凡他们家方叔叔就每天给方一凡当子弹[NEXT][T]我也想要个沙包[NEXT][S]爸爸回来了就是你的人肉沙包[NEXT][KEY][S]以后这就是咱爷俩的避难所[KEY]	3
+[S]实际上就是塑料姐妹花[NEXT][S]一碰即碎一点就着[NEXT][S]接着按[NEXT][T]别啊 这么多人不好吧[NEXT][KEY][S]我跟你说[KEY]	2
+[S]一次道歉 二次道歉[NEXT][S]三次道歉[NEXT][S]你多次 他 到他原谅你算结束这事[NEXT][S]反正你说滚刀肉无所谓的[NEXT][KEY][S]你就别挑这些理了[KEY]	3
+[T]你要真租我肯定给你留着[NEXT][T]给你打折[NEXT][S]你不让我白住[NEXT][S]那你下回好意思见我啊[NEXT][KEY][S]我好意思[KEY]	0
+[T]你自己好好看[NEXT][S]好的[NEXT][T]我先走了[NEXT][T]你也赶紧睡[NEXT][KEY][S]睡什么睡[KEY]	4
+[S]我不喜欢[NEXT][T]可今天是吃面条的日子[NEXT][S]那咱们吃别的面条好吗[NEXT][T]那吃什么面[NEXT][KEY][S]我想吃意大利面[KEY]	0
+[S]人家物业经理亲自把我送上来的[NEXT][T]有本事让他送进门[NEXT][T]你一趟趟跑[NEXT][T]你到底要干嘛[NEXT][KEY][S]英子不是喜欢天文望远镜吗[KEY]	0
+[T]那我走了[NEXT][S]看看现在成什么样子了[NEXT][S]放学不回家[NEXT][S]开车开到半夜[NEXT][KEY][S]昨天还给咱们拉脸子发脾气[KEY]	2
+[S]咱们换位思考[NEXT][S]如果是你你真的愿意接受学校这样的安排吗[NEXT][S]李老师作为年轻教师[NEXT][S]你有拼劲[NEXT][KEY][S]有闯劲[KEY]	3
+[S]他就多操一天的心[NEXT][S]你心里好受[NEXT][T]我难受[NEXT][T]可我有什么办法[NEXT][KEY][S]你发挥特长[KEY]	0
+[S]我不去[NEXT][T]你闯这么大祸还有理了[NEXT][S]张亮忠[NEXT][S]你还讲不讲理了[NEXT][KEY][S]这事要搁你生气不生气[KEY]	1
+[S]你宁可卖房子也要支持[NEXT][S]苏明成结婚你卖房子也要满足[NEXT][S]你为了这两个儿子 宁可砸锅卖铁[NEXT][S]倾家荡产也心甘情愿[NEXT][KEY][S]那我呢 你们为我呢 凭什么我想上大学家里就不肯出钱[KEY]	1
+[T]我知道你们换了课 换了老师[NEXT][T]也看到了你们的差评表[NEXT][T]因为你们的差评表 我这个月绩效都没有合格[NEXT][S]对[NEXT][KEY][S]是我们给你打的[KEY]	2
+[S]没空[NEXT][T]看电影的时间总有吧[NEXT][S]真没有[NEXT][T]你干嘛去[NEXT][KEY][S]我干嘛去要跟你汇报吗[KEY]	1
+[S]那杂志 杂志也搁回去[NEXT][T]杂志不搁[NEXT][S]我跟你说[NEXT][S]我跟你说 你这[NEXT][KEY][S]少年维特有烦恼[KEY]	3
+[T]我们是有1/4血缘关系的兄弟[NEXT][T]我们是兄弟[NEXT][S]你要照顾好他[NEXT][S]你不需要那么清楚的了解他[NEXT][KEY][S]但是你要带他清楚的了解学校听明白没有[KEY]	3
+[S]请人帮忙[NEXT][T]行行你等人回吧[NEXT][S]我跟你说[NEXT][S]方一凡艺考的事儿就此打住吧[NEXT][KEY][S]你看看人王一笛 说跳舞就跳[KEY]	3
+[S]我成全你咱就拉倒[NEXT][T]你再说一遍[NEXT][T]你再给我说一遍[NEXT][S]不过就拉倒[NEXT][KEY][S]听明白了[KEY]	1
+[S]下班早是不是容易神经[NEXT][T]干什么[NEXT][S]你先安静一下[NEXT][S]你当妈的跟孩子还真吵架[NEXT][KEY][S]你先冷静冷静[KEY]	6
+[S]他先回来了[NEXT][S]在一个屋檐下你跟他慢慢接触[NEXT][S]到时候他跟弟弟妹妹再一玩[NEXT][S]大孩还是喜欢小小孩[NEXT][KEY][S]时间长了日久生情[KEY]	2
+[S]以后少惹事[NEXT][S]没超标吧[NEXT][T]超不超标的是咱自己花钱什么好担心的[NEXT][S]英语还不错[NEXT][KEY][S]这物理怎么考这么差[KEY]	1
+[S]你们把孩子送第一小学[NEXT][T]就不知道你们家有没有认识这种相关的这些人[NEXT][S]我觉得吧 有一个人他准能搞定[NEXT][T]真的 谁啊 你认识吗[NEXT][KEY][S]我们家肯定不认识[KEY]	0
+[T]你说这安妮家啊情况这么好[NEXT][T]条件这么好[NEXT][T]结果孩子碰上这种事儿真是，这美国真够呛[NEXT][S]这也是个别现象[NEXT][KEY][S]你就因为人一校园暴力把人整个教育制度都给否定了[KEY]	2
+[S]正好 中午咱们旁边酒店自助餐98一位[NEXT][T]两个人加起来100[NEXT][T]想美事呢[NEXT][S]老大[NEXT][KEY][S]大气[KEY]	4
+[T]行了 你就别猜了[NEXT][T]我爸说了[NEXT][T]我以后不用参加考试[NEXT][S]不用考试[NEXT][KEY][S]这么好的事[KEY]	1
+[S]来坐坐[NEXT][T]好好[NEXT][S]来请坐[NEXT][T]好勒[NEXT][KEY][S]让您跑一趟[KEY]	2
+[T]不然还不一定能谈下来[NEXT][T]小北 他还能谈业务[NEXT][T]他的一个朋友是公关的[NEXT][T]最近工作室生意怎么样[NEXT][KEY][S]最近还行[KEY]	0
+[S]现在才想起来关心[NEXT][T]真没看清楚[NEXT][T]两个多月过去了[NEXT][T]他的成绩有没有在提高[NEXT][KEY][S]现在还没考试[KEY]	2
+[T]斯黛拉几个小时前跟我谈过[NEXT][T]希望我支持他当公司的新的总裁[NEXT][T]斯黛拉一直都是公司的中流砥柱[NEXT][T]于情于理我觉得他都应该是[NEXT][KEY][S]天哪 对不起[KEY]	5
+[T]两人我跟谁跟学生周佳成[NEXT][T]以前不都是男搭配[NEXT][T]女女搭配吗[NEXT][T]今天怎么男女搭配了[NEXT][KEY][S]你怎么永远说什么都是男男女女都永远联系到这儿来[KEY]	1
+[S]年轻的时候我就是想先把业立起来[NEXT][S]踏踏实实的为老百姓做点事[NEXT][S]可是到了这个岁数回过头来想一想[NEXT][S]业是立起来了[NEXT][KEY][S]可是自己儿子差点都不认我了[KEY]	3
+[T]我跟外边吃了[NEXT][T]你甭管我了[NEXT][T]挂了啊[NEXT][T]怎么了[NEXT][KEY][S]嫌我们饭开晚了[KEY]	0
+[S]那是我的屋[NEXT][S]他怎么躺下啦[NEXT][S]我告诉你 夏峰[NEXT][S]让这个醉鬼赶紧离开我家[NEXT][KEY][S]有多远滚多远[KEY]	6
+[T]不是说公司好多事吗[NEXT][S]我累了[NEXT][T]怎么这么累[NEXT][T]没睡好[NEXT][KEY][S]身心疲惫[KEY]	0
+[S]比如说你 马化腾 还用介绍你是谁吗[NEXT][S]你换一人[NEXT][S]你比如说马诞腾[NEXT][S]不是 不是那蛋[NEXT][KEY][S]马诞腾 马年诞生必定飞腾[KEY]	3
+[T]怎么突然之间180度大转弯[NEXT][S]离180度大转弯还有很长的路[NEXT][S]不过刚刚确实拐了一个小弯[NEXT][S]去车场了解杨杨的喜好[NEXT][KEY][S]这一招确实很有效果[KEY]	3
+[T]喂 妈[NEXT][T]干啥子 出啥子事情了[NEXT][T]妈 你不要哭[NEXT][T]你慢慢说[NEXT][KEY][S]你弟弟酒后跟人家打架[KEY]	0
+[T]就想请你帮我们大概的说明一下[NEXT][T]如果你方便的时候给我回个信息[NEXT][T]感谢[NEXT][S]行 你这发给唠叨王[NEXT][KEY][S]你是啰嗦童[KEY]	3
+[T]当然了[NEXT][T]现在也不是怕[NEXT][T]我是尊重你[NEXT][S]你现在的生活我们从来都不打扰[NEXT][KEY][S]那是你的生活对吧[KEY]	3
+[S]乳腺增生、激素紊乱[NEXT][S]宫寒体虚[NEXT][S]这是什么[NEXT][T]什么呀[NEXT][KEY][S]单身病啊[KEY]	0
+[T]你不上网不上微博[NEXT][T]这件事情都已经炸锅了[NEXT][S]自打那次打开电脑看见老刘和蓝馨的照片[NEXT][S]我现在就不愿意碰电脑[NEXT][KEY][S]你快说吧[KEY]	6
+[S]这不就等于是把海科往死胡同逼吗[NEXT][T]那好可惜[NEXT][T]看来这次他们只能遣散员工宣布破产了[NEXT][T]你还在研究海科的案子[NEXT][KEY][S]是[KEY]	0
+[T]是[NEXT][S]表哥 数学 数学[NEXT][T]在这儿数学在这儿唉[NEXT][S]对[NEXT][KEY][S]你这些抄了一堆废话[KEY]	3
+[S]小北[NEXT][S]咱们俩这辈子[NEXT][S]男女朋友肯定是当不成了[NEXT][S]但只要你有事说话[NEXT][KEY][S]哥们 咱们办 完了呗 干 你慢点 回来[KEY]	6
+[S]我们家英子今年高三[NEXT][S]宋倩又更年期[NEXT][S]高三遇到更年期[NEXT][S]这不就是火星撞地球吗[NEXT][KEY][S]所以我得搬回去[KEY]	3
+[S]我在外面吃龙虾[NEXT][T]内部消息有一批新的理财商品马上上市[NEXT][T]打新股可是来钱最快的投资方法[NEXT][T]你要不要买进[NEXT][KEY][S]当然 当然买[KEY]	0
+[S]我给你存[NEXT][T]你 你是不是想把那钱要回去[NEXT][S]没有啊[NEXT][T]那你什么意思[NEXT][KEY][S]没什么意思[KEY]	0
+[T]送充电宝一回[NEXT][T]送蓝牙耳机一回[NEXT][T]今天又来送什么[NEXT][T]放眼镜你自己说说看你这个月见她多少次了[NEXT][KEY][S]五六回[KEY]	0
+[S]你怎么来了[NEXT][T]早就想来了[NEXT][T]我看你们老板还欺不欺负你[NEXT][T]今天怎么样[NEXT][KEY][S]还行[KEY]	0
+[S]你看你都这么大个人了[NEXT][S]你要是真的不想出国的话[NEXT][S]你死活都不肯去[NEXT][S]难不成[NEXT][KEY][S]你爸还能把你绑起来[KEY]	1
+[T]你看你看像不像他，这样[NEXT][S]你少跟我贫啊[NEXT][S]这招是没用的[NEXT][S]方圆[NEXT][KEY][S]咱们俩平心而论[KEY]	2
+[T]说什么了[NEXT][S]你说说什么了[NEXT][T]什么时候跟我说了[NEXT][S]我昨天晚上跟你说得好好的[NEXT][KEY][S]你都答应了的[KEY]	0
+[T]我给你发定位[NEXT][T]你叹什么气啊[NEXT][T]外面弄干净没[NEXT][T]还有味儿没[NEXT][KEY][S]搞了三遍[KEY]	0
+[T]我一哭二闹三上吊也都不管事[NEXT][S]一哭二闹三上吊[NEXT][S]在你妈不管用[NEXT][S]早年间我都试过了[NEXT][KEY][S]你不是星期六吗[KEY]	1
+[T]这老美外国人什么口味这难说[NEXT][T]这万一佳妮真把琴琴带走了[NEXT][T]他可是你的心肝宝贝[NEXT][T]你能舍的[NEXT][KEY][S]门都没有[KEY]	7
+[S]这雷谁抗啊[NEXT][S]回头宋倩问起来了[NEXT][S]那知道了[NEXT][S]你怎么说的清楚[NEXT][KEY][S]不行[KEY]	7
+[S]我就跟你讲 我 我现在都 都不敢往那方面想[NEXT][S]你说珊珊要知道这事[NEXT][S]我估计我我这辈子就别想再有儿子了[NEXT][T]那你打算怎么办[NEXT][KEY][S]扛着呗 能怎么办呀[KEY]	0
+[S]跟他好好聊一聊[NEXT][S]注意注意方式方法[NEXT][S]对吧把握一下分寸[NEXT][S]咱们还是慢慢引导的[NEXT][KEY][S]行不行[KEY]	1
+[S]也不是个事儿[NEXT][T]今天就算了[NEXT][T]让他好好反省[NEXT][S]你是不是哪不舒服[NEXT][KEY][S]这两天光想着儿子了[KEY]	1
+[S]你早点休息[NEXT][T]杨杨[NEXT][T]我饿了[NEXT][T]做点宵夜你吃吗[NEXT][KEY][S]吃[KEY]	0
+[T]我太没有耐心了[NEXT][T]我不该跟你较劲[NEXT][T]我错了[NEXT][S]没事[NEXT][KEY][S]我醒了 好多了[KEY]	3
+[S]我绝对让他成为英语学霸[NEXT][T]你英语肯定是好[NEXT][T]但是但是你去当家教[NEXT][T]我怎么给你算课时费都没法算[NEXT][KEY][S]算什么课时费免费[KEY]	0
+[S]今天[NEXT][T]说说什么啊？[NEXT][S]你说说什么[NEXT][T]爸爸都跟你说了[NEXT][KEY][S]爸爸跟我说是爸爸跟我说[KEY]	2
+[S]您不是说让我出来放松[NEXT][T]我是让你放松[NEXT][T]可一个电影看两遍 闲的[NEXT][T]这有意义吗[NEXT][KEY][S]这怎么没意义了[KEY]	3
+[S]不不不 没有[NEXT][S]我发了工资就还你[NEXT][T]这样不好吧[NEXT][T]你不是没钱吗[NEXT][KEY][S]有有 有钱[KEY]	0
+[S]妈我真的随口一说[NEXT][T]没事[NEXT][T]你赶快得抓紧时间[NEXT][S]我吃您做了就行了[NEXT][KEY][S]真不用[KEY]	3
+[T]你按按这中间我不教给你这叫[NEXT][T]你这叫檀中穴按揉一会儿[NEXT][S]我不生气[NEXT][S]我真的生气[NEXT][KEY][S]你别弄我[KEY]	6
+[S]菜市场在哪老爸也不是不知道[NEXT][S]一来一去最少20多分钟[NEXT][S]吃吧[NEXT][T]好吧[NEXT][KEY][S]多吃点啊[KEY]	6
+[S]你不是希望她将来有出息吗[NEXT][S]这美国读完书什么样的工作找不着[NEXT][S]即便是他选择回国，那也是海归[NEXT][T]不成[NEXT][KEY][S]为什么[KEY]	1
+[S]你约他了 他没给你犯浑吧[NEXT][T]我跟他说了[NEXT][T]什么嫁老外这些话都是我在气头上说的[NEXT][T]跟你没关系[NEXT][KEY][S]姐你干嘛这么说[KEY]	7
+[S]咱们家谁说了算[NEXT][S]我说了算还是你说了算[NEXT][S]你这学习的事儿每天妈妈那么上火[NEXT][S]你还弄一小狗回来分心[NEXT][KEY][S]妈妈能同意吗你觉得[KEY]	1
+[S]我当年听着要舒服[NEXT][S]我们俩也就不会离婚了[NEXT][S]离婚的家庭[NEXT][S]孩子心里都脆弱[NEXT][KEY][S]英子懂事[KEY]	3
+[S]还有金融大佬群[NEXT][S]这几个群里 我1个群里扔了一两百块钱红包[NEXT][S]4个群扔了800[NEXT][T]他们反应激烈吗[NEXT][KEY][S]相当激烈[KEY]	0
+[T]我发现你今天穿这个[NEXT][T]黄的衣服特别像一个大香蕉[NEXT][S]你别跟我贫，跟我贫没有用的[NEXT][T]不是人家爱因斯坦以前还考试不及格[NEXT][KEY][S]爱因斯坦不及格这事儿[KEY]	2
+[S]你说我 我们家的情况你也知道[NEXT][S]这么多年一个 一个帮我一把的人都没有[NEXT][S]我这忙里忙外的就是为了英子[NEXT][S]我觉得这些年 我都快成个老妈子了[NEXT][KEY][S]跟在英子后头伺候他[KEY]	3
+[T]但是你一定得让他按剂量 吃多了可不行[NEXT][T]我上课去了[NEXT][T]拜拜[NEXT][S]乔卫东 你说咱俩这每周一歌二人世界[NEXT][KEY][S]你上个礼拜请我吃那白莲花[KEY]	2
+[S]你别管这消息来源不重要[NEXT][S]重要的是出了问题怎么解决[NEXT][T]好[NEXT][T]我听着你说[NEXT][KEY][S]坐[KEY]	6
+[T]我知道你快生日了[NEXT][T]你爸爸那个人我还不了解[NEXT][T]投其所好[NEXT][T]知道你喜欢这个肯定会给你买[NEXT][KEY][S]那你不生气我[KEY]	1
+[T]准备过来帮帮他[NEXT][S]您不来帮他忙了[NEXT][S]手感不错吧[NEXT][S]这个可是我妈为了我的高三 给我装的隔音墙[NEXT][KEY][S]据说这隔音量[KEY]	2
+[T]还是跟他低个头[NEXT][T]服个软[NEXT][S]我凭什么服软[NEXT][S]我又没做对不起他的事[NEXT][KEY][S]你说姐这两口子吵架是不是再正常不过的事了[KEY]	1
+[T]你呀 你这个脑袋[NEXT][S]我也不知道我是怎么了[NEXT][S]脑袋一热就都给说出来[NEXT][S]这可怎么办[NEXT][KEY][S]我之前还要你们帮我保密[KEY]	2
+[S]吃我那么多顿饭了[NEXT][S]还活蹦乱跳[NEXT][S]就差这一晚上[NEXT][S]行了[NEXT][KEY][S]赶紧走吧[KEY]	6
+[T]化险为夷[NEXT][S]这要让她碰到了[NEXT][S]估计连我都得唠叨一顿[NEXT][T]快吃[NEXT][KEY][S]相册[KEY]	2
+[S]老季[NEXT][S]我得跟你说对不起[NEXT][S]这事我不应该瞒着你[NEXT][T]到底是哪出了问题[NEXT][KEY][S]乳腺 已经做了钼靶的检查[KEY]	0
+[T]喝完了抓紧时间做题了[NEXT][T]好不好[NEXT][T]抓紧啊[NEXT][S]你今儿是不是要上瑜伽课去[NEXT][KEY][S]什么时候走[KEY]	1
+[S]这关键有[NEXT][S]这法拉利的事 你知道 季胜利忙了一辈子就忙这事儿[NEXT][S]对不对[NEXT][S]这是人家仕途 你弄这么个事[NEXT][KEY][S]你说这将来是官怎么当人将来[KEY]	3
+[T]我跟他说好了[NEXT][T]他下一次的成绩一定要比这一次的成绩好[NEXT][T]我才给他签的[NEXT][S]他答应你了[NEXT][KEY][S]他的话你也信[KEY]	1
+[T]还有事[NEXT][S]没事[NEXT][S]您做饭吧[NEXT][T]你有什么特别想吃的东西吗[NEXT][KEY][S]您做什么我都爱吃[KEY]	0
+[T]我就跟这等你半个小时之内你要没出来[NEXT][T]就说明已经破镜重圆了[NEXT][T]没准趁他上班之前[NEXT][T]你们还能把洞房补上[NEXT][KEY][S]滚[KEY]	6
+[S]是吧[NEXT][S]但是你有没有想过[NEXT][S]咱现在搬到那边[NEXT][S]学校那边就算是叫学区房[NEXT][KEY][S]一个月房租怎么也得一万五[KEY]	2
+[S]就会认为他耽误学习[NEXT][S]给他没收了[NEXT][S]所以他就交给方一凡[NEXT][S]这不一雷[NEXT][KEY][S]方一凡也怕他妈 就给藏床底下了[KEY]	3
+[T]你不吃饭[NEXT][S]我不吃了[NEXT][S]这不刚汇总完语文吗[NEXT][S]我赶紧把下午那数学[NEXT][KEY][S]卷子捋一下[KEY]	2
+[T]你别瞒着我怎么回事[NEXT][S]我批评他了[NEXT][S]我已经严肃的批评他了[NEXT][S]他不应该这样[NEXT][KEY][S]对不对[KEY]	1
+[S]你不是想吃一披萨吗[NEXT][S]我给你买回来了[NEXT][S]我给你点了一新的[NEXT][S]成了 生这么大气[NEXT][KEY][S]别生气了[KEY]	3
+[T]行了[NEXT][T]您不来烦我我就谢天谢地了[NEXT][S]我不就看你不开心吗[NEXT][S]我想[NEXT][KEY][S]别不开心了 英子[KEY]	3
+[T]他不是租咱家房吗[NEXT][T]暖气一直不太热[NEXT][T]我说去看看[NEXT][T]现在好点了吗[NEXT][KEY][S]没注意[KEY]	0
+[T]方圆儿你能不能有点立场[NEXT][T]我一吓唬你 你就变[NEXT][T]一会同意搬一会不同意[NEXT][T]你墙头草啊[NEXT][KEY][S]我怎么办[KEY]	1
+[T]也怕爸爸不开心[NEXT][S]来[NEXT][S]英子[NEXT][S]下次要再遇见这样的事[NEXT][KEY][S]你得直接告诉妈妈[KEY]	3
+[T]为什么出什么事儿[NEXT][S]先别问我为什么你干嘛自个儿把自个儿跟老婆吵架了[NEXT][T]没吵架[NEXT][T]闹点小别扭[NEXT][KEY][S]怎么了[KEY]	1
+[T]你得老老实实的给我回答[NEXT][T]你跟鲍家明真的睡错过床[NEXT][S]是的[NEXT][T]鲍家明大闹发布会的照片是你的[NEXT][KEY][S]是我U盘上的[KEY]	0
+[S]有什么事什么话老师都在里边说[NEXT][S]要不然我把你加进去[NEXT][T]等等[NEXT][T]这个群里有多少人[NEXT][KEY][S]五六十人[KEY]	0
+[T]你这突然一下子那么剧烈的运动[NEXT][T]不太好的 对身体[NEXT][S]真的不行了[NEXT][S]你看我这身汗 到现在还没落[NEXT][KEY][S]我估计我可真是三高了[KEY]	3
+[T]像今天一样[NEXT][S]回来了[NEXT][T]回来了[NEXT][T]杨杨呢[NEXT][KEY][S]你也不看现在都几点了[KEY]	0
+[S]我工作也没了[NEXT][S]樊姐[NEXT][T]我同情你[NEXT][T]怎么起得这么早啊[NEXT][KEY][S]我睡不着[KEY]	0
+[T]这蹲班的事到底怎么说呢[NEXT][S]蹲班的确实还是挺丢脸的事[NEXT][S]我路上其实都已经琢磨明白了[NEXT][S]这蹲班搁以前都是什么[NEXT][KEY][S]学习不好的二傻子二愣子对吧[KEY]	3
+[S]我这熟我们每天上下午都知道[NEXT][T]太好了[NEXT][T]还有一件事[NEXT][T]待会能不能请您帮我写一个书面的证明[NEXT][KEY][S]没问题[KEY]	0
+[T]好[NEXT][T]我说不过你[NEXT][T]你爱穿什么穿什么[NEXT][T]老师[NEXT][KEY][S]老师问你个事[KEY]	1
+[S]你知道吗[NEXT][S]我到处跟人说[NEXT][S]我们家英子是好孩子[NEXT][S]是妈妈的骄傲[NEXT][KEY][S]你怎么能做出这种事[KEY]	1
+[T]爷爷奶奶爸爸 乔爸爸[NEXT][T]上次我真不是故意的[NEXT][T]我没想到我妈反侦能力那么强[NEXT][S]我说你是不是猪队友 托你办这么点事你都办不好 你都不知道[NEXT][KEY][S]我一回家[KEY]	2
+[T]那我还能说什么[NEXT][T]我就知道你是最了解我的[NEXT][T]爸[NEXT][T]回来了[NEXT][KEY][S]回来了[KEY]	0
+[T]你也要给他[NEXT][S]18岁[NEXT][S]我都谈恋爱了[NEXT][S]18岁[NEXT][KEY][S]不是[KEY]	3
+[S]最主要的问题是妈妈觉得你现在所有的时间应该对付中考[NEXT][S]这中考是最重要的[NEXT][S]你说要是我的女儿现在就已经是畅销小说作家了[NEXT][S]就已经是作家[NEXT][KEY][S]你说妈妈能不高兴吗[KEY]	1
+[T]你一趟趟跑[NEXT][T]你到底要干嘛[NEXT][S]英子不是喜欢天文望远镜吗[NEXT][S]今儿货到了[NEXT][KEY][S]我给孩子把货送过来[KEY]	2
+[T]那您出国游玩也会需要啊[NEXT][T]真的可以考虑一下 我们价格很优惠的[NEXT][S]不是 你就一定要推销个什么给我是不是啊[NEXT][S]是不是[NEXT][KEY][S]这课怎么卖啊[KEY]	1
+[T]你尝一尝[NEXT][T]那不是坚果[NEXT][T]你就来 综合的[NEXT][T]我不吃 血糖高[NEXT][KEY][S]听我家笛笛说[KEY]	2
+[T]那你就随便好了[NEXT][T]我支持你随便[NEXT][T]开玩笑[NEXT][T]在外人面前你怎么跟我这样说话[NEXT][KEY][S]谁是你妈[KEY]	7
+[S]怎么回事[NEXT][T]没事[NEXT][T]就小孩子打打闹闹的[NEXT][T]老师都已经解决了[NEXT][KEY][S]你还是要提醒他[KEY]	6
+[S]北京这么好，这么多好的重点高中[NEXT][S]北大附中、101、4中随你考[NEXT][S]只要你成绩好[NEXT][S]行了，别说了[NEXT][KEY][S]别说了也别想了[KEY]	6
+[T]想的还挺周到[NEXT][S]不客气 对了对了[NEXT][S]过来过来[NEXT][T]干嘛[NEXT][KEY][S]还有些事[KEY]	0
+[T]这么快[NEXT][T]那不是都得先谈谈的吗[NEXT][S]长痛不如短痛不健康的婚姻[NEXT][S]你就得最好把它给结束掉[NEXT][KEY][S]对吧[KEY]	1
+[S]刚进屋换身衣服吃个面条[NEXT][S]沙发没坐热乎[NEXT][S]电视刚打开[NEXT][S]对[NEXT][KEY][S]你饿不饿[KEY]	1
+[S]你觉得不缺德呀[NEXT][T]我觉得不缺德[NEXT][T]你的意思是告诉他蒂娜怀孕了[NEXT][S]你跟他说，这必须你跟他说，你要是不能说别人说你就被动了[NEXT][KEY][S]这是一个让你做好人的机会[KEY]	2
+[T]在这儿数学在这儿唉[NEXT][S]对[NEXT][S]你这些抄了一堆废话[NEXT][S]你看其实老师的板书是对的[NEXT][KEY][S]但是你不能全抄[KEY]	3
+[T]做梦吧她[NEXT][S]是苗锦自己要求的[NEXT][S]你现在让戴曦来你家[NEXT][T]怎么了[NEXT][KEY][S]没怎么律所现在很多人在传你们的闲话[KEY]	0
+[T]别跟你妈这样说话[NEXT][S]我不跟她说跟你说 跟你说有用吗[NEXT][T]不是 你别冲我来[NEXT][S]爸你别走 我没说完呢[NEXT][KEY][S]你连自己都保护不好[KEY]	1
+[T]金圣手[NEXT][T]你说说你都结婚7年了[NEXT][T]你再不开花结果你可[NEXT][S]闭嘴[NEXT][KEY][S]吃饭[KEY]	6
+[T]要不然咱就上他的课[NEXT][S]对我也是一看他挺有眼缘的[NEXT][S]所以我看了一下这馆里其他老师的课[NEXT][S]我觉得他的课最好[NEXT][KEY][S]咱以后就上她的[KEY]	3
+[T]你千万不要告诉小北好吗[NEXT][S]起来[NEXT][S]坐下[NEXT][S]把你和[NEXT][KEY][S]6颗星的事情 原原本本给我说清楚了[KEY]	6
+[S]我希望最近多多和你在一起[NEXT][T]一会我自己打车回去[NEXT][T]你累了一天了[NEXT][T]早点回去休息[NEXT][KEY][S]那怎么行[KEY]	4
+[S]说 体检的事儿 得的什么病[NEXT][T]医院误诊[NEXT][S]走[NEXT][T]去哪儿[NEXT][KEY][S]去医院[KEY]	0
+[S]最近累了[NEXT][S]小梦最近一直想要孩子[NEXT][T]好事[NEXT][S]你想想[NEXT][KEY][S]我今年45[KEY]	2
+[S]你作为一个大男人[NEXT][S]你别老给女人置气成吗[NEXT][S]这个时候你得给她个台阶下[NEXT][S]要不她怎么回来呀[NEXT][KEY][S]好意思吗[KEY]	1
+[T]不是早恋[NEXT][T]我说就是有个男孩[NEXT][T]那男孩跟他关系不错[NEXT][S]那男孩叫什么名字你知道吗[NEXT][KEY][S]他父母是哪的[KEY]	1
+[T]你们两个好不容易结的婚就这么离了[NEXT][S]这次我是铁了心了[NEXT][T]小北[NEXT][T]你不能因为一件事情而否定一个人[NEXT][KEY][S]提他干嘛[KEY]	4
+[T]以后每天早上都有够你喝的 快[NEXT][S]每天早上都有[NEXT][T]赶紧的[NEXT][S]媳妇 几点了[NEXT][KEY][S]几点了[KEY]	1
+[T]等你朋友来了再上可以吗[NEXT][S]我要就不[NEXT][T]您看你的点了两个多小时[NEXT][T]点一个这个[NEXT][KEY][S]你们这价钱还可以[KEY]	4
+[S]干嘛我不要[NEXT][T]不是所有的事情都能够用钱解决100就够了[NEXT][S]装清高[NEXT][T]吃点什么[NEXT][KEY][S]来瓶啤酒[KEY]	0
+[T]吓死我了[NEXT][S]这样阿姨眼下就有一个秘密[NEXT][S]阿姨今天要去医院做个小手术[NEXT][S]但是没跟你季叔叔和杨杨讲[NEXT][KEY][S]我跟他们说我要去南京出差[KEY]	2
+[T]你给我说[NEXT][T]你现在生一孩子怎么就对英子是背叛了什么意思[NEXT][S]你生的是儿子[NEXT][S]你不了解这闺女和父亲之间的情感[NEXT][KEY][S]这个闺女是爸爸的前世小情人[KEY]	2
+[T]英子高三了[NEXT][T]英子 这不是高考了[NEXT][T]孩子紧张[NEXT][T]我在这想让他放松[NEXT][KEY][S]要不然我搬过来得了[KEY]	3
+[T]尤其是我 负面新闻官司缠身[NEXT][S]我不同意你辞职[NEXT][S]但我同意你休假[NEXT][S]休假期间工资奖金照发[NEXT][KEY][S]签字[KEY]	6
+[T]要不喝口水[NEXT][T]给你倒杯水[NEXT][S]没事[NEXT][S]我妈走了[NEXT][KEY][S]今天咱们什么计划[KEY]	1
+[T]把饭吃了再说[NEXT][T]你压力大[NEXT][T]我压力才大[NEXT][T]alexander懂不懂[NEXT][KEY][S]开门[KEY]	6
+[S]我还给你准备了一套[NEXT][S]稍微难一点我带你做[NEXT][S]英子[NEXT][T]又怎么呢[NEXT][KEY][S]你爸给你买的零食在那[KEY]	2
+[S]本科率对不对[NEXT][S]你也带了这么多年的高三教学成绩可以说是有目共睹[NEXT][S]作为校长[NEXT][S]我应该特别感谢你的付出和努力[NEXT][KEY][S]但是我也希望你能明白一点[KEY]	3
+[S]不过就他那样的[NEXT][S]估计不能被剩下来[NEXT][S]你不会打算真把他培养成你未来孩子的爹[NEXT][T]不是打算 已经决定了就他了[NEXT][KEY][S]得了吧[KEY]	7
+[S]你照顾好小咪[NEXT][T]放心吧 快进去[NEXT][T]自己注意安全[NEXT][S]苏明玉 你到底是怎么回事[NEXT][KEY][S]为什么妈出事的时候[KEY]	1
+[S]他现在没有成为坏分子[NEXT][S]他是介于好分子跟坏分子之间[NEXT][S]这就是学校担心的地方[NEXT][S]所以跟咱商量是不是要蹲一年的班[NEXT][KEY][S]蹲一年班给你一年时间[KEY]	3
+[T]回来了 你还真有心 买了束花回来[NEXT][S]专门买的[NEXT][S]咱们一家三口好不容易团聚 庆祝庆祝[NEXT][S]现在不是提倡什么生活仪式感[NEXT][KEY][S]年轻的东西 我搞得不大懂[KEY]	3
+[S]妈[NEXT][S]还有什么事吗[NEXT][T]没什么事[NEXT][T]那部蚁人 你还没看过吧[NEXT][KEY][S]没看[KEY]	0
+[S]你说[NEXT][S]你儿子干的这叫什么事[NEXT][S]你说他这是干什么[NEXT][S]这不捣乱吗 在这[NEXT][KEY][S]真是气死人了真是[KEY]	3
+[S]老爸永远站在你这头[NEXT][S]我支持你所有的爱好[NEXT][S]不过话又说回来了[NEXT][S]你现在高三了[NEXT][KEY][S]老爸也不想让你在学习上分心[KEY]	3
+[S]他们家是不是仗着人多压你[NEXT][T]我想了一下[NEXT][T]如果真的一年不上学的话[NEXT][T]问题也挺多的[NEXT][KEY][S]你给我闭嘴[KEY]	6
+[T]站好[NEXT][T]深呼吸[NEXT][T]转一圈[NEXT][T]有没有觉得心情舒畅了一些[NEXT][KEY][S]好像没什么感觉[KEY]	0
+[S]我们作为老师[NEXT][S]只是给个建议[NEXT][S]毕竟确实是一个能上一本院校的一个捷径[NEXT][T]我们也知道[NEXT][KEY][S]这已经11月份了[KEY]	2
+[S]我们当着老师的面把这个事情正式处理了[NEXT][T]怎么说着说着就跑老师那去了[NEXT][T]您不会还要请校长[NEXT][T]干吗[NEXT][KEY][S]你先停一下[KEY]	6
+[T]温文尔雅的[NEXT][T]要是我能跟他 是不综合就好了[NEXT][T]综合什么[NEXT][T]英子 快进来[NEXT][KEY][S]没人吧[KEY]	1
+[T]妈我有个问题[NEXT][T]您觉得学历重要还是真本事重要[NEXT][S]真本事重要[NEXT][S]但是你先拿你的真本事给妈妈对付的学历[NEXT][KEY][S]你只要考上大学[KEY]	3
+[S]咱这样多好[NEXT][S]有什么事说开了[NEXT][S]你说还有什么要说的[NEXT][T]还是算了 好尴尬[NEXT][KEY][S]为什么 说[KEY]	6
+[S]我不是你妈[NEXT][T]妈，我错了[NEXT][S]你没错[NEXT][S]我错了[NEXT][KEY][S]我为什么要生你[KEY]	4
+[S]大哥 你的想法我都理解[NEXT][S]但时代不一样了[NEXT][S]家庭观念也不一样[NEXT][S]就算是亲兄妹[NEXT][KEY][S]那又怎么样呢[KEY]	1
+[T]我打了多少电话找多少人[NEXT][T]才帮你搞定[NEXT][T]你哪都不许去[NEXT][T]必须在这给我结[NEXT][KEY][S]我错了[KEY]	5
+[S]他一天到晚哼这歌[NEXT][S]我就从他那听到的[NEXT][T]暗恋是一件很美的事情[NEXT][T]你就放轻松一点[NEXT][KEY][S]我怎么放轻松[KEY]	1
+[T]总想着让别人能过得好一点[NEXT][T]我当然要支持你了[NEXT][T]我从来都没有怪过你[NEXT][T]起这么早[NEXT][KEY][S]这才几点怎么不多睡会儿[KEY]	1
+[S]如果林师兄真的喜欢你也不是什么坏事[NEXT][T]可我不确定我喜不喜欢他[NEXT][T]他会不会误会[NEXT][S]他误会你什么[NEXT][KEY][S]对不起 小关[KEY]	5
+[T]你赶紧去我准你假[NEXT][S]这有这么严重吗[NEXT][T]你今天就得去你听我的[NEXT][S]好那行[NEXT][KEY][S]行，那我把这交到公司[KEY]	2
+[S]18岁了[NEXT][T]好好[NEXT][T]你看看[NEXT][T]这是你儿子吧[NEXT][KEY][S]对[KEY]	0
+[S]我说小宇[NEXT][S]你是不是觉得爸爸现在把你当成一个大麻烦[NEXT][S]想把你踢的越远越好[NEXT][S]你错了[NEXT][KEY][S]今儿晚上[KEY]	1
+[T]你放心 爸去美国之前[NEXT][T]我跟丽丽一定把他养的白白胖胖的[NEXT][T]还是本地包子好吃[NEXT][T]明哲 我要去了美国是不是就吃不着了[NEXT][KEY][S]在美国有很多的中餐厅[KEY]	0
+[S]让你们跟着难受[NEXT][S]你的工作那么特殊 现在都是在节骨眼上的[NEXT][S]我得考虑大局[NEXT][T]什么时候出结果[NEXT][KEY][S]前两天做的[KEY]	0
+[S]你跟那小伙子姓陆的[NEXT][S]什么关系[NEXT][T]他是我店里员工[NEXT][T]上下级关系[NEXT][KEY][S]你们店里那几块料我还不知道[KEY]	4
+[S]绝对没问题[NEXT][T]我不说[NEXT][S]好这样 我陪你去[NEXT][S]你是随便说几句话[NEXT][KEY][S]方一凡 妈妈不生你气了[KEY]	3
+[T]大叔 您好[NEXT][T]我是来给您送餐的[NEXT][S]送饭的[NEXT][S]不是不让我吃外卖了吗[NEXT][KEY][S]谁让你来的[KEY]	1
+[S]那爸肯定得不满意啊[NEXT][S]他跟我过不去怎么办[NEXT][S]还有 再出个什么问题[NEXT][S]他吃得不舒服了[NEXT][KEY][S]那责任全在我身上吗[KEY]	1
+[S]可是他现在非常的后悔[NEXT][S]他真的希望好兄弟可以给他一次机会[NEXT][S]让他可以改正这些错误[NEXT][T]那这话他为什么不当面跟我说[NEXT][KEY][S]钢铁直男嘛[KEY]	0
+[S]你别在这里乱搅和了[NEXT][S]回去背吧 我明儿还有大事要干的[NEXT][T]那你休息吧[NEXT][S]走走走[NEXT][KEY][S]拿它干吗[KEY]	1
+[S]我给你准备好了[NEXT][T]我闺女靠谱[NEXT][S]给您 你说你这过来[NEXT][S]取趟相册真是不容易[NEXT][KEY][S]是不是小梦阿姨要催你了[KEY]	1
+[T]你不能这样 要有医德对吧[NEXT][T]如果这个时候突然来一个病人[NEXT][T]特别需要你的话[NEXT][T]岂不是 你到了医院给我打电话[NEXT][KEY][S]好 你少喝点 早点回家[KEY]	6
+[S]非常非常爱你[NEXT][S]好了，不哭了[NEXT][S]不哭了[NEXT][S]你看你哭的[NEXT][KEY][S]还有两张卷子没写呢[KEY]	2
+[T]待遇好不说[NEXT][T]还有寒暑假[NEXT][T]那可不行[NEXT][T]还有寒暑假[NEXT][KEY][S]那可不行[KEY]	7
+[S]好不容易出来吃趟饭[NEXT][S]咱都放松[NEXT][S]一会还想着带你逛逛街[NEXT][S]看上条裙子[NEXT][KEY][S]想让你试一下去 回咱看韩剧好不好[KEY]	2
+[S]咱也来一套[NEXT][T]你要是像你们老板按你那样变成一冷面机器人[NEXT][T]我是决计不敢跟你一个被窝得[NEXT][S]那我就[NEXT][KEY][S]我就换人跟我一个被窝[KEY]	2
+[T]有没有标准答案[NEXT][S]我是心疼[NEXT][S]我知道你怎么想的 有压力了[NEXT][S]是不是[NEXT][KEY][S]因为我现在的情况升职加薪无望[KEY]	2
+[T]对[NEXT][T]喝杯水[NEXT][S]别忙了[NEXT][S]老季 来 你坐这儿[NEXT][KEY][S]你坐着[KEY]	6
+[T]好不好[NEXT][S]我本来也已经答应我妈了[NEXT][S]我现在也答应您[NEXT][S]反正这次我得逞的心满意足[NEXT][KEY][S]没有问题[KEY]	3
+[T]30秒一打[NEXT][T]30秒[NEXT][T]不是[NEXT][T]你怎么来了[NEXT][KEY][S]我参加婚礼[KEY]	0
+[S]我买了明天晚上[NEXT][T]太好了[NEXT][T]正好回去书法比赛耽误不了[NEXT][T]走之前能见到他吗[NEXT][KEY][S]我也不知道[KEY]	0
+[T]有其父必有其子[NEXT][S]我跟你讲你这话说的不对[NEXT][S]我爸跟我可不一样[NEXT][S]我们俩还是有本质区别的[NEXT][KEY][S]我爸跟我妈他是从年轻人在一起[KEY]	2
+[S]不用提心吊胆的等到回家以后再发 而且有的时候 当时没有处理 事后就忘记了 客户也丢了[NEXT][T]有道理[NEXT][T]张总[NEXT][T]你是什么时候来的公司[NEXT][KEY][S]别叫我张总[KEY]	7
+[T]给谁打电话[NEXT][S]没谁[NEXT][T]没谁是谁[NEXT][T]我问你给谁打电话[NEXT][KEY][S]给英子[KEY]	0
+[S]所以我说方圆儿咱可不能把孩子送出去[NEXT][S]这送到国外去[NEXT][S]这种情况还是留在自己身边[NEXT][S]是不是[NEXT][KEY][S]你说[KEY]	1
+[S]行啊你 你弄的[NEXT][S]可以呀 来来来[NEXT][T]慢一点[NEXT][S]我慢着呢 你别动你别动[NEXT][KEY][S]你别动[KEY]	6
+[T]真的[NEXT][S]是你看又是副局长 方圆的发小[NEXT][S]又是楼下的邻居是吧[NEXT][S]孩子又在一起[NEXT][KEY][S]那我有什么事我是不是得主动点跟人家[KEY]	3
+[S]你没有压力[NEXT][S]你升职加薪怎么办[NEXT][S]你要在升职加薪上给我勇往直前[NEXT][S]义无反顾 听到没有[NEXT][KEY][S]这只鸡给你炖[KEY]	2
+[T]以后每一次人均消费1000怎么样[NEXT][S]我觉得你可以提上来[NEXT][S]但是消费咱还是低消费 你把那钱直接给我就行了[NEXT][T]转成现金[NEXT][KEY][S]Yes[KEY]	3
+[T]中间还拍了一张照片给我爸看[NEXT][T]就是作秀[NEXT][S]你妈这么厉害[NEXT][S]不过这种事儿落到我妈身上[NEXT][KEY][S]他一句话不说[KEY]	3
+[T]你给我拿个被子行吗[NEXT][S]我去 吓死我了[NEXT][S]你不是出院了吗，怎么又回来了[NEXT][S]你先把眼镜摘了你冒充什么黑社会，干嘛[NEXT][KEY][S]咱们有什么可聊的[KEY]	1
+[S]这两天你妈对你怎么样[NEXT][T]应该不生我气了[NEXT][T]不知道[NEXT][S]英子[NEXT][KEY][S]爸爸发给你一个截屏[KEY]	2
+[T]妈妈说的是对的[NEXT][T]高三就这么一次[NEXT][T]不能自己累了半天还给自己留遗憾[NEXT][T]都听进去了[NEXT][KEY][S]你先坐[KEY]	6
+[S]好吧[NEXT][S]那路修好了没有[NEXT][S]上次走了什么400多公里[NEXT][S]开了8个小时[NEXT][KEY][S]今年还是这个情况吗[KEY]	1
+[S]我觉得这些年 我都快成个老妈子了[NEXT][S]跟在英子后头伺候他[NEXT][S]乔卫东他要交女朋友我管不着[NEXT][S]那是他的事[NEXT][KEY][S]跟我半毛钱关系都没有[KEY]	3
+[T]您二位点了一份双重知识披萨[NEXT][T]9寸的 一份新鲜炸鸡翅[NEXT][T]两杯果汁[NEXT][T]等等[NEXT][KEY][S]果汁来一杯 来一杯热茶[KEY]	3
+[T]你有钱都考不上[NEXT][T]苏明玉 你是不是[NEXT][S]这一年要15万[NEXT][S]咱这几个存折加一块没那么多吧[NEXT][KEY][S]要不明天你跟明哲说说[KEY]	1
+[T]没事 真没事儿[NEXT][T]这高三上课挺重要的[NEXT][T]我是趁体育课回来拿的[NEXT][T]我拿完我就赶紧走[NEXT][KEY][S]你看让你吃药[KEY]	3
+[T]我忙着呢[NEXT][T]不过你要实在[NEXT][T]不过你要实在想见我抽个时间[NEXT][T]别[NEXT][KEY][S]这哪是新生[KEY]	4
+[S]你什么时候发现的[NEXT][T]上礼拜[NEXT][S]我是真为你担心[NEXT][T]能跟我一辈子吗[NEXT][KEY][S]那倒不能[KEY]	0
+[S]不去了不用面试[NEXT][T]怎么了[NEXT][S]刚接一微信[NEXT][S]公司让我今儿去一趟[NEXT][KEY][S]去趟人事那[KEY]	2
+[T]方圆[NEXT][T]你跟乔卫东你们俩简直就是一只是狼[NEXT][T]一只是狈 你说你还替他说话[NEXT][T]好像我还没有原谅你[NEXT][KEY][S]我不需要被原谅[KEY]	3
+[T]不是，你不是说听不见吗[NEXT][T]那也没让你有吼的大哥[NEXT][S]把门关上[NEXT][S]你誓师大会要跟谁见[NEXT][KEY][S]你要跟谁见啊[KEY]	1
+[T]比如考试[NEXT][T]比如我妈[NEXT][S]我听说你学习特别的好[NEXT][S]一次考差了有什么关系[NEXT][KEY][S]你下次追上来不就行了[KEY]	3
+[S]让咱上4年高中 方一凡的机会就比别人高了[NEXT][S]比别人机会要大[NEXT][S]好[NEXT][S]不让他蹲班 不让蹲班说明什么[NEXT][KEY][S]说明学校没放弃他[KEY]	3
+[T]妈 不是你想那样的[NEXT][S]那是哪样的[NEXT][S]如果不是今天我撞见了[NEXT][S]你还打算瞒我[NEXT][KEY][S]我到什么时候[KEY]	1
+[T]行不行[NEXT][S]我先把这门开开还不行吗[NEXT][S]我钥匙呢[NEXT][T]你钥匙扔哪啦[NEXT][KEY][S]可能刚才掉水里了[KEY]	0
+[S]你今年是不是还没体检了[NEXT][T]下周抽个时间去做一个 忙的呀[NEXT][T]连半天时间都腾不出来[NEXT][S]没时间你就抽个血[NEXT][KEY][S]看看血象也行[KEY]	6
+[T]年轻的东西 我搞得不大懂[NEXT][T]本来让他包一束团圆的[NEXT][T]包了一包苹果[NEXT][T]早知道这样我到菜市场买去了[NEXT][KEY][S]没事儿[KEY]	3
+[S]我什么都干不了[NEXT][S]我觉得年轻人应该有一些梦想[NEXT][T]你的梦想是搞房地产[NEXT][S]我就知道现在我的梦想看起来有点可笑[NEXT][KEY][S]谁不想住好的房子[KEY]	4
+[S]你看我这样子像是爱生气的样子吗[NEXT][T]你今天好开明[NEXT][S]我只是今天开明啊[NEXT][S]我觉得我一直挺开明的[NEXT][KEY][S]要不然我的学生怎么那么喜欢我呢[KEY]	3
+[S]我给你留了[NEXT][S]我就给你拿去[NEXT][S]你等会[NEXT][T]我自己去吃去[NEXT][KEY][S]你就坐着坐着我去给你拿着[KEY]	6
+[T]可以啊[NEXT][T]林磊儿冲刺班[NEXT][T]方一凡呢[NEXT][S]你别翻了[NEXT][KEY][S]我问了李萌了[KEY]	2
+[S]你知道吗[NEXT][S]关键就是你要不急不躁[NEXT][S]张弛有度[NEXT][S]有的放矢[NEXT][KEY][S]是吧[KEY]	1
+[T]我也觉得挺怪的[NEXT][T]每次看你在这吃完饭 就在我这睡了[NEXT][T]我开的是餐馆[NEXT][T]不是旅馆[NEXT][KEY][S]你们该不会在饭菜里下药了吧[KEY]	1
+[S]他们带你去逃课[NEXT][S]我还不能说他们了[NEXT][S]那个小梦阿姨怎么就这么好[NEXT][S]怎么就那么招你喜欢[NEXT][KEY][S]你说他怎么就那么好[KEY]	1
+[T]坐这儿 我就不明白了[NEXT][T]你说童娟她怎么能来参加婚礼呢[NEXT][T]他是怎么知道的[NEXT][S]谁告诉他的[NEXT][KEY][S]小麒呗[KEY]	0
+[T]我以后住哪[NEXT][S]跟我们住[NEXT][T]那我学习呢[NEXT][S]啊[NEXT][KEY][S]你跟我们住就不能学习了[KEY]	1
+[S]当时我为了搬进你们院里[NEXT][S]想尽各种办法[NEXT][S]结果全被我妈一一击破[NEXT][S]一点时间都没有[NEXT][KEY][S]所以现在在学校自习的时间才是属于我的自由时间[KEY]	3
+[T]happy birthday to you[NEXT][S]哎哟 我大孙子唱得真棒啊[NEXT][T]爷爷 你是什么星座的[NEXT][S]那你是什么星座啊[NEXT][KEY][S]我是巨蟹星座呀[KEY]	0
+[S]你就好好学习[NEXT][S]先回去[NEXT][S]这有钱吗[NEXT][S]我给你钱[NEXT][KEY][S]你这是干嘛[KEY]	1
+[T]可咱们现在高三了[NEXT][T]就别再去了[NEXT][T]太耽误时间[NEXT][T]你们天文馆也不缺你这么一个要高考的[NEXT][KEY][S]不是[KEY]	7
+[S]磊磊来了你要跟他好好相处[NEXT][S]要好好向他学习[NEXT][S]磊磊等于跟你是有1/4血缘关系的[NEXT][S]真等于亲兄弟[NEXT][KEY][S]你听到没有[KEY]	1
+[S]现在总算确认由你来出任新总裁[NEXT][S]所以想来想去干脆做一个发布会[NEXT][S]什么过两天颁奖礼上再重新做一次解释[NEXT][T]还有颁奖礼呀[NEXT][KEY][S]对呀 公共关系与传播协会的年度颁奖[KEY]	0
+[S]ok[NEXT][S]See you next time[NEXT][T]你是说那个女孩抓住你胳膊的时候[NEXT][T]你原本晕眩的头脑忽然就清醒了[NEXT][KEY][S]是的[KEY]	0
+[S]还有这个[NEXT][T]这是什么[NEXT][S]海参啊[NEXT][S]葱烧海参[NEXT][KEY][S]上次你不是觉得蘸芥末腥吗[KEY]	2
+[S]你二哥找工作也不需要钱[NEXT][S]不卖房子[NEXT][S]我们供的起他们吗[NEXT][T]我以后住哪[NEXT][KEY][S]跟我们住[KEY]	0
+[S]都得把客户往这带[NEXT][S]而且还得点你的酒[NEXT][S]要不连朋友都没得做了[NEXT][T]彭永辉[NEXT][KEY][S]对 就是他[KEY]	0
+[S]那我先走了[NEXT][T]你站住 明玉[NEXT][T]我还没说话呢[NEXT][T]明天晚上你得回家吃饭啊[NEXT][KEY][S]我有事去不了[KEY]	0
+[S]你早上起来打电话的时候忘了挂电话了[NEXT][S]全让我听见了[NEXT][S]后悔吧[NEXT][T]你来干什么[NEXT][KEY][S]要钱[KEY]	0
+[S]送你进实验室[NEXT][S]接你出实验室[NEXT][S]你摸完尸体的摸我，从来没嫌弃过[NEXT][S]一毕业22岁我就立马跟你结婚[NEXT][KEY][S]我一天两个世界都没有过过[KEY]	2
+[T]你大哥去美国不需要钱[NEXT][T]你二哥找工作也不需要钱[NEXT][T]不卖房子[NEXT][T]我们供的起他们吗[NEXT][KEY][S]我以后住哪[KEY]	1
+[S]白眼狼[NEXT][T]你这么说英子就不对了[NEXT][T]我恰恰觉得英子挺懂事的[NEXT][T]他为什么对那小梦好[NEXT][KEY][S]为什么[KEY]	1
+[T]我去找他不是自己打自己脸[NEXT][T]我不去找[NEXT][S]你找一个靠谱的[NEXT][S]你能认识什么[NEXT][KEY][S]搞文艺的人[KEY]	3
+[S]孩子餐桌上趴那儿睡着了[NEXT][S]你说这孩子累成什么样了[NEXT][S]这嘴里还含着饭呢[NEXT][S]你说这饭都没吃[NEXT][KEY][S]这饭都没吃[KEY]	2
+[T]文艺小百科 艺考必备[NEXT][T]我跟你讲[NEXT][T]当年我考广播学院的时候就读这书[NEXT][S]定价1块1毛5[NEXT][KEY][S]这几几年的书[KEY]	1
+[T]说不定没事了[NEXT][T]别那么大的心理负担[NEXT][T]谢谢 你跟我们说方一凡艺考的事 又给我们资料[NEXT][T]然后又跟我们电话沟通[NEXT][KEY][S]考虑怎么样了[KEY]	1
+[T]你不懂[NEXT][T]现在都是叫策略[NEXT][T]比如写什么三天跳楼价[NEXT][T]你三个月过去看他还在那[NEXT][KEY][S]我这不是助纣为虐[KEY]	4
+[S]看看现在成什么样子了[NEXT][S]放学不回家[NEXT][S]开车开到半夜[NEXT][S]昨天还给咱们拉脸子发脾气[NEXT][KEY][S]刚才摔门是吧[KEY]	2
+[T]成[NEXT][T]那就这么着[NEXT][T]你看我什么时候能搬进来[NEXT][S]你想什么时候搬[NEXT][KEY][S]越快越好[KEY]	0
+[T]不不 不用不用，朵朵特训做了没有[NEXT][S]你先坐，你先坐下[NEXT][S]我知道，你坐下，工作一天你先休息一下[NEXT][S]你先休息一下[NEXT][KEY][S]童文洁，我今天必须严肃认真地跟你谈一谈[KEY]	2
+[S]你什么意思[NEXT][S]我不想穿西装怎么了[NEXT][T]我什么时候话里有话[NEXT][T]我说都依你 你爱穿什么穿什么[NEXT][KEY][S]我不想穿那身西装[KEY]	3
+[T]说大家都喜欢一帅哥是吗[NEXT][S]什么帅哥[NEXT][T]我没听清就一什么帅哥[NEXT][T]哎哎 你 你干什么呀[NEXT][KEY][S]我去问问她去[KEY]	0
+[S]我真的 你笑什么 真练过[NEXT][S]绕口令 我给你来一段 吃葡萄不吐葡萄皮[NEXT][S]不吃葡萄倒吐葡萄皮 白石塔[NEXT][S]白石塔 白塔 多溜是吧[NEXT][KEY][S]是不是还可以[KEY]	1
+[T]大哥吩咐[NEXT][T]不能让他爸吃外卖[NEXT][T]吃坏了肚子 又得挨骂[NEXT][T]那给他做呗[NEXT][KEY][S]做饭 谁做[KEY]	1
+[T]三小时[NEXT][S]你这个数学是语文老师教的[NEXT][S]不是 你1个孩子来回是1个半小时[NEXT][S]俩孩子来回也是1个半小时[NEXT][KEY][S]你3个孩子也是1个半小时[KEY]	2
+[T]他不出轨[NEXT][T]宋倩跟他离婚[NEXT][T]宋倩疯了[NEXT][S]他理论上讲应该不叫出轨你知道吧[NEXT][KEY][S]他是在酒桌上喝多了[KEY]	3
+[S]是英语是朵朵的弱项[NEXT][S]60多分肯定说不过去[NEXT][S]但是我已经严肃批评[NEXT][S]你知道吧[NEXT][KEY][S]我发现你今天穿这个[KEY]	2
+[S]然后回头我把录音再发给他[NEXT][S]让他好好听[NEXT][T]今天讲座他根本没去是吧[NEXT][S]对没来[NEXT][KEY][S]他爸爸给我打电话说带英子去医院了[KEY]	2
+[S]我说得没错吧[NEXT][S]她肯定又记在我头上了[NEXT][S]走着瞧 赵启平 你很快就会发现我有九条藏起来的狐狸尾巴[NEXT][T]那不如你现在就跟我坦白吧[NEXT][KEY][S]自己坦白 还有什么意思呀 让那小傻妞给你惊喜呗[KEY]	0
+[T]在这个屋里的任何东西你都不许碰[NEXT][T]明白了吗[NEXT][S]明白了[NEXT][T]再说一遍 听明白了没有[NEXT][KEY][S]听明白了[KEY]	0
+[T]学校请的一定是名师[NEXT][T]你要不这样[NEXT][T]爸爸送你去行不行[NEXT][S]爸[NEXT][KEY][S]你怎么变得跟我妈似的[KEY]	3
+[S]就为了在我们家沙发上随时可以睡下来[NEXT][T]你刚知道[NEXT][S]你给我小点声行不行[NEXT][T]你给我拿个被子行吗[NEXT][KEY][S]我去 吓死我了[KEY]	2
+[T]你什么时候开始[NEXT][T]今天[NEXT][T]今天[NEXT][S]你今天去医院检查[NEXT][KEY][S]医生怎么说[KEY]	1
+[S]要是下次追不上来呢[NEXT][T]那就不追[NEXT][T]谁规定的你次次都要名列前茅[NEXT][S]我其实今天也问了自己这个问题[NEXT][KEY][S]谁规定的呢[KEY]	1
+[T]那你自己行吗[NEXT][S]我没问题[NEXT][T]我再给你弄杯蜂蜜水[NEXT][S]我自己来就行[NEXT][KEY][S]你不用管我了[KEY]	3
+[S]你分根本没有上去[NEXT][S]根本就没提上来[NEXT][S]李老师说了[NEXT][S]这次统考卷子容易大家成绩都提上来了[NEXT][KEY][S]虽然你考了456[KEY]	2
+[S]好不容易逮着这机会私了[NEXT][S]多没劲[NEXT][S]你说呢[NEXT][S]说你呢[NEXT][KEY][S]这赶紧把车挪一边去[KEY]	6
+[S]能力又强[NEXT][S]可是偏在这个时候妈去世了[NEXT][S]他请假回国奔丧[NEXT][S]这一走呢 就有人在中间动了手脚[NEXT][KEY][S]把他给挤掉了[KEY]	0
+[T]要玩大铁锤啊[NEXT][S]不是[NEXT][S]我不是一玩那个 一玩就头晕吗 我就想说小周去 她正好也没事[NEXT][S]跟朵朵的关系又好[NEXT][KEY][S]有成年人陪着不是安全吗[KEY]	1
+[T]千万别说[NEXT][S]你打算瞒他们瞒多久[NEXT][T]能瞒一天是一天[NEXT][S]瞒一天是一天[NEXT][KEY][S]你想的美 你告诉我怎么瞒[KEY]	1
+[S]我当年本来 谁想学法律[NEXT][S]我想考的播音专业[NEXT][S]我这张嘴叭叭叭 多合适[NEXT][S]我真的 你笑什么 真练过[NEXT][KEY][S]绕口令 我给你来一段 吃葡萄不吐葡萄皮[KEY]	2
+[S]懂吗[NEXT][S]小子[NEXT][S]钱这玩意是要低下头去捡的[NEXT][S]面子值多少钱[NEXT][KEY][S]何况还是跟自己的老婆你有点出息行吗[KEY]	1
+[T]这个是什么[NEXT][T]他这个是小事情对吧[NEXT][T]但是对方是一一个比较敏感的人物[NEXT][T]所以我这样想 行了 你也别说[NEXT][KEY][S]对普通人也不能这样[KEY]	3
+[S]你这个条件就是没练功夫[NEXT][S]你稍微要练一练[NEXT][S]我觉得三五个壮汉都靠近不了你[NEXT][T]你是想说你老婆我是母夜叉是吧[NEXT][KEY][S]不是[KEY]	0
+[S]我是权璟律师事务所的律师助理[NEXT][S]这是我的名片[NEXT][S]我们想要跟您了解一些情况[NEXT][T]我们家没出事[NEXT][KEY][S]没有[KEY]	0
+[S]为什么[NEXT][S]跟我见面的和给我老公送钱的是两个人[NEXT][S]为什么[NEXT][T]什么两个人 我不知道[NEXT][KEY][S]你不知道[KEY]	4
+[T]又觉得别人家的孩子好了[NEXT][T]你说是不是挺没劲的[NEXT][S]是挺没劲的[NEXT][S]对了[NEXT][KEY][S]我那天看见英子和刘静在楼道口手拉着手也不知道说什么呢[KEY]	2
+[S]好[NEXT][S]谢谢[NEXT][T]怎么样[NEXT][T]是被盗刷了还出什么问题[NEXT][KEY][S]不好意思[KEY]	5
+[T]谁说不求上进的就不会变坏[NEXT][T]很多不求上进的不都变坏了吗[NEXT][S]不求上进怎么能变坏呢[NEXT][S]变坏得上[NEXT][KEY][S]进了以后才有机会变坏[KEY]	3
+[T]那个刚才什么人[NEXT][S]我也不知道[NEXT][S]我刚表演完[NEXT][S]他们就说拉着我去吃饭[NEXT][KEY][S]我不是想走吗[KEY]	4
+[S]我就说他狗丢了[NEXT][S]你小孩他着急[NEXT][S]他在这有点上火[NEXT][S]有点发脾气也正常[NEXT][KEY][S]你一个大人你也跟他真那么吵[KEY]	1
+[S]我怎么我这事也不知道我怎么就这么倒霉[NEXT][T]不倒霉[NEXT][T]不是[NEXT][T]我们都过得去的[NEXT][KEY][S]不是 我 我现在特别理解岳不群你知道吗[KEY]	3
+[T]你就算拿个大学文凭也抵不过人上头有人[NEXT][S]别难过了[NEXT][S]我知道你们单位这破事儿确实搓火[NEXT][S]可咱能怎么着[NEXT][KEY][S]也没辙是吧[KEY]	1
+[T]宫斗戏里活不过两集[NEXT][S]这个事赖我[NEXT][S]我太八卦了[NEXT][S]我就不该跟你说[NEXT][KEY][S]要不然你不方便开口[KEY]	1
+[S]他的成绩有没有在提高[NEXT][T]现在还没考试[NEXT][T]还看不出什么[NEXT][S]有的时候我真的挺想关心杨杨的[NEXT][KEY][S]可一是我工作忙[KEY]	2
+[S]爸 你咋来了 [NEXT][T]爸给你买个望远镜[NEXT][T]你喜欢的那种[NEXT][T]你看看[NEXT][KEY][S]对对对[KEY]	2
+[T]这你承认[NEXT][T]现在机会来了[NEXT][T]财神爷就摆在面前了[NEXT][T]何乐而不为[NEXT][KEY][S]你有完[KEY]	1
+[T]你再练会儿[NEXT][S]我也不开了[NEXT][S]我也不开了[NEXT][S]我也开不好[NEXT][KEY][S]我也回去[KEY]	3
+[T]休想[NEXT][T]你神经病[NEXT][S]干嘛呢[NEXT][T]玩手机[NEXT][KEY][S]我怎么觉得刚才你你是不是电脑给关上了[KEY]	1
+[T]好好做功课 把门关好[NEXT][T]关好了[NEXT][S]你来干嘛[NEXT][T]我为什么不能来[NEXT][KEY][S]怎么着[KEY]	1
+[S]甭管怎么说[NEXT][S]人给的工资还可以吧[NEXT][S]等咱攒几年钱[NEXT][S]说不定以后也能送琴琴去个便宜点的外国大学[NEXT][KEY][S]这有什么不好[KEY]	1
+[T]受委屈了[NEXT][T]吃点好了[NEXT][S]给谁打电话[NEXT][T]没谁[NEXT][KEY][S]没谁是谁[KEY]	1
+[T]知道吗[NEXT][T]你说你这一天 大门不出二门不进的[NEXT][T]就在屋里憋着 守着这些东西[NEXT][T]你想守一辈子寡啊[NEXT][KEY][S]我愿意[KEY]	0
+[T]又没吃饭呢[NEXT][S]还没呢[NEXT][T]这么多礼物[NEXT][T]男朋友送的[NEXT][KEY][S]女朋友送的[KEY]	0
+[T]你别动 我想呢 亲爱的老师[NEXT][T]你发完火你是没事了[NEXT][T]孩子一肚子气 我去摩挲摩挲[NEXT][T]你别进来[NEXT][KEY][S]我今天早上想问你[KEY]	1
+[S]那第8名谁知道[NEXT][T]这人又不是机械[NEXT][T]我跟你说就连这车他还得定期保养[NEXT][T]还得歇会[NEXT][KEY][S]你不要求上进[KEY]	2
+[S]你可以跟他联系[NEXT][T]我不去找他[NEXT][T]我跟他不对付[NEXT][T]找他干嘛[NEXT][KEY][S]又怎么了[KEY]	1
+[T]我这看电视没声[NEXT][T]我怎么看[NEXT][S]你把门关上[NEXT][S]你知道她在里面是做功课呢还是上网呢[NEXT][KEY][S]要看就看这没声的[KEY]	2
+[S]大西瓜[NEXT][S]你不能再胖了胖子[NEXT][T]这两天怎么没看到小北[NEXT][S]他跟樊斌分居了[NEXT][KEY][S]搬回他妈家住了[KEY]	0
+[S]一天天努力分不开的[NEXT][S]对不对[NEXT][T]成[NEXT][S]对吧[NEXT][KEY][S]结果你 你悄么声偷偷回来了[KEY]	2
+[S]就在楼下[NEXT][T]就住这楼下[NEXT][T]对对 那是他们家院子[NEXT][T]这下边 同一户型[NEXT][KEY][S]同一户型 不都为孩子能近点吗[KEY]	2
+[T]谢谢[NEXT][T]要不您还是拿回去[NEXT][T]我最近忙着学习[NEXT][T]我妈肯定不让我玩[NEXT][KEY][S]最近怎么那么忙[KEY]	1
+[S]吃个茶叶蛋吧[NEXT][S]还热着[NEXT][S]我给你剥[NEXT][T]茶叶蛋 你这准备够齐全的 还有茶叶蛋呢[NEXT][KEY][S]对[KEY]	0
+[S]还浪费磊儿时间[NEXT][S]我不同意[NEXT][S]可是 不说了[NEXT][S]你知道他怎么跟磊儿说吗[NEXT][KEY][S]他说[KEY]	2
+[S]还让玻璃拉了手[NEXT][S]好不容易买了生日蛋糕[NEXT][S]还叫人家挤烂了[NEXT][S]我今儿已经够糟心的了[NEXT][KEY][S]别再给我添乱了[KEY]	6
+[S]这还用问怎么回事[NEXT][S]怎么给你回微信[NEXT][S]你就放心[NEXT][S]宋倩 童文洁陪着呢[NEXT][KEY][S]英子呢 我儿子陪着[KEY]	3
+[S]所以这事跟我没啥关系[NEXT][T]没戏[NEXT][T]你刚刚说什么顺利[NEXT][S]我不是 我说 我的师弟的公司发展挺顺利的[NEXT][KEY][S]挺好的[KEY]	3
+[S]是不是[NEXT][S]跟什么[NEXT][S]男网友的事[NEXT][S]聊天室说什么[NEXT][KEY][S]情话悄悄的[KEY]	1
+[T]是我活到现在那么大了[NEXT][T]我连我支配我自己工资的权利都没有[NEXT][T]我想请我丈母娘请想请我老婆吃顿饭都不行[NEXT][S]你这样说的话 早知道我就不告诉你了[NEXT][KEY][S]对不起[KEY]	5
+[S]我更惊讶的是 是什么样的女孩子能让我追的这么辛苦[NEXT][S]但是 乐此不疲[NEXT][T]等等[NEXT][T]你往哪里开呀[NEXT][KEY][S]回酒店[KEY]	0
+[S]你这不是瞎想吗[NEXT][S]北京这么好，这么多好的重点高中[NEXT][S]北大附中、101、4中随你考[NEXT][S]只要你成绩好[NEXT][KEY][S]行了，别说了[KEY]	6
+[S]是吗 我就不服了[NEXT][S]你开车有天赋[NEXT][S]按理说你是我儿子[NEXT][S]你应该遗传到我的基因[NEXT][KEY][S]我开的应该不错[KEY]	3
+[S]季杨杨 你敢动本尊的女神[NEXT][S]你是在逼我出手[NEXT][S]磊儿 你说什么呢 你背单词[NEXT][S]你别在这里乱搅和了[NEXT][KEY][S]回去背吧 我明儿还有大事要干的[KEY]	6
+[S]你那边叮咚一声响我不露馅了吗[NEXT][T]你可以微信支付[NEXT][T]手机拿来[NEXT][T]手机给我[NEXT][KEY][S]要 要手机干嘛呀[KEY]	1
+[T]那不是一回事[NEXT][T]所以这事儿你绝对不能横着比[NEXT][T]你就得竖着看[NEXT][S]我没法数着看[NEXT][KEY][S]因为高考是横着比的[KEY]	3
+[S]他为什么对那小梦好[NEXT][T]为什么[NEXT][S]那不是看在[NEXT][S]乔卫东的面子[NEXT][KEY][S]否则他知道那小梦是谁[KEY]	3
+[S]对吧你担心孩子的学习[NEXT][S]你也担心孩子的健康[NEXT][S]我觉得应该找到一个这种平衡点[NEXT][S]就是学习、生活、成绩、健康两个都不耽误[NEXT][KEY][S]你老注重短板说要给她提升[KEY]	2
+[S]你吃点早点 那有点凉了[NEXT][S]拿微波炉热一下再吃[NEXT][T]姐夫[NEXT][T]我姐跟茜茜呢[NEXT][KEY][S]早上7:00就走了[KEY]	0
+[T]可是你妈的夺命三声还没有敲响呢[NEXT][S]睡觉吧[NEXT][T]我不困[NEXT][S]你还说你不困 你看你眼睛都红成这样了[NEXT][KEY][S]还不困[KEY]	4
+[T]我得搞一套给搁里头[NEXT][S]别[NEXT][S]你姐夫他就怕招摇[NEXT][S]你千万别给他弄那么贵的中式家具[NEXT][KEY][S]不用[KEY]	3
+[T]咱俩关系没近到说让你胳膊肘往外拐[NEXT][T]你可是我小舅子[NEXT][T]你说这话你是不是什么事求我[NEXT][T]又惦记我那点钱是不是[NEXT][KEY][S]不是惦记你那些钱[KEY]	0
+[S]我给你看[NEXT][S]这跟鼻涕似的[NEXT][S]我怎么吃[NEXT][S]我真的是我要疯了[NEXT][KEY][S]您留着吃吧[KEY]	3
+[S]都送到小区门口了[NEXT][S]也没两步路[NEXT][S]就不用接了[NEXT][T]今天头还晕吗[NEXT][KEY][S]今天没再晕了[KEY]	0
+[T]差不多[NEXT][T]差不多一年多了[NEXT][T]不过这是老毛病[NEXT][T]肯定跟车祸没关系[NEXT][KEY][S]来[KEY]	6
+[T]喝过[NEXT][T]我那时候跟你季叔叔[NEXT][T]我们在青岛的时候[NEXT][T]我们天天都喝[NEXT][KEY][S]阿姨不是那种咸奶茶[KEY]	2
+[T]起这么早[NEXT][S]这才几点怎么不多睡会儿[NEXT][T]降温了[NEXT][T]我把这些厚衣服给你们拿出来[NEXT][KEY][S]还没到穿棉服的时候吧[KEY]	1
+[S]你的车没事吧[NEXT][T]没事[NEXT][T]都过去[NEXT][S]方一凡这人你也知道[NEXT][KEY][S]并不坏[KEY]	3
+[S]罗槟[NEXT][S]如果连你都不相信我[NEXT][T]我相信你 可现在的问题是连那些八杆子打不着的人都跑来问我这到底怎么回事[NEXT][S]那让我怎么说[NEXT][KEY][S]我上微博开个专栏[KEY]	4
+[S]还得门口喊欢迎欢迎 欢迎欢迎[NEXT][S]你干嘛去[NEXT][T]我去高叔叔家住几天 散散心[NEXT][T]吵架了[NEXT][KEY][S]没有[KEY]	0
+[S]我洗个澡[NEXT][T]不生气了[NEXT][T]你洗个澡洗完澡我给你按个摩[NEXT][S]不按摩一辈子不按个屁[NEXT][KEY][S]我洗澡了[KEY]	2
+[S]你说咱们现在这个岁数也不算大[NEXT][S]还得有当初那种敢干敢闯的劲[NEXT][S]你说是不是[NEXT][S]别抖了，别抖了[NEXT][KEY][S]你没事能不能出去学点什么打车的软件[KEY]	1
+[S]怎么可能白养呢[NEXT][S]俗话说[NEXT][S]家鸡打得团团转[NEXT][S]野鸡打的满天飞[NEXT][KEY][S]自己家的儿子就算你平常说他几句说得重了点[KEY]	3
+[T]那就说[NEXT][T]我和我们[NEXT][T]部门的同事都要做调整[NEXT][S]不是调整[NEXT][KEY][S]准确的说是被替代[KEY]	2
+[T]不服不行啊[NEXT][T]你这么一说 我算明白了[NEXT][T]老蒙出手对付姓孙的[NEXT][T]那也就没有精力收拾我了[NEXT][KEY][S]你安分一点[KEY]	6
+[T]别招我烦啊 招我烦我就轰你走[NEXT][T]我是暂时收留你[NEXT][T]你知道吗[NEXT][T]知道吗[NEXT][KEY][S]知道[KEY]	0
+[T]哎哟 哇塞[NEXT][T]我操[NEXT][T]有点分量[NEXT][S]那几本书你给拿出来[NEXT][KEY][S]你给他的[KEY]	1
+[T]不是[NEXT][T]我是真的要走了[NEXT][T]我也没想到2000块就能买一个电脑[NEXT][T]电脑不会有什么问题[NEXT][KEY][S]怎么可能[KEY]	0
+[T]用一些别的手段[NEXT][T]对吧[NEXT][S]好[NEXT][S]就听你的 上手段[NEXT][KEY][S]动漫、游戏全给他没收了[KEY]	3
+[S]倒垃圾[NEXT][S]顺便躲避一下小蚯蚓的哀声叹气[NEXT][T]小邱怎么了[NEXT][S]本来今天有约会的[NEXT][KEY][S]结果小白临时有事[KEY]	0
+[S]英子[NEXT][T]爸 你咋来了 [NEXT][S]爸给你买个望远镜[NEXT][S]你喜欢的那种[NEXT][KEY][S]你看看[KEY]	2
+[T]为什么你最后去了政法大学[NEXT][S]还是因为学习太好[NEXT][S]好 我专业没考过[NEXT][S]你又不是不知道[NEXT][KEY][S]你还问我 专业没考过[KEY]	2
+[S]你答应吗[NEXT][T]你的理想[NEXT][T]你的梦想[NEXT][T]妈妈永远是支持的[NEXT][KEY][S]我要是想考南京大学[KEY]	1
+[S]也就是一个半月[NEXT][S]一个半月要干什么你知道吗[NEXT][S]要把高一到高三所有的知识点都要巩固到滚瓜烂熟[NEXT][S]时间还是很紧迫的[NEXT][KEY][S]还有这个 反正是一点都不能松懈[KEY]	3
+[S]可能当年我们就不应该走[NEXT][S]至少我应该留下来[NEXT][S]老季你有没有想过这些年咱们是怎么过来的[NEXT][S]咱们两个去过安徽、山东、江西[NEXT][KEY][S]还援过青海[KEY]	2
+[T]不能随便写检查[NEXT][T]你自己动动脑子[NEXT][T]这检查到时候他说了要入档的 入档案的 那方一帆还怎么参加高考[NEXT][T]这档案是要一辈子跟着的[NEXT][KEY][S]我亲爱的媳妇[KEY]	3
+[S]有这个问题[NEXT][S]你看[NEXT][S]每一次他考的不好你就发脾气[NEXT][S]你发脾气 呲他 他心情受影响[NEXT][KEY][S]他也沮丧[KEY]	2
+[T]但是得约法3章[NEXT][T]只准看5分钟 开播前必须走[NEXT][T]对[NEXT][T]只准看不许摸[NEXT][KEY][S]坏 谁要摸[KEY]	4
+[S]这么些年你管过英子学习吗[NEXT][S]你管过吗[NEXT][S]还家长了[NEXT][S]在这个学校里我才是英子的家长[NEXT][KEY][S]知道吗[KEY]	1
+[T]喂[NEXT][T]我还话没说完你[NEXT][S]你想说什么[NEXT][S]你不就是想说你们才是一家人[NEXT][KEY][S]我不就是一外人吗[KEY]	1
+[T]你就一点都不着急[NEXT][T]你你还有心思看电视[NEXT][T]你吃你 我看噎死你[NEXT][S]你不是说儿子是你的吗[NEXT][KEY][S]你管一个我看看呀[KEY]	4
+[S]你说 赴汤蹈火在所不辞 [NEXT][T]没那么严重[NEXT][T]我们班讲座你帮我过去稍微盯着一点[NEXT][T]我出去办点事[NEXT][KEY][S]那不是小意思吗[KEY]	3
+[T]开车[NEXT][T]是 老板[NEXT][T]我问你三个问题[NEXT][T]一你是不是一直在这[NEXT][KEY][S]我 我一夜都在门口[KEY]	0
+[T]我不是帮你吗[NEXT][T]哪是帮我[NEXT][T]你这是帮倒忙[NEXT][S]朵朵那礼物你找着没有[NEXT][KEY][S]咱们自己的事你不管吗[KEY]	1
+[S]电视刚打开[NEXT][S]对[NEXT][S]你饿不饿[NEXT][S]我给你煮个面条[NEXT][KEY][S]卧个荷包蛋[KEY]	2
+[S]万家灯火的 你说人这一辈子图什么[NEXT][S]国泰民安[NEXT][S]相安无事的活着[NEXT][S]挺好的[NEXT][KEY][S]只要一家人在一起永远不分开[KEY]	3
+[T]而且我告诉你 别听他们瞎说[NEXT][T]说什么打篮球能长高全是假的[NEXT][T]而且我就觉得你这身材已经不错了[NEXT][T]腰宽腿短 多好[NEXT][KEY][S]你还说我 上回你跟乐高那事 我还没找你算账[KEY]	2
+[S]你跟他说，这必须你跟他说，你要是不能说别人说你就被动了[NEXT][S]这是一个让你做好人的机会[NEXT][S]你知道吗[NEXT][T]我怎么成坏人了[NEXT][KEY][S]不是说坏[KEY]	0
+[T]但也不完全是因为这种清晰反应因人而异[NEXT][T]关键还是看对待他的那种方式方法也不一样[NEXT][S]怎么不一样[NEXT][T]我能说吗[NEXT][KEY][S]行啊，你说呀[KEY]	0
+[S]成绩掉下去了[NEXT][S]这钱没了[NEXT][S]对不对[NEXT][S]那怎么办[NEXT][KEY][S]回来上高二[KEY]	1
+[T]严不严重我得知道[NEXT][S]你对乔英子是真好[NEXT][T]我对每个学生都挺好[NEXT][S]对了[NEXT][KEY][S]你当初怎么就选择当老师了呢[KEY]	1
+[T]王一笛现在就准备艺考的[NEXT][T]说都不怎么上文化课[NEXT][T]一天到晚就在那 对[NEXT][T]你打听打听 你问他妈[NEXT][KEY][S]好的[KEY]	0
+[T]说了[NEXT][S]你这一句话我爸血压一下上梁了[NEXT][S]你觉得我爸是什么感受[NEXT][S]190对于老人，我是医生[NEXT][KEY][S]老人随时可能过去[KEY]	2
+[T]我不该不去上学[NEXT][S]你是不是对妈妈有意见[NEXT][S]有意见 说啊[NEXT][S]太让我失望了[NEXT][KEY][S]妈妈是不是哪做的让你觉的不舒服了[KEY]	1
+[S]天天的看报纸[NEXT][S]老公[NEXT][S]你看看我这新面膜怎么样[NEXT][S]贴合度怎么样[NEXT][KEY][S]干嘛你至于吗[KEY]	4
+[S]不怎么办[NEXT][S]凉拌、生吃任凭处置[NEXT][T]你不用付账了[NEXT][T]要不我们AA[NEXT][KEY][S]不可以[KEY]	7
+[S]怎么就突然[NEXT][T]我问我爸[NEXT][T]他也没说清楚[NEXT][T]电话里只是一个劲的在哭[NEXT][KEY][S]那明成明玉呢[KEY]	1
+[S]不好好上进[NEXT][S]欺骗父母[NEXT][T]你到底想说什么[NEXT][S]我是说朵朵[NEXT][KEY][S]你以后不能把作业给他们抄[KEY]	6
+[T]那我去睡觉了[NEXT][S]你干嘛去了[NEXT][T]我把她撕的东西给粘上了[NEXT][T]文洁，刚刚朵朵跟我道歉[NEXT][KEY][S]他说什么[KEY]	1
+[S]当我老师你也没跟我收学费[NEXT][T]那行吧[NEXT][T]那就是麻烦你了[NEXT][S]一言为定[NEXT][KEY][S]你什么时候开始[KEY]	1
+[T]对周佳成讲的你们是有兴趣[NEXT][T]不光朵朵有兴趣你也有兴趣[NEXT][T]可是暮光之城考试考吗[NEXT][T]你告诉我考不考[NEXT][KEY][S]不考[KEY]	0
+[T]跟什么[NEXT][T]男网友的事[NEXT][T]聊天室说什么[NEXT][T]情话悄悄的[NEXT][KEY][S]没有[KEY]	0
+[S]行 去 吓唬完了赶紧去帮他写检查[NEXT][T]我写这分分钟 一肚子检查[NEXT][S]赶紧去赶紧去[NEXT][T]我专业写检查的[NEXT][KEY][S]你说你也是的[KEY]	3
+[S]大孩还是喜欢小小孩[NEXT][S]时间长了日久生情[NEXT][S]你们一家人就团圆了[NEXT][T]这不缺德呀[NEXT][KEY][S]你觉得不缺德呀[KEY]	1
+[T]你为什么不听[NEXT][S]你别再跟我提韩文静了[NEXT][T]不提[NEXT][T]那提李理 说说怎么突然跟他好[NEXT][KEY][S]他对我好[KEY]	0
+[S]没有说高三你还可以继续去天文馆的[NEXT][S]而且你想想你去趟天文馆一去一回[NEXT][S]一上午的时间都不够[NEXT][S]还没加上你提前准备的时间[NEXT][KEY][S]能做多少题[KEY]	1
+[T]你与其让这些没有准备好的孩子去经历一次高考的失败[NEXT][T]你莫不如给他们多一些时间让他们做准备[NEXT][S]但是李老师你有没有考虑过蹲班留级这样的事情[NEXT][S]对一个学生来说[NEXT][KEY][S]可能会造成怎样的心理阴影[KEY]	1
+[S]我也不错[NEXT][S]我开那个车呀[NEXT][S]咯噔的[NEXT][S]你舅舅说我那叫龟派车手[NEXT][KEY][S]挺好的[KEY]	2
+[T]你们来试试来[NEXT][T]太有意思了吧你[NEXT][T]这么大岁数人了[NEXT][T]你这点事不懂啊 你教训我啊你[NEXT][KEY][S]怎么还吵起来了[KEY]	1
+[T]能吃能睡的用得着看医生吗[NEXT][S]梁先生[NEXT][S]我看你也需要看看心理医生[NEXT][T]我有啥毛病[NEXT][KEY][S]躁郁症[KEY]	0
+[T]吃什么饭还吃[NEXT][S]天怎么塌了[NEXT][S]单位的事[NEXT][T]你看一下[NEXT][KEY][S]分班出来了[KEY]	2
+[T]我是为你身体好[NEXT][T]让你别生气[NEXT][T]你按按这中间我不教给你这叫[NEXT][T]你这叫檀中穴按揉一会儿[NEXT][KEY][S]我不生气[KEY]	4
+[S]绝对不能丢脸[NEXT][S]我想来想去你太合适了[NEXT][S]你就求求你帮帮我行吗[NEXT][T]你怎么知道我会专业术语[NEXT][KEY][S]樊斌说的[KEY]	0
+[S]路上小心[NEXT][T]我走了你抓紧点[NEXT][S]没问题[NEXT][T]你为什么觉得宇宙治愈呢[NEXT][KEY][S]我之前看过一个bbc的纪录片[KEY]	2
+[T]不是我下滑太快[NEXT][T]是那帮人进步的太快了[NEXT][S]你告诉妈妈你这样的状态你怎么参加高考[NEXT][S]别说高考了[NEXT][KEY][S]你知道你这成绩你连高中毕业你都毕业不了[KEY]	3
+[S]蒙上 蒙上[NEXT][S]蒙上 听话[NEXT][T]10分钟一打[NEXT][T]不行5分钟一打[NEXT][KEY][S]30秒一打[KEY]	6
+[S]让你蹲班[NEXT][S]凡凡你知道妈妈今天为你的事情跑了一天[NEXT][S]本来开学之前你们老师找我谈话[NEXT][S]让你蹲班[NEXT][KEY][S]我一开始不同意[KEY]	2
+[T]你看看现在老爸这眼睛还湿润着[NEXT][S]谢谢老爸夸奖[NEXT][S]不过[NEXT][S]算了不说了[NEXT][KEY][S]反正我妈肯定不会再让我去了[KEY]	2
+[T]好不好[NEXT][T]抓紧啊[NEXT][T]你今儿是不是要上瑜伽课去[NEXT][T]什么时候走[NEXT][KEY][S]马上[KEY]	0
+[T]你要在这吃啊[NEXT][S]不在这儿吃在哪儿吃[NEXT][T]那我妈要回来 咋办[NEXT][S]你妈不是买菜去了吗[NEXT][KEY][S]菜市场在哪老爸也不是不知道[KEY]	2
+[T]什么[NEXT][S]还记得刚开学那会儿[NEXT][S]季杨杨开了辆法拉利过来[NEXT][T]我记得 谁把这个做成表情包了[NEXT][KEY][S]同学们给我看的[KEY]	2
+[S]今儿同学聚会[NEXT][S]我去晃了一圈[NEXT][T]这么大酒味[NEXT][S]我喝一点 不是 他们白酒撒我裤子上 闹酒[NEXT][KEY][S]都睡了[KEY]	1
+[T]500[NEXT][T]可现在给你拿 5000[NEXT][S]5万[NEXT][T]没有[NEXT][KEY][S]把这放着[KEY]	6
+[T]我就找人帮你打扫了[NEXT][T]另外我姐夫不是喜欢中式家具吗[NEXT][T]我得搞一套给搁里头[NEXT][S]别[NEXT][KEY][S]你姐夫他就怕招摇[KEY]	3
+[S]是你姐[NEXT][S]童娟[NEXT][T]我猜到了[NEXT][S]你猜到了你还跟我啰嗦什么[NEXT][KEY][S]赶紧的[KEY]	6
+[T]你可别吓唬我[NEXT][S]我没吓唬你啊[NEXT][S]我问你 人体最重要的器官是什么[NEXT][T]脑子吧[NEXT][KEY][S]NO[KEY]	7
+[T]哪儿错了[NEXT][T]第一[NEXT][S]我这次英语考试没考好[NEXT][T]第二[NEXT][KEY][S]不该瞒着你[KEY]	0
+[T]老宅不敢住[NEXT][T]苏明成家也不敢住[NEXT][T]我那儿也不愿意去[NEXT][T]你想住哪儿啊[NEXT][KEY][S]我哪知道我要去哪儿啊[KEY]	0
+[S]说到知道这个事情你都知道[NEXT][S]你都知道妈妈知道你知道这个事情你为什么不让妈妈知道你知道呢[NEXT][T]妈妈你在说什么[NEXT][S]就是你都知道了妈妈在装粉丝了[NEXT][KEY][S]是不是[KEY]	1
+[S]没事[NEXT][S]等他住在一块慢慢就好了[NEXT][S]你真能定吗[NEXT][T]合适[NEXT][KEY][S]你要能定的话[KEY]	3
+[S]是不是[NEXT][S]现在你当医生了[NEXT][S]我还是出租司机[NEXT][S]你就说我不求上进[NEXT][KEY][S]那怎么着[KEY]	1
+[S]我是说是换个手段[NEXT][S]不是上手段 成渣滓洞了 真是[NEXT][T]去拿两个整理箱过来[NEXT][S]你还是得注意点方式方法[NEXT][KEY][S]别当着他面再摔摔打打的好吧[KEY]	3
+[S]你说你到底是个什么样的人[NEXT][T]和平时一样[NEXT][T]表里如一[NEXT][S]不[NEXT][KEY][S]一样[KEY]	7
+[S]你没看过医生[NEXT][T]没有[NEXT][T]我想可能是不是太忙[NEXT][T]压力太大[NEXT][KEY][S]什么呀，我跟你说中医这个叫阴阳失调[KEY]	7
+[T]不是嘿[NEXT][T]人家是会过来一个团队[NEXT][T]各种人员人家都配齐了[NEXT][T]所以我们这边就显得有点人浮于事[NEXT][KEY][S]杨总您什么意思[KEY]	1
+[S]你这小子怎么一根筋[NEXT][S]你我真的是为你好[NEXT][S]我告诉你出国这件事跟那个狐狸精不是跟他完全没有关系[NEXT][S]真的是替你着想[NEXT][KEY][S]懂吗[KEY]	1
+[S]不许生气[NEXT][S]每天都得开开心心的[NEXT][S]你说一遍[NEXT][T]我说什么[NEXT][KEY][S]我刚才说的[KEY]	0
+[T]好好复习你的功课[NEXT][T]爸爸妈妈和你永远不分开[NEXT][T]记住了[NEXT][S]妈，你放心[NEXT][KEY][S]我绝对不会出国[KEY]	2
+[S]让咱俩也别聊了[NEXT][S]我也睡了[NEXT][S]拜拜[NEXT][T]我怕冷[NEXT][KEY][S]怎么办啊[KEY]	1
+[S]里边钱够吧[NEXT][T]得出多少血[NEXT][S]那得看你对自己的要求有多高[NEXT][S]你鞋不错[NEXT][KEY][S]脱下来我看看[KEY]	6
+[T]这个好一看就特别踏实[NEXT][T]长得也忒那[NEXT][T]张亮忠[NEXT][T]好好好 你定你定 行行 随便 都行 啊[NEXT][KEY][S]喂，干嘛[KEY]	1
+[T]我很长时间都没喝了[NEXT][T]现在有时候想起来还挺馋的慌的[NEXT][S]咱们年龄代谢是越来越慢了[NEXT][S]你又管不住嘴[NEXT][KEY][S]你就得迈开腿[KEY]	3
+[T]哎 我这不是帮你分析的吗[NEXT][T]你干嘛去啊[NEXT][T]分析什么呀 交车[NEXT][T]那你还回不回来了[NEXT][KEY][S]哦 对不起 对不起[KEY]	5
+[S]是 我就是怕担这个责任[NEXT][S]你要敢担这个责任[NEXT][S]我马上让他参加艺考[NEXT][S]我二话不说[NEXT][KEY][S]方圆 我说了多少次了[KEY]	2
+[T]刚开完会[NEXT][T]主要是也不饿 也不知道吃什么好[NEXT][S]要不你下班来我这吧[NEXT][T]我还没[NEXT][KEY][S]先吃吧 吃完再打[KEY]	6
+[S]你在老家多少分[NEXT][T]我看了一下卷子[NEXT][T]这问题就出现在英语上面[NEXT][T]我的单词还得好好背[NEXT][KEY][S]老天你都在我身边安排的什么人[KEY]	1
+[S]你能接受吗[NEXT][S]你不会到这个公司来讨个说法吗[NEXT][T]你先别激动[NEXT][T]您的孩子是宋暖[NEXT][KEY][S]没错[KEY]	0
+[S]琴琴[NEXT][S]大人的事儿[NEXT][S]我跟你也说不清楚[NEXT][S]你也不懂[NEXT][KEY][S]小孩你就甭管这些[KEY]	7
+[S]点好了[NEXT][T]我都说了我不吃了[NEXT][T]你点了也是浪费[NEXT][T]点了什么[NEXT][KEY][S]点了一份意面[KEY]	0
+[S]我现在在家做这种事情啊[NEXT][S]天天这样 连续好几天了[NEXT][S]有完没完啊[NEXT][S]这要用我妈的话说 那叫劳动改造你知道吗[NEXT][KEY][S]想不想去我们家吃饭了[KEY]	1
+[S]秒没[NEXT][T]怎么样有几个人给你介绍工作了[NEXT][S]一个没有[NEXT][T]800块钱打水漂了[NEXT][KEY][S]也没有打水漂[KEY]	3
+[S]小姨我平常也是这个点起[NEXT][T]你听小姨的话[NEXT][T]你早餐想吃点什么[NEXT][T]小姨给你去买[NEXT][KEY][S]我其实都行[KEY]	0
+[S]回来你就得安心学习了[NEXT][S]不能再玩了[NEXT][S]我说[NEXT][T]对对对 得学了[NEXT][KEY][S]你看啊 方一凡[KEY]	3
+[S]挺好的[NEXT][S]挺仔细的[NEXT][S]长得也挺好看的[NEXT][S]以后[NEXT][KEY][S]要不然咱就上他的课[KEY]	3
+[S]聊完了[NEXT][S]还不赶快走[NEXT][T]你急什么 我还没跟你说[NEXT][T]我跟咱闺女聊的结果[NEXT][KEY][S]什么结果 说[KEY]	1
+[T]这是原则问题[NEXT][T]以后绝对不许再犯[NEXT][S]方圆[NEXT][S]我真是[NEXT][KEY][S]我真是这18年白养他了[KEY]	3
+[S]有其父必有其子[NEXT][S]这才多大 就看这些东西[NEXT][S]我这顶着 你这看上了[NEXT][T]我就重温一下 复习一下[NEXT][KEY][S]拿过来给我看一下什么东西[KEY]	6
+[S]他说他压根就没有批准过我的辞职报告[NEXT][T]像他的风格[NEXT][S]您跟封印[NEXT][T]你的父亲最近怎么样[NEXT][KEY][S]挺好的[KEY]	0
+[S]你想想你吃1个海参多记20个英语单词[NEXT][S]是不是很值得[NEXT][T]我到时候[NEXT][T]再吐在教室里[NEXT][KEY][S]今天周末去学校干什么[KEY]	2
+[T]您的方法我先回去试试[NEXT][T]完了以后再跟您讨论[NEXT][T]我先回去做卷子去了[NEXT][S]别 我还没说完[NEXT][KEY][S]杨杨 听我说[KEY]	2
+[S]你不是来看病的吗[NEXT][S]说吧 什么病[NEXT][T]看什么病啊[NEXT][T]你就是病 心病[NEXT][KEY][S]这我可不敢当[KEY]	7
+[T]是吧[NEXT][T]你的作业都是独立完成的[NEXT][T]是不是[NEXT][S]妈[NEXT][KEY][S]你有没有听过这样一句话[KEY]	1
+[T]潘老师[NEXT][T]麻烦你了拜托了[NEXT][T]书记你怎么来了[NEXT][S]我呀 没事到你这串串门[NEXT][KEY][S]刚开完会啊[KEY]	1
+[T]你不吃可不行[NEXT][T]你真要是病倒了谁照顾杨杨[NEXT][S]行行我吃[NEXT][S]我带着了[NEXT][KEY][S]你看好了[KEY]	2
+[S]我考虑一整天了[NEXT][T]你考虑一整天是考虑整天 你也考虑到说磊儿最近身体不太好[NEXT][T]但是你也不能用搬家这种方法[NEXT][T]这就是太突兀了[NEXT][KEY][S]我不是光为了磊儿[KEY]	3
+[T]别[NEXT][T]你姐夫他就怕招摇[NEXT][T]你千万别给他弄那么贵的中式家具[NEXT][T]不用[NEXT][KEY][S]放心[KEY]	3
+[S]我也特别喜欢科幻小说[NEXT][S]但我还是更喜欢生活中真正的宇航员[NEXT][S]就是[NEXT][S]您知道[NEXT][KEY][S]上次我在咱们天文馆 我演讲的时候介绍过 刘洋[KEY]	2
+[T]我回来了[NEXT][S]洗手[NEXT][T]妈[NEXT][T]你不吃吗[NEXT][KEY][S]你自己吃 我不太有胃口[KEY]	0
+[S]说明一个考的好[NEXT][S]一个没考好[NEXT][T]说明我们家的遗传基因优秀的一等一全被你们家拖累了[NEXT][S]什么意思[NEXT][KEY][S]是怎么还基因来了呢[KEY]	1
+[T]就一瓶苏打水[NEXT][T]你就想把我给打发了[NEXT][T]想的美我都想跟你绝交了[NEXT][S]不 别绝交[NEXT][KEY][S]我都想好了[KEY]	3
+[S]还能多睡会儿[NEXT][S]明天我还琢磨着[NEXT][S]你起床以后带你去趟商场[NEXT][S]我一直想给你换把椅子[NEXT][KEY][S]你现在怎么那么驼背[KEY]	2
+[S]那不是有个篮球场吗[NEXT][S]他们俩非嚷嚷说要打篮球[NEXT][S]你说就我们仨 乔卫东都没打[NEXT][S]我跟方圆肚子一个比一个大[NEXT][KEY][S]别说打篮球了[KEY]	2
+[T]再怎么样[NEXT][T]人家是一法律硕士[NEXT][T]能力不行[NEXT][T]但是你非得跟实习生抢那小业务干嘛[NEXT][KEY][S]我怎么那么不爱听[KEY]	4
+[S]怎么这个都错[NEXT][S]你能不能小点声啊[NEXT][T]不是我，它放的[NEXT][S]Frank不能放屁啊[NEXT][KEY][S]不能那么大声，姐姐在做作业呢[KEY]	6
+[T]我妈走的时候[NEXT][T]老二老三都不在身边[NEXT][T]他俩真的是让我太失望了[NEXT][S]明哲你这一去没有七八天的都下不来[NEXT][KEY][S]David那边你打算怎么解释啊[KEY]	1
+[T]今天见到小时候的一个朋友[NEXT][T]也不是小时候，中学的时候[NEXT][T]当时我们两个家住同一个院子[NEXT][T]我看到了[NEXT][KEY][S]你们不是发小吗[KEY]	1
+[S]不用 洗衣服[NEXT][T]你把脏衣服脱了 搁在脏衣桶里[NEXT][T]我一块洗 [NEXT][S]没事[NEXT][KEY][S]我自己洗就行[KEY]	3
+[T]我知道找工作找急了 不急[NEXT][T]刚开始 不许急[NEXT][T]听到没有[NEXT][S]我有时候在琢磨[NEXT][KEY][S]我老是觉得我有一个什么功能还没有发挥出来[KEY]	3
+[T]可以了你过来[NEXT][S]我让你帮我从那跳过去[NEXT][S]谁让你自己过去的[NEXT][T]怎么办[NEXT][KEY][S]你先转到这来[KEY]	0
+[S]你嘴上不说[NEXT][S]你心里肯定有个坎[NEXT][S]我不解释[NEXT][S]我错了我承认[NEXT][KEY][S]对不起[KEY]	5
+[S]你知道是什么意思吗[NEXT][T]我听不懂[NEXT][S]听不懂 那就看出基因是怎么回事了[NEXT][S]好 不说基因的事了[NEXT][KEY][S]我觉得是这样[KEY]	3
+[S]他还有隐私[NEXT][S]这孩子这么大[NEXT][S]你把它拿出去 孩子多没面子[NEXT][S]我跟你讲 孩子十五六岁看这很正常[NEXT][KEY][S]我小时候也看行不行[KEY]	3
+[S]我每天这样熬夜还不得好好保养一下[NEXT][S]当然得花大钱[NEXT][S]用最好的东西[NEXT][T]你赶完这个场子应该就能休息了[NEXT][KEY][S]当然不行[KEY]	0
+[T]谁惹你生气了谁呀[NEXT][S]没事明天来了我再跟你说好吧[NEXT][T]好[NEXT][S]拿走全部拿走[NEXT][KEY][S]以后没什么事别往我这跑[KEY]	6
+[S]怎么能不穿秋裤呢[NEXT][T]不穿[NEXT][S]我都穿了很长时间了[NEXT][S]今天还要加副护膝[NEXT][KEY][S]你别觉得你年轻身体好就可劲的造[KEY]	3
+[S]你都出汗了[NEXT][S]我走了[NEXT][S]走了[NEXT][T]你慢点[NEXT][KEY][S]没事这有[KEY]	4
+[S]他说变心就变心[NEXT][S]我真的想不明白[NEXT][S]怎么可以这样的呢[NEXT][S]我跟你说我跟公司请了一个星期假[NEXT][KEY][S]我这一个星期不去了[KEY]	2
+[S]这关系一时半会也缓不过来[NEXT][S]还好[NEXT][S]你只走几天[NEXT][S]对[NEXT][KEY][S]你晚上几点的飞机[KEY]	1
+[T]我是说你这手伸的是不是太长了[NEXT][T]这是我的购物车[NEXT][T]这里头是我买的食品[NEXT][S]当我跟你抢车[NEXT][KEY][S]那不是最后 这都进[KEY]	3
+[S]现在高考可不是千军万马过独木桥的年代了[NEXT][S]那是条条大路通罗马[NEXT][S]真正难的是什么[NEXT][S]难的就是让孩子怎么才能少走这个弯路[NEXT][KEY][S]但我们作为老师的来说[KEY]	3
+[T]遵守制度[NEXT][T]尊重公司[NEXT][S]老师刚才没有这个动作是新加的吗[NEXT][T]不是 那个那个 你先练吧 我先走了[NEXT][KEY][S]别 别走啊 我还要跟你练到天亮[KEY]	7
+[S]但是爸爸跟妈妈没有血缘[NEXT][S]有血缘的[NEXT][S]只有你一个[NEXT][S]好好表现给你将功补过的机会[NEXT][KEY][S]90分卷子下次拿来[KEY]	6
+[S]你觉得我爸是什么感受[NEXT][S]190对于老人，我是医生[NEXT][S]老人随时可能过去[NEXT][S]我问你[NEXT][KEY][S]如果你那一句话说[KEY]	1
+[S]你眼里都只有大学是吧[NEXT][T]你给我坐下，你小点声[NEXT][S]童文洁 我告诉你[NEXT][S]从今天开始我不学了[NEXT][KEY][S]我大学不考了[KEY]	2
+[S]这样 从今天开始 咱们俩工作的事电话联系 肥我自己减[NEXT][S]你也没事别老往我家跑[NEXT][S]更不用教我怎么做人 好吗 圣母[NEXT][T]好[NEXT][KEY][S]再见[KEY]	4
+[S]你看这不是挺好的吗[NEXT][T]挺能蹦的[NEXT][S]我自己来[NEXT][T]行吗[NEXT][KEY][S]行[KEY]	0
+[S]这个卡里啊 存了好多钱[NEXT][S]你把它交给你爸爸[NEXT][T]好的[NEXT][T]那你自己为什么不去给他呢[NEXT][KEY][S]他不肯要我的钱[KEY]	0
+[S]李老师高三学生蹲班的事情[NEXT][S]我想再跟你沟通一下[NEXT][S]我们校领导班组昨天专门开会[NEXT][S]就这个问题也进行了上会讨论[NEXT][KEY][S]最后一致认为不能开蹲班这个口子[KEY]	2
+[T]现在还没做活检呢嘛[NEXT][T]还没结果[NEXT][S]我是觉得这些年我你对孩子亏欠的太多了[NEXT][S]对吧[NEXT][KEY][S]特别是对你 每天同吃同住[KEY]	2
+[T]爸[NEXT][T]这签证还没办好呢[NEXT][S]签证没办好快办啊[NEXT][S]要不行你就回来办吧[NEXT][KEY][S]亲自办[KEY]	6
+[S]闺女[NEXT][T]来了[NEXT][S]英子 开门[NEXT][T]爸 快进来[NEXT][KEY][S]老爸给你买了早餐[KEY]	2
+[T]好[NEXT][T]我马上给他打电话[NEXT][S]不是打电话[NEXT][S]是去他律所找[NEXT][KEY][S]让他下午无论如何说服罗琦来我办公室[KEY]	6
+[S]你看好了[NEXT][S]我把它贴手背上 怎么都不可能忘了[NEXT][S]我肯定到办公室就吃[NEXT][T]想着吃就行[NEXT][KEY][S]书记 你找我[KEY]	1
+[S]妈妈是帮你收拾房间[NEXT][S]你房间这么乱[NEXT][T]不想再提这件事了[NEXT][S]你看你喜欢写东西[NEXT][KEY][S]妈妈是支持你的对不对[KEY]	1
+[S]这些是她给你的[NEXT][T]怎么了[NEXT][S]她还跟你说什么了[NEXT][S]再具体一点[NEXT][KEY][S]快点[KEY]	6
+[T]搬[NEXT][S]磊儿 哥得谢谢你[NEXT][T]谢我什么[NEXT][S]谢谢你[NEXT][KEY][S]未我们搬家做的贡献[KEY]	0
+[S]跟我们住[NEXT][T]那我学习呢[NEXT][S]啊[NEXT][S]你跟我们住就不能学习了[NEXT][KEY][S]你别那么多事[KEY]	6
+[S]我真紧张[NEXT][S]而且老师我跟你讲[NEXT][S]艺考的老师 啪往那坐一排[NEXT][S]感觉有点眼睛眼神不好[NEXT][KEY][S]来吧 朗诵 念念绕口令[KEY]	2
+[T]你想想，小宇要是一直不理我[NEXT][T]他一直不肯回这个家[NEXT][T]那我这万贯家产将来不都给了外人了[NEXT][S]不是张亮忠，你真行，你[NEXT][KEY][S]你我这辈子没见过这么无耻[KEY]	2
+[S]妈妈跟你说两句话[NEXT][T]您说我听着[NEXT][S]你看你高二一年都在天文馆做讲解员[NEXT][S]妈妈是不是一直都支持的[NEXT][KEY][S]妈妈知道那是你的爱好和理想[KEY]	3
+[T]刚才不是都说清楚了吗[NEXT][T]我明天考英语[NEXT][T]我得复习[NEXT][T]能不能明天再说[NEXT][KEY][S]不能明天说[KEY]	7
+[S]好看 再配一条夸张点的项链应该会更好看[NEXT][T]樊姐 我没有那种夸张的项链[NEXT][S]那就算了[NEXT][T]樊姐 周六干啥去[NEXT][KEY][S]在家梳头发玩[KEY]	0
+[S]我买一辆汽车[NEXT][S]我是什么样的人你还不知道[NEXT][S]我是一个把钱看得很重的人吗[NEXT][T]你现在住哪[NEXT][KEY][S]我之前租的公寓的房子[KEY]	0
+[T]吃[NEXT][S]你也饿了[NEXT][T]有点[NEXT][T]你做什么[NEXT][KEY][S]你想吃什么[KEY]	0
+[S]早年间我都试过了[NEXT][S]你不是星期六吗[NEXT][S]这才星期三[NEXT][S]这不还有两天的吗[NEXT][KEY][S]我想办法[KEY]	2
+[S]回头我再想想怎么跟他说[NEXT][T]你别回头了[NEXT][T]我想过了[NEXT][T]就今天跟他说吧[NEXT][KEY][S]我今儿这么说啊[KEY]	1
+[S]咱俩手里掌握的信息[NEXT][S]对这件事情起到了关键性的作用[NEXT][S]根本摆脱不了干系[NEXT][T]师傅请问[NEXT][KEY][S]叫什么叫 没看正忙着吗 边儿待着去[KEY]	6
+[T]你能这么想当然最好了[NEXT][T]我们跟人家谈的不是自主经营[NEXT][T]所以人家那边会过来一批人[NEXT][S]我明白[NEXT][KEY][S]还得在上面再加个小领导[KEY]	3
+[S]杨杨[NEXT][S]我饿了[NEXT][S]做点宵夜你吃吗[NEXT][T]吃[NEXT][KEY][S]你也饿了[KEY]	1
+[T]白练了[NEXT][S]人生到了咱们这阶段[NEXT][S]能有什么问题啊[NEXT][S]孩子呗，你说这小宇也是我亲生的[NEXT][KEY][S]他怎么就那么恨我呀[KEY]	1
+[S]直接去参加高考[NEXT][S]就这道理[NEXT][T]我不想让方一凡当坏分子[NEXT][S]你先不要悲观[NEXT][KEY][S]学校现在还是对方一凡是有信心的[KEY]	3
+[S]打出事了怎么办[NEXT][S]打坏了怎么办[NEXT][S]不过我今天也见识了 你爸的脾气真的是吓人[NEXT][S]是 我有时候也觉得 大人心思真的琢磨不懂[NEXT][KEY][S]搞不懂[KEY]	3
+[T]想谈就谈呗[NEXT][S]就是今天，不是上爷爷奶奶那[NEXT][S]吃饭吗[NEXT][S]结果这儿正吃着吃着饭[NEXT][KEY][S]孩子餐桌上趴那儿睡着了[KEY]	2
+[S]明天我就要去公司上班了 你可要一视同仁 不许欺负我哟[NEXT][T]怎么可能呢[NEXT][T]你是我女儿[NEXT][T]爸爸盼你有出息还来不及呢 怎么会欺负你啊[NEXT][KEY][S]那行 你把最好的公司给我[KEY]	6
+[S]对不对[NEXT][T]成[NEXT][S]对吧[NEXT][S]结果你 你悄么声偷偷回来了[NEXT][KEY][S]我还替你扛着雷[KEY]	2
+[S]你别发散[NEXT][S]我可没说磊儿[NEXT][S]再说怎么了[NEXT][S]你跟我不是一家人[NEXT][KEY][S]你不是我的家人 磊磊不是我家人[KEY]	4
+[S]能[NEXT][T]抓着我啊慢点起慢点起[NEXT][T]不是让你在外面等着 你进来干什么呀[NEXT][T]闹了半天 您找这个来了[NEXT][KEY][S]给我 那是我的东西[KEY]	6
+[S]你的成绩在哪里[NEXT][S]你努力到哪去了[NEXT][S]为什么分数不见提上来[NEXT][S]方一凡你看着妈妈[NEXT][KEY][S]妈妈问你呢[KEY]	6
+[T]不是去打工的[NEXT][T]你有钱都考不上[NEXT][T]苏明玉 你是不是[NEXT][S]这一年要15万[NEXT][KEY][S]咱这几个存折加一块没那么多吧[KEY]	1
+[S]日子真的是活不下去[NEXT][T]怎么没法过了[NEXT][T]不会是那什么[NEXT][T]你出租司机什么夫妻不和谐[NEXT][KEY][S]我怎么没有你这说哪去了[KEY]	7
+[T]不高兴打电话来骂我[NEXT][T]你有病吧[NEXT][T]你怎么在这儿[NEXT][S]我家在这[NEXT][KEY][S]你还不让我回来了[KEY]	4
+[T]我问你你跟我说实话[NEXT][T]在你们男人心里[NEXT][T]像我这个年龄的女人[NEXT][T]是不是根本就没法跟那些小姑娘比[NEXT][KEY][S]我跟你说[KEY]	0
+[S]比如说开除[NEXT][T]为什么[NEXT][S]你负责找到合理合法的开除理由[NEXT][T]是任晓年的公司出什么问题了吗[NEXT][KEY][S]是并购 去做吧 一定要想周全[KEY]	0
+[T]我就[NEXT][S]你怕我着急上火[NEXT][S]你瞒着我[NEXT][S]将来你找了小三[NEXT][KEY][S]你也怕我着急上火[KEY]	2
+[S]你这妈妈知道不得气死了[NEXT][T]我当然知道[NEXT][T]所以我才让你救救我[NEXT][S]不是不是你怎么不及格？[NEXT][KEY][S]你这回年纪排多少名[KEY]	1
+[T]老师[NEXT][T]教的也有点感觉有点要死不活[NEXT][S]什么要死不活[NEXT][S]本来这些东西就很枯燥的[NEXT][KEY][S]你能让人蒋老师讲出花来[KEY]	1
+[T]你妈就让我们俩之间实行AA制[NEXT][T]我就先习惯[NEXT][T]我怕我到时候不适应[NEXT][S]那我妈他那是瞎折腾[NEXT][KEY][S]你敷衍敷衍不就行了吗[KEY]	4
+[T]但是有一点 你不能开除于果[NEXT][S]好[NEXT][S]弟兄们 都给我下班了[NEXT][S]这活留给她一人干[NEXT][KEY][S]走啊[KEY]	6
+[T]你这叫小农意识[NEXT][T]算了[NEXT][T]我教你 你不是在店里摄影总监吗[NEXT][T]你不负责器材采购吗[NEXT][KEY][S]对[KEY]	0
+[T]自助餐[NEXT][T]吃肉发什么愣[NEXT][T]吃完了再换一桌[NEXT][T]你没事吧 要帮忙吗[NEXT][KEY][S]没事[KEY]	0
+[T]不生气咱俩一块洗去[NEXT][S]不是我[NEXT][T]你别再去找他了[NEXT][T]你别[NEXT][KEY][S]我不是去找他[KEY]	7
+[S]就他那智商估计听也听不懂[NEXT][T]好[NEXT][T]那咱们就不说他[NEXT][T]说说你吧[NEXT][KEY][S]我怎么了[KEY]	1
+[T]我知道我会控制我自己的[NEXT][T]真控制啊[NEXT][T]知道了[NEXT][T]表哥[NEXT][KEY][S]怎么了[KEY]	1
+[S]它们怎么在这儿啊[NEXT][T]说来话长[NEXT][S]你没走[NEXT][T]你不也没走吗[NEXT][KEY][S]安徽暴雨[KEY]	0
+[S]还有我郑重的提醒你[NEXT][S]你知道吧[NEXT][S]家里的事你无法回避的[NEXT][S]就算你瞎了你还能听见[NEXT][KEY][S]就算你听不见你也聋了[KEY]	2
+[T]抽风跑步去了[NEXT][T]说要和安迪学什么健康规律的生活[NEXT][T]两个人一块有去了[NEXT][S]你在这干什么[NEXT][KEY][S]赶紧收拾去[KEY]	6
+[T]程老师跟你说的一模一样[NEXT][T]这么看来好像你们两个更有默契[NEXT][S]说什么[NEXT][T]没说什么[NEXT][KEY][S]说[KEY]	6
+[S]这倒真省事了[NEXT][S]往里一放[NEXT][T]这是你的清蒸哈什蚂是吧[NEXT][S]对对 清蒸哈什蚂[NEXT][KEY][S]我今天还有个事想跟你商量[KEY]	2
+[T]我这不就是为了英子吗[NEXT][T]放心[NEXT][T]等英子来了[NEXT][T]我再把家具换了[NEXT][KEY][S]如果他这房子想租给你[KEY]	3
+[T]怎么了[NEXT][S]走到哪都要讲排场[NEXT][T]你不是去北京了吗[NEXT][T]怎么又突然跑回来了[NEXT][KEY][S]北京多无聊[KEY]	0
+[T]这种小事，哪还有功夫陪您不合算啊[NEXT][T]您要是给我签了[NEXT][T]老师还认[NEXT][T]咱这事就此掀过，黑不提白不提[NEXT][KEY][S]你这是不想让你老爸知道你这分数[KEY]	1
+[S]我要墙头你要草[NEXT][S]不就这个道理[NEXT][T]你说什么呢[NEXT][S]不是 那你 刚才我说不搬 你呲我[NEXT][KEY][S]我肯定想说那就搬[KEY]	3
+[T]我今天去天秤了[NEXT][S]去天秤啦[NEXT][T]我跟你说师姐对我那态度180度大转弯特别好[NEXT][T]你知道为什么吗[NEXT][KEY][S]不知道呀[KEY]	0
+[S]我能穿秋裤去上班[NEXT][S]他就不能穿秋裤去上学吗[NEXT][T]你这是胡搅蛮缠[NEXT][S]不是[NEXT][KEY][S]谁胡搅蛮缠了[KEY]	1
+[T]当男人和工作都靠不住的时候[NEXT][T]只能靠酒精[NEXT][S]看来我今天碰到了一个有故事的女同学[NEXT][S]我特别喜欢听别人讲故事[NEXT][KEY][S]来个气泡水 来个果盘[KEY]	6
+[S]我暂时先不告诉你妈妈了[NEXT][S]好吧[NEXT][T]暂时多久啊？[NEXT][S]暂时暂时你说暂时，那就现在不告诉你妈妈[NEXT][KEY][S]就等到你下一次你考好了[KEY]	2
+[T]行不行[NEXT][S]辟谣了吗[NEXT][S]行[NEXT][S]钱钟书先生，这这没辟谣[NEXT][KEY][S]他数学考考过15分[KEY]	2
+[S]一起吃点东西[NEXT][T]不了[NEXT][T]我想今天晚上把它改出来[NEXT][T]你在这坐着干嘛[NEXT][KEY][S]监督工作[KEY]	0
+[T]你去开荒[NEXT][T]严肃点跟你说正经的[NEXT][S]我很正经[NEXT][T]眼睛还有没有我当爸爸的[NEXT][KEY][S]有[KEY]	0
+[T]张亮忠[NEXT][S]好好好 你定你定 行行 随便 都行 啊[NEXT][T]喂，干嘛[NEXT][S]商量个事呗[NEXT][KEY][S]架子鼓悠着点练成不成[KEY]	1
+[S]还喝不少呢[NEXT][S]不过你酒品太差了[NEXT][T]然后呢[NEXT][S]想不起来了[NEXT][KEY][S]真不记得了 [KEY]	0
+[T]我觉得也是杨杨过得太奢侈了[NEXT][T]什么要有什么 都是刘铮惯的[NEXT][S]行了[NEXT][S]你现在也别说这个[NEXT][KEY][S]就算是刘铮惯的吧[KEY]	3
+[T]你给我躲一边去[NEXT][S]你看你看，你打算怎么跟她聊啊，骂她？打她一顿？[NEXT][S]你下得了手吗[NEXT][T]我是那种人吗[NEXT][KEY][S]所以说我就知道你不是那种种人[KEY]	0
+[S]下次 下下次呢 高考怎么办[NEXT][S]我跟你讲[NEXT][S]高考可不是百米冲刺[NEXT][S]那是马拉松[NEXT][KEY][S]有的你努力的 要依我说 高考以前这些玩具[KEY]	3
+[S]你就说[NEXT][S]你誓师大会跟谁见[NEXT][S]你跟谁打招呼了[NEXT][S]跟方圆打招呼是吧[NEXT][KEY][S]他们是孩子家长是吧[KEY]	2
+[S]支持[NEXT][S]你爷爷说了好男儿志在千里[NEXT][S]那必须得走[NEXT][T]爷爷奶奶这么好[NEXT][KEY][S]你爷爷这人就是一个走南闯北见多识广的人[KEY]	2
+[T]只要跟你吵架[NEXT][T]就会到那家电影院去看电影[NEXT][S]怪不得[NEXT][T]怪不得什么[NEXT][KEY][S]没什么[KEY]	0
+[T]你说你三四天才回来[NEXT][T]然后一个电话都没有[NEXT][T]回来就摆副臭脸[NEXT][T]你给谁看呢你[NEXT][KEY][S]我三四天不回来怪谁 怪我吗[KEY]	4
+[S]每天6:30起床[NEXT][S]7:15出门到学校还得早自习是吧[NEXT][S]然后这一天课上完回来6张卷子还写作业[NEXT][S]你还搞什么特训[NEXT][KEY][S]你说这孩子顶得住啊[KEY]	1
+[T]几点了[NEXT][T]我这样 我喝完咖啡[NEXT][T]我早上就给孩子买早餐[NEXT][S]别买什么早餐 还没出摊[NEXT][KEY][S]刚刚4:30[KEY]	2
+[T]那我就管不着[NEXT][S]小宇[NEXT][S]我知道自从爸爸娶了蒂娜[NEXT][S]你就恨我[NEXT][KEY][S]是不是[KEY]	1
+[T]要到时候真的不行了[NEXT][T]咱就复读一年[NEXT][S]你再读一年这何必 凡凡你自己算算这个账[NEXT][S]你现在能努力，拼一下，就拼9个月[NEXT][KEY][S]你需要把9个月的煎熬变成18个月吗[KEY]	3
+[T]什么耽误拉活，你就找借口，懒[NEXT][T]懒就说懒[NEXT][S]我还懒[NEXT][S]每天跑好几百公里[NEXT][KEY][S]绕49城好几圈[KEY]	2
+[T]这只是第一阶段 完成后您能无障碍的进行日常交流[NEXT][T]但是如果要商业谈判的话[NEXT][S]等一下等一下等一下[NEXT][S]你说 你刚说第一个阶段就需要60个小时[NEXT][KEY][S]那你知不知道我一个小时我能赚多少钱[KEY]	1
+[T]你跟我解释[NEXT][T]当然我希望这是个误会[NEXT][T]我也相信我张亮忠的儿子[NEXT][S]你误会个屁[NEXT][KEY][S]我告诉你张亮忠我就诚心拿药毒她行不行[KEY]	1
+[S]有一个义务讲解员特别优秀[NEXT][S]结果一了解是英子[NEXT][S]你看咱们这又成了邻居了[NEXT][T]是挺有缘分的[NEXT][KEY][S]他跟杨杨以前还是两年的同学[KEY]	2
+[T]这不是北京的孩子吗[NEXT][T]还是想在北京范围内选一家[NEXT][S]对[NEXT][S]这次机会反正挺难得的[NEXT][KEY][S]报名也马上截止了[KEY]	2
+[T]妈妈怪心疼的[NEXT][T]好[NEXT][T]那我走了[NEXT][S]看看现在成什么样子了[NEXT][KEY][S]放学不回家[KEY]	2
+[S]行好[NEXT][S]好好做功课 把门关好[NEXT][S]关好了[NEXT][T]你来干嘛[NEXT][KEY][S]我为什么不能来[KEY]	1
+[T]喝这么多[NEXT][T]老话说啦[NEXT][T]酒入愁肠愁更愁[NEXT][T]你这么喝身体都喝坏了[NEXT][KEY][S]谁说我愁了我高兴[KEY]	7
+[T]我说这么多 你也不说话[NEXT][T]怎么了[NEXT][T]这一个拥抱疗法[NEXT][T]还给你拥抱郁闷了[NEXT][KEY][S]老师不是讲到原生家庭的影响了吗[KEY]	0
+[S]我们各退一步[NEXT][S]妈妈以后肯定会向爸爸看齐[NEXT][S]然后让你后面的学习生活更加宽松[NEXT][S]但南京大学咱别再想了[NEXT][KEY][S]好吧[KEY]	1
+[T]哥的[NEXT][T]要多关心关心她[NEXT][S]哪儿轮得着我啊 人家明玉在国内混的好着呢[NEXT][S]要钱有钱 要地位有地位[NEXT][KEY][S]哪轮得着我这个当大哥的去关心她[KEY]	4
+[S]洪总那边 我会尽快想办法解决[NEXT][S]您放心[NEXT][T]这事你就不用再管了[NEXT][T]回去好好休息[NEXT][KEY][S]为什么[KEY]	1
+[S]我是小金的助理了[NEXT][S]以后我给小金要递茶倒水[NEXT][S]拿快递 打文件 给他点外卖[NEXT][S]还得给他订机票[NEXT][KEY][S]这些活都得我来干了[KEY]	3
+[S]这才是正理[NEXT][S]行了[NEXT][S]咱俩吃饭去吧[NEXT][T]没心情[NEXT][KEY][S]喝一下午茶肚子油都刮光了[KEY]	3
+[S]你这是干什么呢[NEXT][T]没干什么[NEXT][T]老师说计算机能够编程[NEXT][T]然后我想试一下[NEXT][KEY][S]先把汤喝了[KEY]	6
+[T]为咱们家 是吧[NEXT][T]他心里根本就没有咱俩 他自私自利[NEXT][T]为了自己狂大的欲望[NEXT][T]你都不知道他在外面做了什么丢人的事儿[NEXT][KEY][S]住嘴[KEY]	6
+[T]还有两个邻居正在赶回来的路上[NEXT][T]准备下午的网络酣战[NEXT][T]为我正名 另一个邻居刚刚给我解决了一个大事[NEXT][T]所以我不能丢下这些好朋友不管[NEXT][KEY][S]这个拒绝[KEY]	7
+[T]发生什么事 一天都不高兴[NEXT][S]挨欺负了[NEXT][T]谁能欺负你呢[NEXT][T]你一个人能干过一个团[NEXT][KEY][S]我要有本事 我自己早当老总了[KEY]	3
+[T]但你说作为父亲[NEXT][T]我这人还靠谱吧[NEXT][S]靠什么谱了[NEXT][S]你哪靠谱你怎么靠谱[NEXT][KEY][S]英子学习再好[KEY]	3
+[S]一天到晚不给我省心[NEXT][S]烦得我我一脑门子官司[NEXT][T]干嘛还烦你一脑门子官司[NEXT][S]不是 她太善变了[NEXT][KEY][S]一会说蹲一会说不蹲[KEY]	3
+[S]然后加上孩子这两天上学接送你有点辛苦[NEXT][S]你想出搬家这个事儿 这是不是稍微有点草率[NEXT][T]草率什么[NEXT][T]我考虑一整天了[NEXT][KEY][S]你考虑一整天是考虑整天 你也考虑到说磊儿最近身体不太好[KEY]	3
+[T]又请啊[NEXT][T]是不刚休完假回来吗[NEXT][S]我也是没办法[NEXT][S]我不是把我侄子接过来[NEXT][KEY][S]这孩子有点不太适应[KEY]	2
+[S]他跟我说[NEXT][S]他心里面全都是你[NEXT][S]恨不得跟你共度余生了[NEXT][T]真那么说的[NEXT][KEY][S]可不是吗[KEY]	0
+[S]性格难免孤僻[NEXT][S]来征婚肯定是下了很大的决心[NEXT][S]情有可原[NEXT][T]你对那个黑老头什么印象[NEXT][KEY][S]蛮好的呀[KEY]	0
+[T]我也心烦[NEXT][T]我也天打五雷轰一样[NEXT][T]可这又不解决问题[NEXT][T]你先睡一觉再说[NEXT][KEY][S]不能睡[KEY]	6
+[S]我当时喜欢我们班的一个男生[NEXT][S]然后我们常在一起写作业学习[NEXT][S]一起吃午餐就很自然而然谈恋爱了[NEXT][T]高几[NEXT][KEY][S]高二[KEY]	0
+[S]可结果却是永远有人站在比你更靠前的地方把车截走[NEXT][S]你却只能眼睁睁的看着打卡的时间一点点的过去[NEXT][S]你只能站在原地寸步难行[NEXT][S]我跟你说这些干吗[NEXT][KEY][S]你一小屁孩懂什么[KEY]	4
+[S]咱俩都是好人 好人帮好人[NEXT][S]那是天经地义的[NEXT][S]对吧[NEXT][T]你能不能再拔刀相助我一次[NEXT][KEY][S]行[KEY]	0
+[S]我觉得又省时间换换脑子[NEXT][S]妈妈肯定支持[NEXT][S]服务员[NEXT][T]你好[NEXT][KEY][S]我们点意大利面还没好[KEY]	1
+[S]老童[NEXT][S]快醒醒[NEXT][S]快醒醒[NEXT][S]老童你快起来[NEXT][KEY][S]快起来[KEY]	6
+[T]出什么事了[NEXT][T]你说要不然咱们俩就别瞒着孩子了[NEXT][T]就跟他们说实话[NEXT][S]不是 千万别[NEXT][KEY][S]千万别跟他们说[KEY]	7
+[S]那航母大玩具[NEXT][T]买了[NEXT][S]售价8499[NEXT][T]这孩子过生日 买生日礼物 你怎么知道的[NEXT][KEY][S]你给他买这生日礼物 交给英子之后[KEY]	2
+[T]你过来我有话对你说，我就在这等你[NEXT][T]不是，你不是说听不见吗[NEXT][T]那也没让你有吼的大哥[NEXT][S]把门关上[NEXT][KEY][S]你誓师大会要跟谁见[KEY]	1
+[T]你爸这个人他有好多的不良习性[NEXT][T]我不想他把你教坏了[NEXT][S]我身上是不是有他一半不靠谱的基因[NEXT][S]你是不是看我也不顺眼[NEXT][KEY][S]我是不是还得把它剔除干净的剔骨还亲[KEY]	1
+[T]他们让我明天务必出一份声明[NEXT][T]可是我到现在都不知道该怎么写[NEXT][S]所以呀[NEXT][S]你更得抓紧时间了[NEXT][KEY][S]听话[KEY]	6
+[T]先生[NEXT][S]你吓我一跳 什么事[NEXT][T]我有一个您必须考虑的产品[NEXT][T]保证能给你带来巨大的收益[NEXT][KEY][S]什么产品[KEY]	1
+[S]吓人[NEXT][S]你得记住了[NEXT][T]那我得收好了[NEXT][S]你说要是现在 你的那些七大姑八大姨突然找你借钱[NEXT][KEY][S]你该怎么办[KEY]	1
+[T]有本事让他送进门[NEXT][T]你一趟趟跑[NEXT][T]你到底要干嘛[NEXT][S]英子不是喜欢天文望远镜吗[NEXT][KEY][S]今儿货到了[KEY]	2
+[S]表哥我在做今天数学卷子最后一道题的时候[NEXT][S]发现这道题出的特别好[NEXT][S]是包含了咱们所有知识点的一道题[NEXT][S]我特意把我的笔记本拿过来给你誊一下[NEXT][KEY][S]要不然这道题你做到明天早晨都做不出来[KEY]	2
+[S]我图啥[NEXT][S]我真是[NEXT][S]我好心好意的[NEXT][S]你说我这不为你好吗[NEXT][KEY][S]我不是帮你吗[KEY]	1
+[T]这还没正式开学[NEXT][T]学校怎么知道这方一凡就当不了这个分子呢[NEXT][S]大数据，它根据你高一高二历次考试这些东西[NEXT][S]它判断一下你到底是一个什么级别的[NEXT][KEY][S]如果你是一个好分子肯定让你考[KEY]	3
+[S]他也对我姐姐的甜言蜜语的[NEXT][S]我一直拿她当我自己人[NEXT][S]我拿他当我的心腹[NEXT][S]结果 他是珍妮的奸细[NEXT][KEY][S]等于我说什么珍妮全都知道[KEY]	3
+[S]来先喝点茶[NEXT][S]慢点喝热着[NEXT][T]跟我们老师请假了吗[NEXT][S]没呢[NEXT][KEY][S]英子我问你[KEY]	1
+[S]行行[NEXT][S]谢谢[NEXT][T]物业怎么说[NEXT][S]他说要开阀门放气[NEXT][KEY][S]我找房东才行[KEY]	2
+[T]不合适在一起才叫感情[NEXT][T]不过是你让他明白了[NEXT][T]女人还是要找合适自己的人[NEXT][T]是你耍了迈飞[NEXT][KEY][S]是他自作聪明[KEY]	0
+[S]妈妈这不也陪你吗[NEXT][T]你陪我我也吃不下去[NEXT][S]我跟你说英子[NEXT][S]这个时候你可别掉链子[NEXT][KEY][S]咱们都得备战到底[KEY]	3
+[S]被网友一抨击[NEXT][S]再一人肉 这个人这辈子就算完了[NEXT][S]被否定了[NEXT][S]想翻身都难[NEXT][KEY][S]网络上无端的戾气是会伤人的[KEY]	3
+[S]我把这些厚衣服给你们拿出来[NEXT][T]还没到穿棉服的时候吧[NEXT][S]这多冷 屋里边 咱们又是一层[NEXT][S]这没来暖气的[NEXT][KEY][S]多穿点没错[KEY]	3
+[T]然后出去干别的活去[NEXT][S]走一步看一步[NEXT][S]我现在想是先找一个工作[NEXT][S]等我吃完这盘肉[NEXT][KEY][S]我就出去找工作去[KEY]	3
+[T]叙叙旧[NEXT][T]走[NEXT][T]好吧[NEXT][T]今天陪我见了一天的客户累了吧[NEXT][KEY][S]我不累[KEY]	0
+[T]行三全的[NEXT][S]抱蛋煎饺[NEXT][S]然后咱俩就出去溜达溜达[NEXT][S]逛一逛[NEXT][KEY][S]楼下我陪你打会儿篮球[KEY]	3
+[S]但是她的心地不坏[NEXT][T]你说我当着那么多人的面[NEXT][T]搞得很难看[NEXT][T]那她呢 当着那么多人的面说我吸爸妈的血[NEXT][KEY][S]今天你一定要跟我说说清楚 这明玉和妈到底怎么了[KEY]	1
+[S]他不可能坐到今天这个位置[NEXT][S]小金 不是我说 你真的得好好学习学习 职场有职场的游戏规则[NEXT][S]在职场你记住了[NEXT][S]你再怎么恨对方[NEXT][KEY][S]再怎么被对方气着[KEY]	3
+[S]你那是美[NEXT][T]你不要脸[NEXT][S]真的[NEXT][S]你看你一笑有多好看[NEXT][KEY][S]是不是[KEY]	1
+[S]乔英子判给的是宋老师[NEXT][S]这么些年是宋老师含辛茹苦把孩子拉扯大的[NEXT][S]你做了什么事[NEXT][S]你做多少事[NEXT][KEY][S]都叫锦上添花[KEY]	3
+[T]你要自杀威胁你妈搬家[NEXT][T]这缺德的事儿我可干不了[NEXT][S]不是[NEXT][S]我是那种有勇无谋的人吗[NEXT][KEY][S]再说了吃几片也吃不死[KEY]	3
+[T]不是 你就一定要推销个什么给我是不是啊[NEXT][T]是不是[NEXT][T]这课怎么卖啊[NEXT][S]我们第一阶段是60个小时[NEXT][KEY][S]5800[KEY]	0
+[S]但是宋倩的问题[NEXT][S]就是宋倩什么话都直怼 命令孩子[NEXT][S]你必须生吞海参[NEXT][S]你必须学习第一[NEXT][KEY][S]你必须好好学[KEY]	3
+[S]小事儿[NEXT][S]这有啥的[NEXT][S]这不是应该的吗[NEXT][S]对了[NEXT][KEY][S]你报名表交上去了吗[KEY]	1
+[T]挺好挺便宜的[NEXT][T]心疼[NEXT][S]还心疼啊[NEXT][S]12000呢[NEXT][KEY][S]再便宜我也心疼[KEY]	3
+[T]下午还得办公[NEXT][T]我没办法又买了件一模一样的穿在身上了[NEXT][T]就这么点事[NEXT][T]你明白了吧[NEXT][KEY][S]撒谎[KEY]	7
+[T]迷死人了[NEXT][T]还有睫毛怎么可以那么的长[NEXT][T]都可以架一支铅笔 比我的还长[NEXT][T]长在男生的脸上还真是浪费[NEXT][KEY][S]别动 看好你这个表情[KEY]	6
+[T]我主要是咨询一下中医的治疗方法[NEXT][T]老中医说可以用保守治疗[NEXT][T]这样病人的痛苦少[NEXT][T]经济上也好承受[NEXT][KEY][S]你不要再去咨询了[KEY]	6
+[T]我以前就是太亏待我自己了[NEXT][T]这包是买给自己的礼物[NEXT][T]你看看我以前买那些包[NEXT][T]什么时候上过300[NEXT][KEY][S]站在那保持安全距离[KEY]	6
+[T]我不教你们班[NEXT][T]我就不能问你事了[NEXT][S]行  问吧[NEXT][T]你是不是跟乔英子关系挺好的[NEXT][KEY][S]其实[KEY]	0
+[T]你说他怎么跟人解释[NEXT][T]你说这方一凡是不是闲的 他气死我了 真是[NEXT][S]你也不能怪凡凡[NEXT][S]他季胜利[NEXT][KEY][S]如果自己没有法拉利[KEY]	3
+[T]说吧[NEXT][S]我想离婚[NEXT][T]离婚[NEXT][T]为什么[NEXT][KEY][S]崔英俊出轨[KEY]	0
+[T]你说我当着那么多人的面[NEXT][T]搞得很难看[NEXT][T]那她呢 当着那么多人的面说我吸爸妈的血[NEXT][S]今天你一定要跟我说说清楚 这明玉和妈到底怎么了[NEXT][KEY][S]至于闹成这样吗[KEY]	4
+[S]我这张嘴叭叭叭 多合适[NEXT][S]我真的 你笑什么 真练过[NEXT][S]绕口令 我给你来一段 吃葡萄不吐葡萄皮[NEXT][S]不吃葡萄倒吐葡萄皮 白石塔[NEXT][KEY][S]白石塔 白塔 多溜是吧[KEY]	2
+[S]让他好好反省[NEXT][T]你是不是哪不舒服[NEXT][T]这两天光想着儿子了[NEXT][T]忘了问你去医院检查了吗[NEXT][KEY][S]还没来得及[KEY]	0
+[S]你说他怎么就那么好[NEXT][T]没有[NEXT][S]什么没有[NEXT][T]妈 你别逼我了成吗[NEXT][KEY][S]我逼你什么了[KEY]	1
+[T]现在能不能在有机会或者是创造机会的情况下[NEXT][T]让咱们的孩子 方一凡[NEXT][T]他们可以多一个机会[NEXT][T]多一次 选择一个他们喜欢的专业[NEXT][KEY][S]这等着我呢 让方一凡选什么[KEY]	1
+[S]是不是那屋[NEXT][S]出事了[NEXT][S]儿子那屋门开了[NEXT][S]能不能是有什么坏人来了[NEXT][KEY][S]你去看看去[KEY]	6
+[S]怎么还没完了[NEXT][S]刚才不是都说清楚了吗[NEXT][S]我明天考英语[NEXT][S]我得复习[NEXT][KEY][S]能不能明天再说[KEY]	1
+[T]行[NEXT][T]都听您的[NEXT][S]好[NEXT][S]以后别给妈妈做饭了啊[NEXT][KEY][S]妈妈怪心疼的[KEY]	3
+[T]你刚来几分钟[NEXT][T]说不定一会儿又过敏了[NEXT][T]又起疹子了[NEXT][S]没事[NEXT][KEY][S]我还有措施 来[KEY]	2
+[T]对不起[NEXT][T]我错了[NEXT][T]我下回一定好好考[NEXT][S]英子[NEXT][KEY][S]你干嘛呀 英子[KEY]	1
+[S]这就对了[NEXT][S]我告诉你[NEXT][S]老太太这次来可不是[NEXT][S]三五天你小子给我悠着点[NEXT][KEY][S]不许胡来[KEY]	6
+[T]屁话 我能不担心吗[NEXT][T]他成绩不好[NEXT][T]他成绩好烦个屁[NEXT][S]好[NEXT][KEY][S]你看我怎么理解[KEY]	2
+[S]什么小梦阿姨[NEXT][S]相不相册的不重要[NEXT][S]重要的是过来看看你[NEXT][S]老爸能陪你一起吃一顿早饭[NEXT][KEY][S]吃[KEY]	6
+[T]准备一下[NEXT][S]英子你停一下[NEXT][S]妈妈跟你说两句话[NEXT][T]您说我听着[NEXT][KEY][S]你看你高二一年都在天文馆做讲解员[KEY]	2
+[T]肯定是写作业[NEXT][T]学习 恶性循环[NEXT][T]估计给熬出病来[NEXT][S]什么叫应该是生病了[NEXT][KEY][S]你到底知不知道[KEY]	1
+[T]行干活去[NEXT][S]别动我[NEXT][S]我告诉你我不干了[NEXT][S]你也麻利赶快走[NEXT][KEY][S]以后也别再来了[KEY]	6
+[T]对[NEXT][T]这才是正理[NEXT][T]行了[NEXT][T]咱俩吃饭去吧[NEXT][KEY][S]没心情[KEY]	3
+[S]你们该不会在饭菜里下药了吧[NEXT][T]这饭可以乱吃[NEXT][T]话可不能乱讲[NEXT][T]我这是正经开店的[NEXT][KEY][S]你是正经人啊[KEY]	1
+[T]好[NEXT][T]那我走了[NEXT][S]看看现在成什么样子了[NEXT][S]放学不回家[NEXT][KEY][S]开车开到半夜[KEY]	2
+[T]来吧[NEXT][T]刚回来[NEXT][T]摔了疼啊 我来保护他[NEXT][T]这回谈的怎么样[NEXT][KEY][S]合同签了[KEY]	0
+[T]以后的也可以不重要[NEXT][T]但是明天对我来说真的特别重要[NEXT][T]你也知道我有多喜欢航天 双语讲解[NEXT][T]这还能练口语[NEXT][KEY][S]你口语挺好的了[KEY]	2
+[S]精力宝贵[NEXT][S]什么都宝贵[NEXT][T]怎么着你想[NEXT][S]你去跟他说一说[NEXT][KEY][S]要不然[KEY]	0
+[S]他为什么要喝醉[NEXT][S]是不是觉得婚姻不幸[NEXT][T]有可能[NEXT][T]要不然你过来问问他[NEXT][KEY][S]我才懒得管你们的破事[KEY]	7
+[S]你把我想成什么人了[NEXT][S]我去你那[NEXT][S]避避风头[NEXT][S]叙叙旧[NEXT][KEY][S]走[KEY]	6
+[T]老二一家不会照顾人[NEXT][T]我爸都食物中毒了[NEXT][S]你爸爸是吃坏了东西拉肚子[NEXT][S]人吃五谷杂粮哪有不生病的[NEXT][KEY][S]再说他来美国 你就能保证他一天不生病吗[KEY]	1
+[S]这是人家仕途 你弄这么个事[NEXT][S]你说这将来是官怎么当人将来[NEXT][S]人儿子开了个法拉利[NEXT][S]一个区长[NEXT][KEY][S]你说他怎么跟人解释[KEY]	1
+[S]您喝开心了吗[NEXT][T]开心了[NEXT][S]我给您再添点儿[NEXT][S]这素火锅[NEXT][KEY][S]挺好吃的[KEY]	4
+[T]就想起爸爸当年高考的时候的很多事[NEXT][T]你觉得高考难吗[NEXT][T]压力大吗[NEXT][S]我还行[NEXT][KEY][S]没觉得有什么压力[KEY]	0
+[T]我跟你说[NEXT][T]今天我跟宋倩去上瑜伽课了[NEXT][T]我俩跟小梦吵了一架[NEXT][S]你们俩可真行[NEXT][KEY][S]就不能换个老师[KEY]	3
+[T]省得你老说我自作主张[NEXT][S]这就对了[NEXT][T]是不是[NEXT][T]我做的对吧[NEXT][KEY][S]对个屁对[KEY]	7
+[T]他们高三年级组的组长[NEXT][T]新上来的李老师[NEXT][T]也是他的班主任[NEXT][T]今天跟我说[NEXT][KEY][S]说怎么了[KEY]	1
+[T]小金能同意吗[NEXT][S]Roger跟他谈了[NEXT][S]据我所知[NEXT][S]小金接受了[NEXT][KEY][S]姐 刚刚Jenny跟你说了那事是吧[KEY]	1
+[S]我吃不下[NEXT][T]王媛[NEXT][T]晚上工作你别去了[NEXT][T]太熬人了[NEXT][KEY][S]没事儿[KEY]	7
+[T]对不起[NEXT][T]尊重艺术是我的底线[NEXT][T]希望你能理解我[NEXT][S]我理解我都理解是我做的不好[NEXT][KEY][S]我下次再也不这样了[KEY]	5
+[T]就我们两个人怎么打麻将[NEXT][S]戴维也跟他太太特别喜欢中国麻将[NEXT][T]你怎么知道的[NEXT][S]我们好不容易约到你们的主管度假[NEXT][KEY][S]咱们不能光坐着傻玩吧[KEY]	4
+[S]她想把琴送出国[NEXT][S]她算了一下[NEXT][S]真的她今天很认真地跟我说她算了一下[NEXT][S]她说一年的学费大概20多万人民币[NEXT][KEY][S]这样的话4年高中下来怎么着也得100多万[KEY]	2
+[S]关键是昊子还年轻[NEXT][S]要是把他给收走了多可惜[NEXT][T]跟踪狂 还学霸[NEXT][S]来[NEXT][KEY][S]洗干净[KEY]	6
+[T]你提他干什么[NEXT][S]没辙[NEXT][S]我这人触景生情[NEXT][T]你少吃点那坚果[NEXT][KEY][S]我现在吃点坚果你都不让了[KEY]	1
+[T]你身体迟早要出大问题的[NEXT][T]而且你下午要巡场[NEXT][T]你万一又低血糖怎么办[NEXT][S]潘老师你能不能从现在开始不要打扰我了[NEXT][KEY][S]没准我能提前把手里的活干完[KEY]	3
+[S]不好意思 我有点失态了[NEXT][S]没事我缓一缓就好了[NEXT][T]不好意思[NEXT][T]平时喜欢看书[NEXT][KEY][S]对[KEY]	0
+[S]由于你的过失餐掉到了地上[NEXT][S]我可以给你差评[NEXT][T]这是意外不是过失[NEXT][T]您千万别打差评[NEXT][KEY][S]你给我解释一下什么叫过失[KEY]	6
+[S]我把他给公司[NEXT][S]他们都等着我[NEXT][T]你去医院去[NEXT][T]真的[NEXT][KEY][S]你看，不能让你再跑一趟[KEY]	2
+[S]你看看密码[NEXT][S]他改密码了他把密码说明他有鬼[NEXT][S]你说是不是你生日我生日[NEXT][S]你生日不是我生日也不是[NEXT][KEY][S]爷爷生日多少[KEY]	1
+[T]没心情[NEXT][S]喝一下午茶肚子油都刮光了[NEXT][S]没心情也得吃饭[NEXT][S]你别饿着[NEXT][KEY][S]我跟你说我的人生经验就是这样的[KEY]	3
+[S]七七八八下来一年便宜五六万[NEXT][T]行便宜就行[NEXT][T]共克时艰[NEXT][S]共克什么时艰[NEXT][KEY][S]你这马上一升职加薪[KEY]	2
+[S]好吧[NEXT][S]还难受[NEXT][T]可是我觉得我很受伤[NEXT][T]我心里受伤[NEXT][KEY][S]我给你揉揉 好吗[KEY]	1
+[S]那房子姓金[NEXT][S]是不是[NEXT][S]那是你们老金家的拆迁得来的[NEXT][S]跟我有半毛钱关系吗[NEXT][KEY][S]我可真够没脸的[KEY]	4
+[T]以前我真的以为自己是把你当做妹妹看了[NEXT][T]直到最近[NEXT][T]你不必觉得内疚[NEXT][T]你说彭永辉离婚娶王媛吗[NEXT][KEY][S]怎么可能[KEY]	0
+[T]我怎么了[NEXT][S]你看看你现在这个样子一副活不起的劲儿[NEXT][S]干嘛[NEXT][S]老金是什么[NEXT][KEY][S]神仙就说了一句[KEY]	1
+[T]所以高三这一年对一个人来说是最不平凡的一年[NEXT][T]你不觉得这样很有意义吗[NEXT][T]你不觉得这累点也值得吗[NEXT][S]李老师你真的太伟大了[NEXT][KEY][S]我特崇拜你这一点[KEY]	3
+[T]好吧[NEXT][T]只有那会能挪开了[NEXT][T]然后三号上午咱俩抓紧好吗[NEXT][T]行吗三号[NEXT][KEY][S]就三号[KEY]	0
+[S]一辈子都能守着你[NEXT][S]几点了[NEXT][S]坏了[NEXT][T]怎么了[NEXT][KEY][S]炉子上还给你炖着汤[KEY]	0
+[S]什么乱啊[NEXT][S]我知道[NEXT][S]我只要一见他你都不开心对不对[NEXT][S]你就跟我发火[NEXT][KEY][S]我都不能见他[KEY]	3
+[T]顺便上个厕所[NEXT][S]我其实已经知道了[NEXT][S]我给你们李老师打过电话[NEXT][S]他说你这次考了[NEXT][KEY][S]第二名还可以[KEY]	3
+[S]来[NEXT][S]英子[NEXT][S]下次要再遇见这样的事[NEXT][S]你得直接告诉妈妈[NEXT][KEY][S]妈妈会理解的[KEY]	3
+[T]但是费用这个事我们确实承受了很大的压力[NEXT][S]我知道[NEXT][S]这事是我的不是[NEXT][S]你说的对[NEXT][KEY][S]正式向你道歉[KEY]	5
+[T]我刚才在楼下看你了[NEXT][S]是吗[NEXT][T]干嘛去了[NEXT][S]也没干嘛[NEXT][KEY][S]就是去[KEY]	0
+[T]没干什么[NEXT][T]我们就是随便吃了一顿饭[NEXT][T]披萨[NEXT][S]太好了[NEXT][KEY][S]我就希望咱们一家三口能紧急密密的[KEY]	3
+[T]您这是让本宫跪安的节奏[NEXT][T]那我走了[NEXT][S]行 成成[NEXT][S]我哪有那个意思[NEXT][KEY][S]我巴不得你时时刻刻陪着我[KEY]	2
+[T]蹲一年班给你一年时间[NEXT][T]争取你成为好分子[NEXT][T]直接去参加高考[NEXT][T]就这道理[NEXT][KEY][S]我不想让方一凡当坏分子[KEY]	3
+[S]当你说你不反对的时候[NEXT][S]其实你心里反对的要死[NEXT][S]傻爸爸[NEXT][S]你是不是怕你的宝贝女儿被小坏蛋抢走[NEXT][KEY][S]我问你[KEY]	1
+[S]学校现在还是对方一凡是有信心的[NEXT][S]要不然不会跟他商量这事[NEXT][S]还有一个确实是他可能学习成绩不行[NEXT][S]但是这孩子聪明[NEXT][KEY][S]他积累反应快[KEY]	3
+[S]这不捣乱吗 在这[NEXT][S]真是气死人了真是[NEXT][S]我不是发火 着急 童文洁 你说[NEXT][S]你那天 打 那天孩子打架的时候[NEXT][KEY][S]你是不是去了[KEY]	1
+[S]我现在还有点时间我跟你讲讲[NEXT][S]我爸妈就是老师[NEXT][S]我从小耳濡目染[NEXT][S]而且我觉得当老师挺神圣的[NEXT][KEY][S]教书育人[KEY]	3
+[T]我帮你贴[NEXT][T]姑娘[NEXT][T]我觉得这样的贴没用[NEXT][T]你得登报[NEXT][KEY][S]现在哪有人看报纸[KEY]	4
+[T]我前几次给你签字都被你爸教训了[NEXT][T]我再给你签[NEXT][T]我得顶多大压力[NEXT][S]你告诉他干嘛[NEXT][KEY][S]我要想让他知道[KEY]	1
+[T]爸[NEXT][T]回来了[NEXT][S]回来了[NEXT][T]你去哪了[NEXT][KEY][S]出去玩去了[KEY]	0
+[T]我本来也没犯错[NEXT][T]我是无辜的[NEXT][T]从某种角度上讲我也是受害者[NEXT][S]乔卫东还说他无辜 说他当年不是出轨[NEXT][KEY][S]他不出轨[KEY]	1
+[S]忍一忍[NEXT][S]过两天他就去美国了[NEXT][T]每天一大早的心情都不好[NEXT][T]怎么上班呀[NEXT][KEY][S]唱首歌吧[KEY]	0
+[S]好好好[NEXT][S]我知道 我知道 要不这样啊[NEXT][S]今天店里人少 回家休息 好不好[NEXT][T]真的吗[NEXT][KEY][S]真的[KEY]	0
+[T]英子每天看见我们这 要高考了[NEXT][T]这天天脑子想男女之事[NEXT][T]对孩子不好[NEXT][T]影响不好[NEXT][KEY][S]你算了[KEY]	3
+[S]准确的说是被替代[NEXT][S]你是公司老员工了[NEXT][S]贡献大成绩突出[NEXT][S]但是为了咱们公司的再发展[NEXT][KEY][S]只要委屈你了[KEY]	3
+[T]究竟什么原因呢[NEXT][S]纪局长你能不能不在家里打官腔[NEXT][T]我在跟你讲问题[NEXT][T]怎么成打官腔了[NEXT][KEY][S]你好好看看[KEY]	6
+[T]怎么能成为网红零食的[NEXT][T]不光有网红零食[NEXT][T]还有网红饮料[NEXT][T]咸的奶茶 你肯定没喝过吧[NEXT][KEY][S]喝过[KEY]	0
+[S]你说我的每一笔销售事宜 都得经过他们的过目[NEXT][S]同意签字才能实施[NEXT][S]我这销售怎么干[NEXT][T]这事儿跟姓孙的有关系吗[NEXT][KEY][S]我去找老蒙之前去找过他了[KEY]	0
+[T][NO][NEXT][T][NO][NEXT][T]真巧[NEXT][T]车没事了[NEXT][KEY][S]是你呀 没事了没事 谢谢你[KEY]	0
+[T]爸爸妈妈和你永远不分开[NEXT][T]记住了[NEXT][S]妈，你放心[NEXT][S]我绝对不会出国[NEXT][KEY][S]然后我就待在这里[KEY]	2
+[T]不正好带带凡凡[NEXT][S]我是怕凡凡影响磊儿[NEXT][T]还真有可能[NEXT][T]那就看谁能量大了[NEXT][KEY][S]你还有没有别的了手上[KEY]	1
+[T]坐吧[NEXT][T]爸这是什么意思啊[NEXT][T]跟大哥打电话说话阴阳怪气的[NEXT][T]告黑状呢[NEXT][KEY][S]别管他了[KEY]	0
+[T]着急什么[NEXT][S]不急[NEXT][S]逗贫是逗贫[NEXT][S]着急是着急[NEXT][KEY][S]我觉得有一天我一定能找着一个工作[KEY]	3
+[S]最后还是你儿子替你尽的孝[NEXT][T]我真是对不起我妈[NEXT][S]好了[NEXT][S]一会还上班[NEXT][KEY][S]都过去了[KEY]	2
+[T]您就别拿我打岔了[NEXT][T]张总[NEXT][T]我不是不听您劝[NEXT][T]日子真的是活不下去[NEXT][KEY][S]怎么没法过了[KEY]	1
+[T]王大夫[NEXT][T]我有事想和你说[NEXT][S]说[NEXT][T]可是我不知道我该不该说[NEXT][KEY][S]有什么不该说的 说[KEY]	4
+[T]天天在家里耗着[NEXT][T]你说美国有这么好吗[NEXT][T]好好的清华毕业生不好好找工作[NEXT][T]非得去什么美国[NEXT][KEY][S]不许这么说你大哥啊[KEY]	7
+[S]你晚上几点的飞机[NEXT][T]9点的[NEXT][T]我6点多出门就可以[NEXT][T]你们晚上想吃点什么[NEXT][KEY][S]你就别管了[KEY]	0
+[T]妈妈专门给你准备了两套物理卷子[NEXT][T]你现在在做一些基础的没用了 知道吗[NEXT][T]得给你来点进阶的[NEXT][S]做啥卷子[NEXT][KEY][S]今天学校早上有高分作文讲座[KEY]	2
+[S]我们在他们眼里就是母老虎[NEXT][S]还有一个你再另外这么想[NEXT][S]孩子们是在乎我们[NEXT][S]他在乎我们[NEXT][KEY][S]怕我们生气才会撒谎的[KEY]	3
+[S]再加上你那老寒腿[NEXT][S]多出点汗排排毒[NEXT][S]腿也能舒服[NEXT][T]明成 明天咱还来呗[NEXT][KEY][S]这不能天天来啊[KEY]	0
+[S]吃饭吗[NEXT][S]结果这儿正吃着吃着饭[NEXT][S]孩子餐桌上趴那儿睡着了[NEXT][S]你说这孩子累成什么样了[NEXT][KEY][S]这嘴里还含着饭呢[KEY]	2
+[T]我没冲你爸你妈喊[NEXT][T]我就跟朵朵发火着[NEXT][S]你冲朵朵发火[NEXT][S]当着我爸妈的面[NEXT][KEY][S]在我爸妈家里叫指桑骂槐[KEY]	2
+[T]他老喝醉吗[NEXT][S]也不是经常就这两天[NEXT][T]他为什么要喝醉[NEXT][T]是不是觉得婚姻不幸[NEXT][KEY][S]有可能[KEY]	0
+[S]天文冬令营 那是什么[NEXT][T]阿姨我不该跟你说这个的[NEXT][T]你能别告诉我妈妈吗[NEXT][S]为什么 这好事[NEXT][KEY][S]你干嘛要瞒着妈妈呢[KEY]	1
+[T]你什么都不用管呢[NEXT][T]爸爸还会经常去看你的[NEXT][T]咱爷俩没事就周游世界[NEXT][T]多爽[NEXT][KEY][S]呵呵老张[KEY]	4
+[S]我怎么办[NEXT][S]我未来怎么办[NEXT][S]正在这时候一小伙子敲窗户[NEXT][S]把我当成开滴滴快车[NEXT][KEY][S]后来想热心肠 送了一段[KEY]	2
+[T]放把火把家烧了一家三口同归于尽[NEXT][S]火烧太监啊[NEXT][T]火烧瘸太监[NEXT][S]怎么是瘸太监[NEXT][KEY][S]腿打折了[KEY]	0
+[S]你让他赶紧带你去看看妇科去[NEXT][S]你得检查的[NEXT][S]你上次什么时候检查的[NEXT][T]我都记不住了[NEXT][KEY][S]你赶紧去我准你假[KEY]	6
+[T]宋倩 童文洁陪着呢[NEXT][T]英子呢 我儿子陪着[NEXT][T]这事你放心[NEXT][S]方圆 你凭良心说[NEXT][KEY][S]我这个人孙不孙子[KEY]	1
+[T]参加大party还穿那么正式干嘛[NEXT][T]没必要吧[NEXT][S]有必要 你要穿得体体面面地去[NEXT][S]你要让他们觉着就算他们不用你 你一样能混得非常好[NEXT][KEY][S]明白吗[KEY]	1
+[T]现在特别火的一个网红面包[NEXT][T]你尝尝[NEXT][S]好好[NEXT][S]你们小朋友一天一个新花样[NEXT][KEY][S]这怎么吃[KEY]	1
+[S]医院[NEXT][S]对[NEXT][S]他爸今儿早上给我打电话说带英子去医院看病去了[NEXT][T]是吗[NEXT][KEY][S]对[KEY]	0
+[T]什么情况[NEXT][T]老郭放我鸽子[NEXT][S]不是郭经理的问题[NEXT][S]是因为咱们这边提不出货[NEXT][KEY][S]因为孙副总不签字[KEY]	0
+[S]帮忙擦 帮忙擦呀 来来来 把外套脱了 外套脱了[NEXT][T]要不然去洗手间[NEXT][S]去洗手间[NEXT][T]好好好[NEXT][KEY][S]对不起啊余总[KEY]	5
+[T]出动我爸的力量把我给逼过来[NEXT][T]行[NEXT][T]你张小宇[NEXT][S]对不起[NEXT][KEY][S]我是真的想和你say sorry[KEY]	5
+[T]麝香[NEXT][T]这里面有麝香[NEXT][S]数学考了个25分[NEXT][S]就想蒙混过关[NEXT][KEY][S]是不是[KEY]	1
+[S]给我点[NEXT][T]你要自杀威胁你妈搬家[NEXT][T]这缺德的事儿我可干不了[NEXT][S]不是[NEXT][KEY][S]我是那种有勇无谋的人吗[KEY]	1
+[S]你就大胆的往前走[NEXT][S]那个每天想吃点什么喝点什么[NEXT][S]需要什么就跟我说[NEXT][S]必须把你娘俩[NEXT][KEY][S]伺候得踏踏实实得[KEY]	2
+[S]要不看这场 怎么了[NEXT][S]不想去看[NEXT][T]没有 特别想去看[NEXT][T]Tom cruise不是您男神嘛[NEXT][KEY][S]咱干脆晚上出去吃饭[KEY]	3
+[T]哪是帮我[NEXT][T]你这是帮倒忙[NEXT][T]朵朵那礼物你找着没有[NEXT][T]咱们自己的事你不管吗[NEXT][KEY][S]没问出来我跟你讲我问了半天旁敲侧击绕了半天弯子[KEY]	0
+[S]你别成天疑神疑鬼的好吗[NEXT][S]一有女的给我打电话[NEXT][S]发短信 就神经兮兮刨根问底的[NEXT][S]这样干有意思吗[NEXT][KEY][S]周芳 你能不能正常点[KEY]	4
+[S]再说了北京这么干[NEXT][S]吃辣的上火[NEXT][T]跟我妈似的[NEXT][S]你妈说的对咱就得听[NEXT][KEY][S]这两天你妈对你怎么样[KEY]	1
+[S]妈 你起来了[NEXT][T]你[NEXT][T]我是不是起晚了[NEXT][S]没有[NEXT][KEY][S]我5点多就起了[KEY]	2
+[T]看他什么都好[NEXT][T]我有时候再想想[NEXT][T]我是不是应该改改我的教育方式[NEXT][S]怎么改[NEXT][KEY][S]你改成乔卫东式的教育方式你行吗[KEY]	1
+[S]你还是第一次来阿姨家[NEXT][T]你家好干净[NEXT][S]咱们楼上楼下住着 还没串过门[NEXT][T]是 您 这干什么呢[NEXT][KEY][S]阿姨在做饭[KEY]	0
+[S]你的家在美国 回美国去 你给我回美国去[NEXT][S]别跟着我[NEXT][S]哪来的回哪去[NEXT][S]我跟你说你哪来的回哪去[NEXT][KEY][S]走开 别跟着我[KEY]	6
+[S]为了让你跟磊儿能够多睡一会儿[NEXT][S]我们从那么远的地方搬到这儿来[NEXT][S]每个月多花1万多块钱[NEXT][S]这钱天上掉下来的[NEXT][KEY][S]你说你从小到大所有的这些要求[KEY]	2
+[S]没过几天你就要生日了[NEXT][S]妈妈本来想等你生日再把礼物给你[NEXT][S]也不差这几天了[NEXT][S]护眼仪[NEXT][KEY][S]学习累的时候可以按摩按摩休息一下[KEY]	2
+[T]谢谢老爸 但我这正吃着呢[NEXT][S]吃这个吃这个[NEXT][T]你刚上来的时候没碰到我妈吧[NEXT][T]他刚下楼买菜[NEXT][KEY][S]碰到了[KEY]	0
+[T]不是离婚的时候让乔卫东弄走1套[NEXT][S]你说我也是的[NEXT][S]我这方面脑子是一点都没有[NEXT][S]方圆也是的[NEXT][KEY][S]脑子都不放在这上面[KEY]	3
+[T]你真是挺有能耐的[NEXT][T]我真是低估你了[NEXT][S]不是姐不是这样的[NEXT][S]要不这样[NEXT][KEY][S]咱们title是title[KEY]	3
+[S]睡这儿了[NEXT][T]怎么回事[NEXT][T]喝酒了[NEXT][S]对不起[NEXT][KEY][S]我今天喝 喝一点[KEY]	3
+[T]跟我去遛弯[NEXT][S]我和你妈散步去了[NEXT][T]好 你们去吧[NEXT][T]多穿点[NEXT][KEY][S]孩子知道关心咱们了[KEY]	3
+[S]挺好的[NEXT][S]但是 我 跟我没什么关系[NEXT][S]我后来在路上还想了[NEXT][S]童文洁[NEXT][KEY][S]我45岁了[KEY]	2
+[S]好在那时候他还心疼你[NEXT][S]对你还不错[NEXT][S]那也就算了[NEXT][S]现在完全不是那么回事了[NEXT][KEY][S]你还有什么可留恋的[KEY]	1
+[S]大师傅[NEXT][S]对了，见病人之前[NEXT][S]先吃一颗口香糖[NEXT][S]师傅请你吃寿司[NEXT][KEY][S]祝你手术成功[KEY]	2
+[S]你对自己儿子应该这样[NEXT][S]好不好[NEXT][S]来[NEXT][S]你绝对是最棒的妈妈[NEXT][KEY][S]这是做好妈妈的方法[KEY]	3
+[T]这不是我强项吗[NEXT][T]赶紧写检查去[NEXT][T]你干嘛[NEXT][S]你先停一下[NEXT][KEY][S]表情包的事儿我跟你说一下[KEY]	2
+[T]穿得珠光宝气的[NEXT][T]当时加了个微信[NEXT][T]也没怎么聊[NEXT][T]他现在怎么样了[NEXT][KEY][S]我不知道[KEY]	0
+[S]我会后悔一辈子的[NEXT][S]我不想这样[NEXT][S]反正我跟你说方朵朵考学的这个事情必须听我的[NEXT][S]我来管我还是那句话[NEXT][KEY][S]不加压不成学霸一放松成学渣你同不同意[KEY]	1
+[S]这是我从小的梦想[NEXT][S]所以我就想去南京大学[NEXT][S]它历史悠久[NEXT][S]而且天文学系又是全国第一[NEXT][KEY][S]所以我就想去南京大学也就报名天文冬令营了[KEY]	2
+[T]因为我们既是党员干部[NEXT][T]同时也是做父亲的[NEXT][T]所以这是家里家外的[NEXT][T]你得多操心[NEXT][KEY][S]书记您放心[KEY]	3
+[S]行[NEXT][S]带我找他们领导去[NEXT][T]对不起[NEXT][S]你别老跟我说对不起对不起的[NEXT][KEY][S]你麻溜的带我找他们领导去[KEY]	6
+[S]我吃饱了撑的我就不该生你[NEXT][S]方一凡我真的不明白你脑子里面天天在想什么[NEXT][S]你是不是真的不知道现在高几了[NEXT][S]你不知道我告诉你[NEXT][KEY][S]你现在高三了[KEY]	2
+[T]那帮孩子都20来岁[NEXT][T]20出头大学毕业[NEXT][T]你说他们见着我是叫我叔叔还是喊我大爷[NEXT][T]我还是算了[NEXT][KEY][S]我今天早上就说过这个话[KEY]	3
+[T]只要完成并购了[NEXT][T]我还能在原来的岗位上[NEXT][T]往上挪点[NEXT][S]是 我说过[NEXT][KEY][S]现在突然发生了变化[KEY]	2
+[S]行 有理想是好事[NEXT][S]但是不能太露骨[NEXT][T]我这人向来直白露骨[NEXT][T]怎么着有意见[NEXT][KEY][S]谁敢有意见[KEY]	0
+[T]这可不是小事[NEXT][T]是不是[NEXT][T]你这妈妈知道不得气死了[NEXT][S]我当然知道[NEXT][KEY][S]所以我才让你救救我[KEY]	2
+[T]将来一定干出一番大事业[NEXT][T]帮她气死我爸[NEXT][S]咱赶紧回去吧[NEXT][S]我都困死了一宿没睡了[NEXT][KEY][S]走吧[KEY]	6
+[T]老东西敢欺负我妈[NEXT][T]我开摩托车撞他[NEXT][T]上哪去啊[NEXT][T]旅行社啊[NEXT][KEY][S]李总 李总 李总 不好意思 迟到了 迟到了[KEY]	5
+[T]去你，什么你呀[NEXT][T]来来喝酒[NEXT][T]这一打岔至少5个亿[NEXT][S]对了佳妮啊[NEXT][KEY][S]我还要问你呢[KEY]	2
+[S]操场[NEXT][S]行[NEXT][S]我承认[NEXT][S]我说漏嘴了[NEXT][KEY][S]商场 我跟他在商场沟通了[KEY]	2
+[S]哪有刚考完试就学习的 累死了[NEXT][S]要学会放松[NEXT][T]可是我不想降分[NEXT][S]有的时候我真的是不明白[NEXT][KEY][S]搞不懂你对吧[KEY]	3
+[S]不住[NEXT][T]你这多对不住人家小白呀[NEXT][S]可不是吗[NEXT][T]那那个呢[NEXT][KEY][S]也分开了[KEY]	0
+[S]你要玩爸爸支持你[NEXT][S]但爸爸要你学习[NEXT][S]你也得听爸爸的[NEXT][S]这点让爸爸跟妈妈完全是一致的[NEXT][KEY][S]你看你现在不蹲班了[KEY]	3
+[S]什么叫你绝对不会出国[NEXT][S]我就不会送你出去[NEXT][S]妈妈就你这一个亲人[NEXT][S]当然[NEXT][KEY][S]爸爸也算[KEY]	2
+[S]他见过世面[NEXT][S]还有什么 多少钱[NEXT][S]你这自己在网上瞎查[NEXT][S]这那么贵[NEXT][KEY][S]你找一明白人打听 那个谁[KEY]	6
+[T]你不承认也没用[NEXT][T]田坤都跟我说了[NEXT][T]是不是一赌气给自己找个下家[NEXT][S]没有[NEXT][KEY][S]绝对不是这样[KEY]	7
+[S]特别有意思[NEXT][T]这是好事[NEXT][T]女儿只要你感兴趣[NEXT][T]爸爸提供一切条件[NEXT][KEY][S]臭爸 不要插手[KEY]	6
+[T]该不会这大夫他查不出来[NEXT][T]让我回家等死去吧[NEXT][S]爸[NEXT][S]我明天跟丽丽还得要上班呢[NEXT][KEY][S]咱们别折腾了行吗[KEY]	1
+[S]潘老师[NEXT][S]我作为高三年级组的组长[NEXT][S]兼冲刺班班主任向潘老师汇报[NEXT][T]我不敢当不敢当[NEXT][KEY][S]我要去做个家访[KEY]	2
+[T]好意思吗[NEXT][S]听您的[NEXT][S]那咱走吧[NEXT][T]干嘛去啊[NEXT][KEY][S]接她回来啊[KEY]	0
+[T]乔卫东还说他无辜 说他当年不是出轨[NEXT][T]他不出轨[NEXT][T]宋倩跟他离婚[NEXT][T]宋倩疯了[NEXT][KEY][S]他理论上讲应该不叫出轨你知道吧[KEY]	3
+[T]家长教育要讲究方式方法[NEXT][T]还说就是说有一些孩子压力太大了[NEXT][T]容易出问题[NEXT][S]我发现一件事 磊儿最近不正常[NEXT][KEY][S]你没发现  他今天抱桃子的时候 明显感觉都不一样[KEY]	2
+[T]我刚才在厕所睡着了[NEXT][S]你在洗手间睡怎么行[NEXT][S]别感冒了[NEXT][S]这怎么又加班[NEXT][KEY][S]赶紧回去[KEY]	6
+[S]全世界都知道你别装了[NEXT][T]我喝醉了行了[NEXT][T]这事我不跟你说[NEXT][S]那么我还没弄懂[NEXT][KEY][S]你给我说[KEY]	2
+[S]这不是小宇的考卷吗[NEXT][S]58、54、48、30[NEXT][S]这是你帮他签的字[NEXT][S]他让你给他签的[NEXT][KEY][S]他让你给他签你就签哪[KEY]	1
+[T]放松一下[NEXT][S]他谢谢我[NEXT][S]他谢谢我[NEXT][S]这孩子真懂事了啊[NEXT][KEY][S]知道跟咱们交流了[KEY]	3
+[T]我还没见着他人[NEXT][T]我马上跟他交接一下[NEXT][T]我就在一会有什么事你叫我[NEXT][S]别着急[NEXT][KEY][S]坐你先坐[KEY]	2
+[T]这是什么[NEXT][S]海参啊[NEXT][S]葱烧海参[NEXT][S]上次你不是觉得蘸芥末腥吗[NEXT][KEY][S]所以妈妈今天一早起来 想了想 给你做了一个葱烧海参[KEY]	2
+[S]您觉得合适吗[NEXT][T]合适啊[NEXT][T]您是金子在哪都会发光的[NEXT][S]你少给我废话[NEXT][KEY][S]开门[KEY]	6
+[S]他这坏事过去不就是好事了吗[NEXT][T]不是，这，这事我妈知道了后果不堪设想啊[NEXT][T]我这次本来就考砸了[NEXT][T]她要知道她[NEXT][KEY][S]朵朵，朵朵，你先[KEY]	6
+[T]这本来就违反校纪校规的[NEXT][T]并且给我们家庭造成了极其恶劣的影响[NEXT][T]你必须道歉[NEXT][T]并且是书面道歉 给你 给学校一个交代[NEXT][KEY][S]干嘛你 你至于吗 你发这么大的火[KEY]	1
+[T]我又不是明天就等着生孩子[NEXT][S]但你要补充营养[NEXT][S]你看你现在怀着孕[NEXT][S]你还去红枫上班[NEXT][KEY][S]我怎么好意思欠你的钱呢[KEY]	4
+[S]你不会是真动了[NEXT][S]把小宇送出国的心思吧[NEXT][T]非常时期 只能用非常手段了 再说了 给他送出国 不是减轻他现在的学习压力吗[NEXT][T]最不济混一口流利的英文回来[NEXT][KEY][S]混一口流利的广东话回来也不一定[KEY]	7
+[T]这是我估的一个数[NEXT][T]大概[NEXT][S]我不跟你扯了[NEXT][S]你就说[NEXT][KEY][S]你誓师大会跟谁见[KEY]	1
+[T]英子不是喜欢天文望远镜吗[NEXT][T]今儿货到了[NEXT][T]我给孩子把货送过来[NEXT][S]高三哪有时间玩这个[NEXT][KEY][S]拿走[KEY]	6
+[T]你不上第一节早课多久了[NEXT][S]两天[NEXT][T]两天[NEXT][S]三天[NEXT][KEY][S]我爸总共也没搬过来多少天[KEY]	3
+[T]好了我再一棍子把他打折[NEXT][T]你最没良心了[NEXT][T]那么长时间都不来看我[NEXT][T]闷死我了[NEXT][KEY][S]我没良心[KEY]	4
+[T]我们律所决定了将他们二人从我们律所开除出去[NEXT][S]开除[NEXT][T]对[NEXT][T]我们绝对不能姑息这种不善待老人的行为[NEXT][KEY][S]别介呀[KEY]	7
+[S]第一[NEXT][T]我这次英语考试没考好[NEXT][S]第二[NEXT][T]不该瞒着你[NEXT][KEY][S]第三[KEY]	1
+[S]两个礼拜的苏打水[NEXT][S]保证你天天笑呵呵 [NEXT][T]一个月[NEXT][S]别 三礼拜吧的[NEXT][KEY][S]不 就一个月的娃哈哈苏打水[KEY]	3
+[T]因为如果这么处的话[NEXT][T]你心里就会觉得很别扭[NEXT][T]觉得特别对不起[NEXT][T]刚刚过世没多久的姐夫 是吗[NEXT][KEY][S]算是吧[KEY]	0
+[S]你说你从小到大所有的这些要求[NEXT][S]妈妈哪一个没有答应你[NEXT][S]我就一个要求[NEXT][S]就是你把这个成绩搞上去[NEXT][KEY][S]现在高三了[KEY]	2
+[S]你看看人王一笛 说跳舞就跳[NEXT][S]说唱歌就唱歌[NEXT][S]落落大方[NEXT][S]你再看看方一凡跳的什么[NEXT][KEY][S]跟个小流氓一样的[KEY]	3
+[S]英子[NEXT][S]对不起啊[NEXT][S]刚才没有买油条和豆腐脑[NEXT][S]我知道大家都挺喜欢吃的[NEXT][KEY][S]可是妈妈下楼一看[KEY]	3
+[S]上哪儿旅行[NEXT][T]我去了一个[NEXT][T]一个遥远的[NEXT][T]荒无人烟的地方[NEXT][KEY][S]你去开荒啊[KEY]	4
+[T]我成全你行吗[NEXT][T]仗义[NEXT][T]我倒要看看就他这岁数他这模样[NEXT][T]他姐到底给他找个什么狗屁精英[NEXT][KEY][S]你这话不一定对[KEY]	7
+[T]这不是坐过了吗[NEXT][T]谁先坐的[NEXT][S]我先坐[NEXT][T]到底谁先坐的[NEXT][KEY][S]真的是我先坐的[KEY]	0
+[S]怎么上来的[NEXT][T]你不让我上来[NEXT][T]人家物业经理亲自把我送上来的[NEXT][S]有本事让他送进门[NEXT][KEY][S]你一趟趟跑[KEY]	1
+[T]怎么了[NEXT][T]我得拍张照啊[NEXT][T]省着以后你黑我怎么办[NEXT][T]不会怎么会呢[NEXT][KEY][S]你可真行[KEY]	4
+[S]以后一个月1万多的房租[NEXT][S]孩子生活质量不能下降[NEXT][S]就补习班也少不了报[NEXT][S]都得花钱[NEXT][KEY][S]咱们就算租房子[KEY]	2
+[S]你该干嘛干嘛去行吗[NEXT][S]行[NEXT][S]爱跟这待着待着我上厕所去[NEXT][T]鬼鬼祟祟的[NEXT][KEY][S]你听着记住我说的[KEY]	6
+[S]没有[NEXT][S]我5点多就起了[NEXT][T]你起那么早干什么[NEXT][S]这不是早上起来头脑清楚[NEXT][KEY][S]我就跑了个步再做个听力[KEY]	2
+[S]第二年万一她不适应环境[NEXT][S]成绩掉下去了[NEXT][S]这钱没了[NEXT][S]对不对[NEXT][KEY][S]那怎么办[KEY]	1
+[S]出门的时候[NEXT][S]你不是让我注意肚子吗[NEXT][S]我们呀 喝完了[NEXT][S]准备各回各家 路过健身器械那一片[NEXT][KEY][S]那不是有个篮球场吗[KEY]	2
+[S]谢谢[NEXT][T]怎么样[NEXT][T]是被盗刷了还出什么问题[NEXT][S]不好意思[NEXT][KEY][S]这件事是我做的不对[KEY]	5
+[T]什么悲剧重演[NEXT][T]你哪悲了啊[NEXT][T]这住住的就[NEXT][S]诶诶 你就别提住了[NEXT][KEY][S]咱住一个小区[KEY]	2
+[T]妈 你别逼我了成吗[NEXT][S]我逼你什么了[NEXT][S]他是不是样样都比你妈好多了[NEXT][S]你妈什么都不对[NEXT][KEY][S]对吧[KEY]	1
+[T]我今天好多表要给做完了[NEXT][T]明天一早得交上去[NEXT][T]你做饭了没有[NEXT][T]做什么[NEXT][KEY][S]我今天请你吃[KEY]	0
+[T]杨杨[NEXT][T]你怎么跑过来了[NEXT][S]听姥姥说[NEXT][S]今天你搬家[NEXT][KEY][S]我就过来了[KEY]	2
+[S]谁想到他来这么一出[NEXT][T]听这意思[NEXT][T]您是旧情难忘[NEXT][S]没有[NEXT][KEY][S]真没有[KEY]	0
+[S]合着是一菜[NEXT][T]天妇罗 这一听这名 这也得是4张以上的[NEXT][T]慢点喝[NEXT][T]要不一会就醉了[NEXT][KEY][S]醉了也好[KEY]	3
+[S]你可以 这个好[NEXT][S]好好 这是领导 这是给人管事的[NEXT][S]这就跟印名片[NEXT][S]是一个道理 比如名片[NEXT][KEY][S]这名片 我就不多印[KEY]	3
+[S]这谁煮的粥啊[NEXT][T]那肯定是他啊 这还用问吗[NEXT][S]你爸有没有生活常识啊[NEXT][S]自己煮了粥 人不在这[NEXT][KEY][S]把咱家给点了就好了[KEY]	1
+[T]就等同于翻他日记本你知道吗[NEXT][S]日记本我也翻过[NEXT][S]我也不是没翻过[NEXT][S]我不怕[NEXT][KEY][S]你看看密码[KEY]	6
+[T]呵呵[NEXT][S]你怎么不说话[NEXT][T]还是你先说吧[NEXT][T]你笑什么[NEXT][KEY][S]我就是笑[KEY]	0
+[S]英子多好[NEXT][S]成绩这么好[NEXT][S]又孝顺你[NEXT][S]又漂亮[NEXT][KEY][S]又知道疼你[KEY]	2
+[S]您又不是忍者神龟[NEXT][S]憋着干嘛[NEXT][S]容易憋出毛病来[NEXT][T]你回去吧我想一个人进去[NEXT][KEY][S]遇事就往壳里缩是解决不了问题的[KEY]	7
+[S]这是一个让你做好人的机会[NEXT][S]你知道吗[NEXT][T]我怎么成坏人了[NEXT][S]不是说坏[NEXT][KEY][S]我是说让你当好人[KEY]	2
+[S]童文洁 他再错 真的要影响人家杨杨考大学怎么办[NEXT][S]你真的让人老季真的受个处分[NEXT][S]在机关单位受个处分[NEXT][S]工作没了[NEXT][KEY][S]咱担得起这责任吗[KEY]	3
+[S]就是薪酬方面你的要求少点[NEXT][T]什么职位[NEXT][S]销售经理[NEXT][T]又是销售[NEXT][KEY][S]怎么 不愿意干 无所谓 无所谓[KEY]	4
+[S]我是不是就可以吃到我妈所有不让我吃的那些美食了[NEXT][T]爸爸做 想吃什么[NEXT][S]我要吃麻辣烫、火锅[NEXT][S]然后小龙虾[NEXT][KEY][S]然后[KEY]	0
+[S]薪水很低[NEXT][S]师哥[NEXT][S]你比我大三届 45了[NEXT][T]虚岁 虚岁[NEXT][KEY][S]法律助理的职务是要拼体力的[KEY]	2
+[T]不然我真的我现在已经招架不住了[NEXT][T]每天暴露在我妈的炮火之下[NEXT][T]你知道方一凡他们家方叔叔就每天给方一凡当子弹[NEXT][T]我也想要个沙包[NEXT][KEY][S]爸爸回来了就是你的人肉沙包[KEY]	3
+[S]跟我瞎客气啥[NEXT][T]床头水果是你买的吗[NEXT][T]买那么多干什么[NEXT][T]他能吃的完吗[NEXT][KEY][S]摆着不也挺好的吗[KEY]	0
+[S]都可以开玩笑[NEXT][S]你说现在这网络多吓人[NEXT][S]你熟人和熟人之间开玩笑属于正常[NEXT][S]你陌生人之间开玩笑那就不一样了[NEXT][KEY][S]现在网络上你随便发一个什么都有可能被传播开[KEY]	3
+[S]要是没中间人牵线[NEXT][S]别说合作 就连电话都打[NEXT][S]打不进去的[NEXT][T]什么时候的事啊 我怎么不知道[NEXT][KEY][S]大概有一个多月了吧[KEY]	0
+[T]要不他们回来我都没法交代了[NEXT][S]师傅[NEXT][T]还知道我是你师傅[NEXT][T]你去找洪总干什么[NEXT][KEY][S]我想弥补过失[KEY]	0
+[S]我泼妇是吧[NEXT][S]行 彭永辉[NEXT][S]我今天倒让你看看什么是泼妇[NEXT][S]电话拿来[NEXT][KEY][S]电话拿过来[KEY]	6
+[T]你一个人能干过一个团[NEXT][S]我要有本事 我自己早当老总了[NEXT][S]我还跟这受气[NEXT][S]流年不利[NEXT][KEY][S]举步维艰[KEY]	3
+[T]你就是我的女神[NEXT][S]瞎说 就知道拍马屁[NEXT][S]不过这一个月就别吃了[NEXT][S]好不好[NEXT][KEY][S]到底还是上火[KEY]	3
+[S]那你来干嘛[NEXT][T]找到牛仔服了吗[NEXT][S]小亮[NEXT][S]赵小亮[NEXT][KEY][S]对不起[KEY]	5
+[S]你死活都不肯去[NEXT][S]难不成[NEXT][S]你爸还能把你绑起来[NEXT][S]架到飞机上去[NEXT][KEY][S]老师讲未成年保护法你都忘了[KEY]	1
+[T]小宇说[NEXT][T]对[NEXT][T]说一什么帅哥[NEXT][T]说大家都喜欢一帅哥是吗[NEXT][KEY][S]什么帅哥[KEY]	1
+[S]谢谢妈妈[NEXT][T]感觉怎么样[NEXT][S]我尝尝[NEXT][T]还行吗[NEXT][KEY][S]好吃[KEY]	1
+[T]容易[NEXT][T]你只要把他送出国几年[NEXT][T]我保证朵朵一定会比我厉害的[NEXT][T]不过关键是你舍得吗[NEXT][KEY][S]我有什么舍不得的[KEY]	4
+[T]真的我有症状了[NEXT][T]今天安妮跟我说我有症状了[NEXT][S]你这样，你有什么症状[NEXT][S]你有什么症状你是不是早更这正好在医院一查就清楚了[NEXT][KEY][S]还早更呢[KEY]	1
+[S]你想学到什么程度就学到什么程度[NEXT][S]好不好[NEXT][S]将来学成归来[NEXT][S]爸爸这亲手创立的家业就统统交给你了[NEXT][KEY][S]怎么样[KEY]	1
+[S]突然提前了[NEXT][S]我看群里面不停的艾特[NEXT][S]我说算了赶紧过来一趟[NEXT][S]把这些事情都处理了[NEXT][KEY][S]我也踏实[KEY]	3
+[T]他挺沉的[NEXT][T]你钱要回来了吗[NEXT][S]回来了[NEXT][T]多少钱[NEXT][KEY][S]5000[KEY]	0
+[S]能把这些东西看明白呢[NEXT][S]咱让孩子 让孩子先学会心知肚明[NEXT][S]有自知之明[NEXT][S]先学会竖着看自己的人生[NEXT][KEY][S]这也是一种进步[KEY]	3
+[S]横着看一时的得意[NEXT][S]一时的痛苦 也就这个了[NEXT][S]得意也是什么[NEXT][S]也是不理智的[NEXT][KEY][S]得意 也是盲目的得意[KEY]	3
+[T]我这脸往哪搁[NEXT][T]我告诉你小强[NEXT][T]你要再这么下去[NEXT][T]我就只能跟你离婚[NEXT][KEY][S]你还坐着 你赶紧把他追回来[KEY]	6
+[S]我不就 刚才说了一句[NEXT][S]说我不想穿西装[NEXT][S]我觉得没面子[NEXT][S]那怎么着[NEXT][KEY][S]我到单位就让大家伙一看[KEY]	3
+[T]他这是原地踏步[NEXT][T]我急的就是这个啊[NEXT][S]所以我说关键你怎么看这个事[NEXT][S]没错[NEXT][KEY][S]他可能 你要是这么横着看[KEY]	3
+[T]离180度大转弯还有很长的路[NEXT][T]不过刚刚确实拐了一个小弯[NEXT][T]去车场了解杨杨的喜好[NEXT][T]这一招确实很有效果[NEXT][KEY][S]真的[KEY]	1
+[S]原来我们公司有一个同事爱上一个渣男[NEXT][S]全体公司员工从上到下就劝他怎么劝都劝不回[NEXT][S]就说你千万不能离婚[NEXT][S]那男的是个渣男听不进去[NEXT][KEY][S]非要离跟人家渣男就走了[KEY]	2
+[S]英子懂事[NEXT][S]很多时候他考虑到妈妈[NEXT][S]他怕妈妈心里难过[NEXT][S]孩子把事情都压在心底[NEXT][KEY][S]你说我作为爸爸[KEY]	3
+[T]你说你妈是怎么找到那酒店居然还知道门牌号[NEXT][T]他简直就是一女版的詹姆斯邦德[NEXT][T]你说她是不是在我脑子里装什么芯片了[NEXT][T]就GPS定位那种[NEXT][KEY][S]不太可能[KEY]	7
+[S]你就叫我大仙儿[NEXT][S]豆豆就这么叫我[NEXT][S]亲热[NEXT][T]您能告诉我 我这个心脏是从哪来的吗[NEXT][KEY][S]捐献的[KEY]	0
+[T]别着急[NEXT][S]你攒吧等你攒够了[NEXT][S]学费也涨了[NEXT][S]你说我们单位多少人现在还租房子住[NEXT][KEY][S]为什么买不起[KEY]	1
+[S]我的天 我看这条新闻差点吓死我了[NEXT][S]那孩子真生在通道了[NEXT][T]那不打了马赛克了嘛[NEXT][T]我还挺上镜的[NEXT][KEY][S]上镜 能当演员了你[KEY]	4
+[T]哎 这样啊 我跟你说句心里话[NEXT][T]我现在觉得我这心里有点慌[NEXT][S]我还慌呢[NEXT][T]孩子你见着没有[NEXT][KEY][S]见着了[KEY]	0
+[T]排骨汤[NEXT][S]还有这个[NEXT][T]这是什么[NEXT][S]海参啊[NEXT][KEY][S]葱烧海参[KEY]	2
+[S]妈我知道[NEXT][T]跟你爷爷和昱文叔叔一个样[NEXT][S]妈[NEXT][S]昱文哥是加州理工的高材生[NEXT][KEY][S]我哪能跟他比[KEY]	4
+[S]学会跟你爸理应外合了是吧[NEXT][S]好玩吗[NEXT][T]他就回来拿个相册[NEXT][T]你发那么大火干嘛[NEXT][KEY][S]他是拿一相册吗[KEY]	1
+[S]我以为你为了我可以多学点[NEXT][S]行了不跟你贫了[NEXT][S]弄好了咱们赶紧去校长办公室开会[NEXT][T]开会[NEXT][KEY][S]校长办公室[KEY]	2
+[T]让方一凡也当富二代[NEXT][T]好了[NEXT][T]你跟家好好休息两天[NEXT][T]休息休息行不行[NEXT][KEY][S]哪能休息的了[KEY]	3
+[T]他们今天分班考老师在群里都通知了[NEXT][T]晚上要加一个晚自习答疑[NEXT][T]明天还有一天[NEXT][S]分班[NEXT][KEY][S]分什么班[KEY]	1
+[T]我回去吃方便面[NEXT][T]刚才门口撞一女的 谁[NEXT][S]一朋友[NEXT][T]红颜知己[NEXT][KEY][S]别瞎打听[KEY]	6
+[S]我试试啊[NEXT][S]童文洁[NEXT][S]童文洁你过来呀[NEXT][S]你过来我有话对你说，我就在这等你[NEXT][KEY][S]不是，你不是说听不见吗[KEY]	1
+[T]我就跑到山里面找一个小院[NEXT][T]每天看着太阳升起来[NEXT][T]再看着太阳落下去[NEXT][T]然后就在这安安静静的一个人待着读书喝酒挺满意的[NEXT][KEY][S]可是你不觉得同一个地方待久了也会无聊[KEY]	1
+[S]所以我决定把他接回来住[NEXT][T]接回来？[NEXT][T]住这儿？[NEXT][S]你看我就这么一个儿子[NEXT][KEY][S]不是不是不是[KEY]	7
+[T]我这不是没病吗[NEXT][T]我这好好的[NEXT][S]你昨天不是还不舒服来着[NEXT][T]那是昨天 我现在好了[NEXT][KEY][S]预防不是更重要[KEY]	3
+[T]我已经把嘟嘟的底给摸清楚了[NEXT][T]她连第一小学的面试都没有参加[NEXT][T]就直接上了[NEXT][T]关键是她住在那[NEXT][KEY][S]第一小学学区房[KEY]	0
+[T]行了，我不跟你说了[NEXT][T]这回听我的[NEXT][T]怎么这个都错[NEXT][T]你能不能小点声啊[NEXT][KEY][S]不是我，它放的[KEY]	0
+[S]不是你的血脉呀？[NEXT][T]我跟你说[NEXT][T]蒂娜这次怀的[NEXT][T]有可能是个闺女[NEXT][KEY][S]你怎么知道的[KEY]	1
+[S]我不能干什么[NEXT][S]我都得严格按照那张表上的来执行[NEXT][S]我真的快喘不过来气了[NEXT][S]我这次期中考试那些题[NEXT][KEY][S]其实我都会 我知道答案是A[KEY]	2
+[S]不过我今天也见识了 你爸的脾气真的是吓人[NEXT][S]是 我有时候也觉得 大人心思真的琢磨不懂[NEXT][S]搞不懂[NEXT][S]一开始我觉得你和我们还不是一路人[NEXT][KEY][S]想干嘛干嘛[KEY]	3
+[T]我的人生刚开始怎么就终生遗憾了呢[NEXT][S]凡凡妈妈跟你说实话[NEXT][S]我们是一个很普通的家庭[NEXT][S]爸爸妈妈没有任何背景[NEXT][KEY][S]我们也没有任何关系[KEY]	3
+[T]谢谢小姨[NEXT][T]儿子[NEXT][T]拉完了吗[NEXT][S]你先忍着[NEXT][KEY][S]我这刚进来 你找磊儿去[KEY]	3
+[S]让你们单位的人约[NEXT][S]不太好[NEXT][S]我答应你这两天我就找时间去[NEXT][S]最后一杯啊[NEXT][KEY][S]你喝完了早点睡[KEY]	6
+[S]所以[NEXT][S]让我往后看看好不好[NEXT][T]等会[NEXT][T]你说你妈认识一男的[NEXT][KEY][S]是[KEY]	0
+[S]我就介绍给陶律师了[NEXT][T]好不错[NEXT][T]你有律照是吧[NEXT][S]有[NEXT][KEY][S]不过考得不太好才考了第九名[KEY]	4
+[T]你愿意叫什么[NEXT][T]你先帮我把病人叫起来[NEXT][S]Ok[NEXT][S]大师傅[NEXT][KEY][S]对了，见病人之前[KEY]	2
+[S]这件事你知道吗[NEXT][T]书记我真不知道[NEXT][S]老季[NEXT][S]主要是你儿子身后这部车是个豪车[NEXT][KEY][S]法拉利[KEY]	2
+[T]我现在挺心疼我爸的[NEXT][T]你说他这三天两头的给我送的东西[NEXT][T]每次哪一回不是被我妈给怼过去了[NEXT][T]夹着尾巴就逃走了[NEXT][KEY][S]原来天下的妈妈都一个样[KEY]	3
+[T]你又要请假[NEXT][S]是早知道现在何必当初 应该给自己留条后路[NEXT][T]什么后路[NEXT][S]不是上次他跟说着告我状[NEXT][KEY][S]还是你告诉我的 说我家庭妇女[KEY]	2
+[S]我知道我秀色可餐[NEXT][S]你也不至于这么盯着我不放吧[NEXT][T]就看就看 谁让你这么久都不理我的[NEXT][S]对不起[NEXT][KEY][S]我道歉[KEY]	5
+[T]现在不是都说什么有趣的灵魂[NEXT][T]万里挑一吗[NEXT][T]我就想做那枚有趣的灵魂[NEXT][T]我说这么多你不会觉得烦[NEXT][KEY][S]没有[KEY]	0
+[S]要多关心关心她[NEXT][T]哪儿轮得着我啊 人家明玉在国内混的好着呢[NEXT][T]要钱有钱 要地位有地位[NEXT][T]哪轮得着我这个当大哥的去关心她[NEXT][KEY][S]这话我就不爱听[KEY]	7
+[T]他打你了[NEXT][S]他没有打我[NEXT][S]他把我降职了[NEXT][S]把小金提上来了[NEXT][KEY][S]小金现在是副总了[KEY]	2
+[T]你什么时候跟我说了[NEXT][S]你就喝吧[NEXT][S]我告诉你就喝成个猪[NEXT][S]你怎么办吧[NEXT][KEY][S]现在人也来了[KEY]	1
+[T]主要负责拉客户[NEXT][T]负责技术管理[NEXT][S]这个你是行的[NEXT][T]你对我有信心啊[NEXT][KEY][S]当然了必须的[KEY]	0
+[T]我嫁给你瞎了眼了[NEXT][T]你还活着[NEXT][T]你这不如死了[NEXT][S]爸[NEXT][KEY][S]你今天怎么来这么早[KEY]	1
+[S]有我呢 不怕[NEXT][S]听到没有[NEXT][T]听见了[NEXT][T]我说今天 金庸死了[NEXT][KEY][S]我知道 看到新闻了[KEY]	2
+[S]朵朵就给我拿了什么叫什么通知的让我填[NEXT][S]我不是看着这个我就懵了[NEXT][S]我也没仔细看[NEXT][S]对[NEXT][KEY][S]这肯定赖我要仔细看就好了[KEY]	2
+[S]就难受[NEXT][S]你出去了还能轻松点[NEXT][S]也许那时候你[NEXT][S]你玩着玩着就读完了[NEXT][KEY][S]对吧[KEY]	1
+[T]我不说话了行不行[NEXT][T]我不说了[NEXT][S]还成我的错了[NEXT][S]你现在是不是就想跟你爸在一起[NEXT][KEY][S]不想跟你妈在一起了[KEY]	1
+[T]随你姓了[NEXT][T]罗小安[NEXT][T]姓都给改了[NEXT][S]你有女朋友[NEXT][KEY][S]恭喜你[KEY]	4
+[T]我喝醉了行了[NEXT][T]这事我不跟你说[NEXT][S]那么我还没弄懂[NEXT][S]你给我说[NEXT][KEY][S]你现在生一孩子怎么就对英子是背叛了什么意思[KEY]	2
+[S]我不是故意犯困的[NEXT][S]我也不想犯困[NEXT][T]磊儿[NEXT][T]你知道哥 为什么那么想搬家[NEXT][KEY][S]不就是为了学校离家近一点[KEY]	0
+[S]你说人琴琴[NEXT][S]现在第五正往前三奔[NEXT][S]人家这孩子多积极要求上进[NEXT][S]你是不是也赶紧行动起来[NEXT][KEY][S]快说话[KEY]	6
+[S]你看你搬来了以后[NEXT][S]咱们俩每天亲亲你侬我侬[NEXT][S]英子18了[NEXT][S]英子每天看见我们这 要高考了[NEXT][KEY][S]这天天脑子想男女之事[KEY]	3
+[T]回去把，我还得去拉个活[NEXT][T]你开车慢点[NEXT][T]拜拜[NEXT][T]拜拜[NEXT][KEY][S]是不是越来越不像话[KEY]	1
+[S]我们会一起努力[NEXT][S]句号ok了非常好[NEXT][S]全片结束[NEXT][S]我们会一起努力吧[NEXT][KEY][S]谁给你吧呀？你是问号还是感叹号[KEY]	1
+[S]尤其生吃[NEXT][S]我跟你讲英子咱现在可高三了[NEXT][S]再也不能生病了[NEXT][S]妈妈都想好了[NEXT][KEY][S]这一年什么都不干[KEY]	3
+[T]反正你要时刻记得你是高三的老师[NEXT][T]业精于勤荒于嬉[NEXT][T]你不要成天老是嬉皮笑脸[NEXT][T]好不好[NEXT][KEY][S]有您这样的年级组长带领[KEY]	3
+[S]对了[NEXT][S]昨天王媛给我打电话了[NEXT][T]王媛给你打电话了[NEXT][T]干嘛[NEXT][KEY][S]给他一个朋友介绍工作[KEY]	0
+[T]你看爸[NEXT][S]把们关上[NEXT][T]忙什么呢[NEXT][S]我在起草檄文[NEXT][KEY][S]制定新的监理机制[KEY]	0
+[S]这不是快分班考了吗[NEXT][S]我妈整天盯着我做题[NEXT][T]不是 英子[NEXT][T]你跟爸说说你大学想考哪个学校[NEXT][KEY][S]大学 这不还有一年吗[KEY]	2
+[S]明天上班 跟办公室说一声[NEXT][S]约个周末体检 给你约个全身检查[NEXT][S]我们定点医院[NEXT][S]服务还不错[NEXT][KEY][S]自费呢 也不贵 做个全身检查放心点[KEY]	3
+[S]我有一个同学来北京了[NEXT][S]是上海的[NEXT][S]我想去跟他见一面[NEXT][T]他叫什么[NEXT][KEY][S]林心儿[KEY]	0
+[T]你先忍着[NEXT][T]我这刚进来 你找磊儿去[NEXT][T]他都进去好久[NEXT][S]他那都已经进去20多分钟了[NEXT][KEY][S]你快点爸爸憋不住了[KEY]	6
+[S]叫什么笛 王一笛[NEXT][S]方一凡说的[NEXT][S]王一笛现在就准备艺考的[NEXT][S]说都不怎么上文化课[NEXT][KEY][S]一天到晚就在那 对[KEY]	2
+[T]买单抠门一点[NEXT][T]以外 其他一切均好[NEXT][S]就你好[NEXT][S]人家是外国名牌大学回来的[NEXT][KEY][S]配不上你[KEY]	4
+[S]送饭的[NEXT][S]不是不让我吃外卖了吗[NEXT][S]谁让你来的[NEXT][S]是男的女的[NEXT][KEY][S]叫什么名[KEY]	1
+[S]我的他们已经采完了[NEXT][S]呃 我我 我想问一下[NEXT][S]这个最快什么时候能出来[NEXT][T]你很着急 是吧[NEXT][KEY][S]对啊[KEY]	0
+[T]但是这家还行[NEXT][T]偶尔出来吃一次没关系[NEXT][S]妈 你晚上回去的时候帮我再看一下期中卷子[NEXT][T]那天不是讲过了[NEXT][KEY][S]但是我最后一道大题第四问我还是有点不明白[KEY]	2
+[T]你怎么这么跟他们说话呀[NEXT][T]人明玉忙[NEXT][T]再说 爸就是拉肚子[NEXT][T]又不怪明成[NEXT][KEY][S]你别向着他们说话[KEY]	6
+[S]斗个蝈蝈 看看评书[NEXT][S]可是我一看这些法律的东西[NEXT][S]一看合同[NEXT][S]一看这些文件我就头疼[NEXT][KEY][S]我跟你说真心话[KEY]	3
+[S]当着我爸妈的面[NEXT][S]在我爸妈家里叫指桑骂槐[NEXT][S]对不对[NEXT][S]我跟你讲你看朵朵什么成绩不好[NEXT][KEY][S]测验不好[KEY]	2
+[T]刚开始 不许急[NEXT][T]听到没有[NEXT][S]我有时候在琢磨[NEXT][S]我老是觉得我有一个什么功能还没有发挥出来[NEXT][KEY][S]我老觉得你看我兴趣挺好[KEY]	3
+[S]当然[NEXT][S]爸爸也算[NEXT][S]但是爸爸跟妈妈没有血缘[NEXT][S]有血缘的[NEXT][KEY][S]只有你一个[KEY]	2
+[S]但是其实特别好吃[NEXT][S]真的特别好吃[NEXT][T]我尝尝[NEXT][T]好吃[NEXT][KEY][S]不是你等一下看看[KEY]	2
+[S]就是你的理想[NEXT][S]咱们说去国家航天局这不才是你理想吗[NEXT][S]你过来[NEXT][S]妈妈跟你说[NEXT][KEY][S]我知道你不高兴了[KEY]	2
+[T]很明显我在配合你呀[NEXT][T]对吧[NEXT][T]没看出来吗[NEXT][T]关心我啊[NEXT][KEY][S]完全没有[KEY]	0
+[T]这样你才满意[NEXT][T]对不对[NEXT][T]你满意吗[NEXT][S]我什么时候对你不满意过[NEXT][KEY][S]妈妈什么时候对你不满意过[KEY]	1
+[S]你说老季上来 老季是一领导 是一区长[NEXT][S]人家上来这是真急了[NEXT][S]真没招了[NEXT][S]真没办法了[NEXT][KEY][S]才开口求人[KEY]	2
+[T]师傅[NEXT][S]你是不是早上坐出租车没改过口来[NEXT][S]你怎么叫我师傅[NEXT][T]但是他们这里都说，老师你都可以叫他师傅啊[NEXT][KEY][S]这样，你这样如果我教你功夫[KEY]	2
+[T]让您跑一趟[NEXT][T]不好意思[NEXT][S]您别忙[NEXT][T]您喝水[NEXT][KEY][S]英子没回来[KEY]	1
+[S]你不回家[NEXT][T]我去店里看看[NEXT][T]店里可能会进水[NEXT][T]晚上不用等我值夜班[NEXT][KEY][S]姚澜 我不是故意的[KEY]	5
+[T]这些个东西我也不经常吃[NEXT][T]也不知道好吃不好吃[NEXT][T]杨杨你说了算[NEXT][S]你没吃过[NEXT][KEY][S]没吃过你来这干嘛[KEY]	1
+[S]我也支持[NEXT][S]孩子这快乐第一[NEXT][S]成绩第二[NEXT][S]你这事你错在哪[NEXT][KEY][S]你是因为你先斩后奏[KEY]	3
+[T]我今儿去给你买礼物去了[NEXT][S]真的[NEXT][S]什么礼物[NEXT][T]你猜猜[NEXT][KEY][S]一个笔袋[KEY]	1
+[S]发名片 人脉不是说你发出多少张名片[NEXT][S]老发名片是干嘛的[NEXT][S]房屋中介 搞销售的[NEXT][S]对不对[NEXT][KEY][S]你收名片 好好好[KEY]	2
+[T]太好了太好了[NEXT][S]我看看这个白大褂能穿这么帅的也就只有你[NEXT][T]谢谢您阿姨[NEXT][T]您今天来是想做个什么项目[NEXT][KEY][S]我洗洗牙[KEY]	0
+[S]不过你别说对于小强生气的时候还是挺可爱的[NEXT][T]挺可爱的[NEXT][T]忘问你了[NEXT][T]他比你大几岁[NEXT][KEY][S]6岁[KEY]	0
+[T]今天我这800块钱你是不是给我报了[NEXT][S]现在就报啊[NEXT][T]要不我钱包里一点零钱都没有了[NEXT][S]那你亲我一下[NEXT][KEY][S]多少钱[KEY]	1
+[T]没做[NEXT][S]孩子回来吃什么[NEXT][T]吃屎[NEXT][T]做了 都这儿呢[NEXT][KEY][S]你会用蒸箱了[KEY]	1
+[T]来[NEXT][S]混蛋 骗子[NEXT][T]你看有话好好说[NEXT][S]我跟你好好说[NEXT][KEY][S]好好说的了吗[KEY]	4
+[S]没有没有没有[NEXT][T]那语桐同意吗[NEXT][S]他见过这孩子挺喜欢的[NEXT][T]那感情你们几个是学雷锋的是吧[NEXT][KEY][S]嗯[KEY]	0
+[S]我跟你开玩笑[NEXT][S]你还急了[NEXT][S]行[NEXT][S]我收回 我道歉[NEXT][KEY][S]一定要继续保佑我们家老乔发达[KEY]	3
+[T]我就想你看这样好不好小周[NEXT][T]先让他上完这段晚自习[NEXT][T]你这个课就先暂停一段时间[NEXT][T]等之后等晚自习着补课补过去以后你再回来给他上好吧[NEXT][KEY][S]是不是我教的[KEY]	1
+[S]你算了[NEXT][S]英子是个多好的孩子[NEXT][S]你别说英子在[NEXT][S]英子不在的时候[NEXT][KEY][S]你什么时候对我卿卿我我 你侬我侬了[KEY]	1
+[S]拿快递 打文件 给他点外卖[NEXT][S]还得给他订机票[NEXT][S]这些活都得我来干了[NEXT][T]你说小金[NEXT][KEY][S]珍妮怎么睬我都认了[KEY]	3
+[T]什么时候的事[NEXT][T]咱不是有安全措施吗[NEXT][T]真的假的[NEXT][S]假的[NEXT][KEY][S]看把你吓得[KEY]	2
+[T]都怪我自己没出息[NEXT][T]让他这么费心[NEXT][S]你干嘛这么说[NEXT][S]谁还没[NEXT][KEY][S]一个需要帮助的时候[KEY]	4
+[T]可是我现在发现我的效果还真的不如你[NEXT][T]你说你到底在方式方法上有什么跟我不一样的吗[NEXT][S]也没什么不一样[NEXT][S]主要你还是多关心他[NEXT][KEY][S]你知道吗[KEY]	1
+[S]我就喜欢看广告[NEXT][S]给我看看呗[NEXT][T]不是广告[NEXT][T]是微信[NEXT][KEY][S]拿出来[KEY]	6
+[T]还是算了 好尴尬[NEXT][S]为什么 说[NEXT][S]怕什么说说 我保证不生气[NEXT][S]保证[NEXT][KEY][S]好不好[KEY]	1
+[S]我觉得以你这个年纪去司考 可能有点困难[NEXT][S]当然[NEXT][S]师哥我并不是怀疑你的能力[NEXT][S]只不过你拿了证到我这来上班[NEXT][KEY][S]你是要从最底层做起的[KEY]	3
+[T]我们也不是什么敌人[NEXT][S]谢谢您[NEXT][T]不客气[NEXT][T]挂了[NEXT][KEY][S]去给肖凯丽起草一份律师声明[KEY]	6
+[T]我爱谁[NEXT][S]行了[NEXT][S]你别跟我装了[NEXT][S]工作都给人找了[NEXT][KEY][S]你以为我不知道[KEY]	4
+[S]我这次绝对不可能放过他[NEXT][S]必须跟我认错道歉[NEXT][S]保证这种事情不再犯断绝关系[NEXT][S]如果断不了关系[NEXT][KEY][S]ok没问题[KEY]	0
+[T]这花前月下[NEXT][T]没出点什么事[NEXT][S]我抱她了[NEXT][T]抱她了 拥抱啊[NEXT][KEY][S]拥抱啊[KEY]	0
+[S]你看[NEXT][T]我怎么觉得好像比这颜色深点儿似的[NEXT][S]没有[NEXT][S]正合适 你看[NEXT][KEY][S]这应该 要不咱们[KEY]	3
+[T]你把这收起来[NEXT][T]动作快点[NEXT][T]不好意思[NEXT][T]表哥我忘敲门了[NEXT][KEY][S]没事[KEY]	3
+[S]今天学校早上有高分作文讲座[NEXT][S]我必须得去[NEXT][T]老师要求的[NEXT][T]先去 回来再做卷子[NEXT][KEY][S]我先走了[KEY]	2
+[S]我会知道任晓年的航班[NEXT][T]对[NEXT][S]我问过他助理[NEXT][T]他的助理为什么告诉你呢[NEXT][KEY][S]因为我是栗娜[KEY]	0
+[S]非得让我去那当什么经理[NEXT][S]你说说我不[NEXT][S]不想去[NEXT][S]他们还不乐意[NEXT][KEY][S]您说这叫什么事儿[KEY]	1
+[T]你说我们两个以后 会想的一模一样吗[NEXT][S]人和人 怎么能想的完全一样[NEXT][T]那如果以后想的不一样了怎么办呀[NEXT][S]不一样的时候[NEXT][KEY][S]那我就听你的呗[KEY]	0
+[T]这就是太突兀了[NEXT][S]我不是光为了磊儿[NEXT][S]对[NEXT][S]我是为了磊儿[NEXT][KEY][S]但我也是为了方一凡[KEY]	3
+[S]我看见了 你们仨人在厨房里做饭是吧[NEXT][S]跟一家三口似的亲亲热热的[NEXT][S]我就奇怪了[NEXT][S]我在厨房做饭的时候[NEXT][KEY][S]你怎么不想着搭把手[KEY]	3
+[T]什么时候把作业做完了[NEXT][T]什么时候回家[NEXT][T]做不完就不用回家了[NEXT][S]不是 妈 凭什么[NEXT][KEY][S]我这分都上了[KEY]	3
+[T]以后我给小金要递茶倒水[NEXT][T]拿快递 打文件 给他点外卖[NEXT][T]还得给他订机票[NEXT][T]这些活都得我来干了[NEXT][KEY][S]你说小金[KEY]	1
+[S]行不行啊[NEXT][T]行[NEXT][S]真乖[NEXT][S]今天饭简单[NEXT][KEY][S]我马上就做好[KEY]	2
+[T]10月份就开始下雪 齁冷齁冷的[NEXT][T]想念祖国了[NEXT][S]徐天 我错了[NEXT][S]真的 我错了还不行吗[NEXT][KEY][S]错了[KEY]	5
+[S]我是趁体育课回来拿的[NEXT][S]我拿完我就赶紧走[NEXT][T]你看让你吃药[NEXT][T]真不用啊[NEXT][KEY][S]您不是要上课吗[KEY]	1
+[T]一口气忍到底[NEXT][T]我让她向你学习[NEXT][T]赶紧去民政局问问 结婚证能给退吗[NEXT][T]不都7天之内无理由退换吗[NEXT][KEY][S]见完了 赶紧回来找我[KEY]	6
+[T]对啊[NEXT][S]这里的学生是不是都吃你做的烧饼[NEXT][S]那他们看起来 是不是都特别的有素质[NEXT][T]你买不买[NEXT][KEY][S]给我来20个[KEY]	0
+[T]不是说不行[NEXT][T]就是说让你少吃点[NEXT][S]我知道了[NEXT][S]这是你给你女儿买的对吗[NEXT][KEY][S]你嫌我吃了他的零食对吧[KEY]	1
+[T]行 victor 去拿碗拿筷子 陪我再吃点[NEXT][S]Yes[NEXT][S]杨杨 起来了[NEXT][T]爸 早[NEXT][KEY][S]鸡没吵你吧[KEY]	1
+[T]那是你妈偏心眼 [NEXT][T]不想跟你们说[NEXT][T]还买东西[NEXT][T]那还不是羊毛出在羊身上[NEXT][KEY][S]那明玉呢[KEY]	1
+[T]怎么样[NEXT][T]最近好吗[NEXT][S]不错[NEXT][T]珊珊好吗[NEXT][KEY][S]挺好[KEY]	0
+[S]在商场里碰着他之后[NEXT][S]我就在想[NEXT][S]这个一会我扣过来[NEXT][S]我就在想[NEXT][KEY][S]你说[KEY]	2
+[T]我能害我自己的闺女吗[NEXT][S]谁知道[NEXT][T]你能不能给我留点面子[NEXT][S]脸都不要了[NEXT][KEY][S]还要什么面子[KEY]	3
+[T]百战不殆[NEXT][T]把敌人的情况了解清楚了[NEXT][T]我才知道怎么带[NEXT][S]方一凡你给我听清楚了[NEXT][KEY][S]他不是你的敌人[KEY]	3
+[T]什么都由着[NEXT][T]是害了他知道吗[NEXT][S]是，这点我完全同意[NEXT][S]但是姥姥姥爷宠着[NEXT][KEY][S]那是因为你们常年不在怕委屈了孩子[KEY]	3
+[T]我能做当事人的主吗[NEXT][S]你可以起码建议一下当事人[NEXT][T]你怎么知道我当时没建议[NEXT][S]行行行[NEXT][KEY][S]你告诉我罗琦在哪[KEY]	6
+[S]走走走 咱出去溜个弯[NEXT][S]让杨杨自己在家好好做作业[NEXT][T]别别 天太冷了 我不去[NEXT][S]你运动运动吧[NEXT][KEY][S]瞧瞧你的肚子[KEY]	2
+[T]他是不是应该提前给我们打个招呼啊[NEXT][S]是啊 搞得我也很烦[NEXT][S]但没有办法[NEXT][S]那些老同事知道妈不在了 过来陪陪爸[NEXT][KEY][S]那你说我们能说什么呢[KEY]	4
+[S]这样 你哥的事啊[NEXT][S]你帮我暂时瞒着你妈[NEXT][S]我成倍给你追加注册资金[NEXT][T]爸爸你真好[NEXT][KEY][S]说话算数啊[KEY]	6
+[T]一个区长[NEXT][T]你说他怎么跟人解释[NEXT][T]你说这方一凡是不是闲的 他气死我了 真是[NEXT][S]你也不能怪凡凡[NEXT][KEY][S]他季胜利[KEY]	3
+[S]你看啊 方一凡[NEXT][S]你要玩爸爸支持你[NEXT][S]但爸爸要你学习[NEXT][S]你也得听爸爸的[NEXT][KEY][S]这点让爸爸跟妈妈完全是一致的[KEY]	3
+[T]人家是会过来一个团队[NEXT][T]各种人员人家都配齐了[NEXT][T]所以我们这边就显得有点人浮于事[NEXT][S]杨总您什么意思[NEXT][KEY][S]之前您不是跟我透风说[KEY]	1
+[S]好不好[NEXT][T]有您这样的年级组长带领[NEXT][T]我怎么可能偷懒[NEXT][S]不错[NEXT][KEY][S]你继续保持[KEY]	3
+[S]酱鸡，腊肉，松花，小肚儿[NEXT][T]哪呢[NEXT][S]都在我的脑子里[NEXT][T]没做饭[NEXT][KEY][S]没做[KEY]	0
+[S]你的病例我看过了[NEXT][S]等一会儿去安排你做个腰穿[NEXT][S]再给你输液好不好[NEXT][T]你们不是不给我做[NEXT][KEY][S]谁说不给你做 肯定得做[KEY]	0
+[S]行[NEXT][S]我现在还有点时间我跟你讲讲[NEXT][S]我爸妈就是老师[NEXT][S]我从小耳濡目染[NEXT][KEY][S]而且我觉得当老师挺神圣的[KEY]	3
+[S]反正你还会再犯[NEXT][T]来 来 来 吃苹果[NEXT][S]你真要我帮你选学校[NEXT][T]真的[NEXT][KEY][S]你想好了[KEY]	1
+[S]我问你[NEXT][S]你[NEXT][S]你告我今年多大了[NEXT][T]18[NEXT][KEY][S]40多的人[KEY]	2
+[T]你找一个靠谱的[NEXT][T]你能认识什么[NEXT][T]搞文艺的人[NEXT][T]就找去吗[NEXT][KEY][S]找朋友问去[KEY]	3
+[S]我白天可以抽空眯一会儿[NEXT][S]等我实在缺钱的时候[NEXT][S]我再管你要行吗[NEXT][S]赶紧收起来[NEXT][KEY][S]快点[KEY]	6
+[S]这女人不都这样吗[NEXT][S]尤其是老婆[NEXT][T]那您家也这样[NEXT][S]我以前那位现在这位不都一样吗[NEXT][KEY][S]哪有不唠叨的[KEY]	4
+[S]这只小狗就叫Frank[NEXT][S]我本来想是说说先放小宇家待两天[NEXT][S]可谁知道他老姨对狗毛过敏[NEXT][S]我没办法[NEXT][KEY][S]我就先抱回来了[KEY]	2
+[S]你说的这个问题吧 它 它是个问题[NEXT][S]但是人活着[NEXT][S]人活着就是活着呗[NEXT][T]你有可能成为乔布斯吗[NEXT][KEY][S]不能[KEY]	0
+[T]李老师[NEXT][T]你不愧是我的女神[NEXT][T]你刚刚讲的这句话[NEXT][T]我觉得你将来肯定能当校长[NEXT][KEY][S]我要是当了校长[KEY]	3
+[S]你回来你想干什么[NEXT][S]告诉我[NEXT][S]不知道[NEXT][S]是不是[NEXT][KEY][S]看来你还没想清楚你这么努力是为了干什么[KEY]	1
+[T]这朵朵要真的是暗恋谁[NEXT][T]我跟你讲 我脑子都不能出现这画面[NEXT][T]我就想着 朵朵要跟谁搞暗恋[NEXT][T]我是想揍那小子[NEXT][KEY][S]靠边靠边靠边停[KEY]	6
+[T]早知道这样我到菜市场买去了[NEXT][S]没事儿[NEXT][S]苹果不还可以拿下来吃吗[NEXT][S]也不浪费[NEXT][KEY][S]饭马上就好了[KEY]	2
+[T]要不然我搬过来得了[NEXT][T]你陪英子我陪你[NEXT][T]我还可以帮你一起照顾英子[NEXT][T]我还可以学习一下怎么照顾咱们以后的宝宝[NEXT][KEY][S]你现在学习有点早[KEY]	3
+[T]你让我爸怎么办[NEXT][T]这个时候就需要我们站出来承担责任[NEXT][T]大度一点[NEXT][T]别计较这些小事儿[NEXT][KEY][S]这怎么能是小事呢[KEY]	1
+[T]真是什么苦没吃[NEXT][S]行了[NEXT][S]你这叫苦尽甘来[NEXT][S]我都羡慕死你了[NEXT][KEY][S]英子多好[KEY]	3
+[T]你太好了[NEXT][T]这亏也太大了[NEXT][T]我得找补回来[NEXT][T]老大你找我[NEXT][KEY][S]对啊[KEY]	0
+[S]行[NEXT][S]你先去写作业[NEXT][S]好不好[NEXT][S]我这就给你做饭 有点饿了吧[NEXT][KEY][S]做好了叫你 怎么了[KEY]	1
+[T]其实他们懂的不比咱们少[NEXT][T]以后要当他们是大人知道吧[NEXT][S]经过这一晚上[NEXT][S]我突然好爱你[NEXT][KEY][S]爱我们的孩子[KEY]	3
+[S]可是我姐说了[NEXT][S]给琴琴找一个有奖学金的高中[NEXT][S]还给他当担保人呢[NEXT][T]你姐[NEXT][KEY][S]啊真的[KEY]	0
+[S]甜甜玩多开心[NEXT][T]不仅他开心[NEXT][T]我也很开心[NEXT][S]老婆[NEXT][KEY][S]以前我对你和甜甜关心的都不够[KEY]	5
+[T]我们是师大学生自主创办的英语培训班[NEXT][T]可以看一下[NEXT][T]如今奥运会刚过[NEXT][T]学习英文是个全民趋势[NEXT][KEY][S]你觉得我这个年纪还需要上你这个课吗[KEY]	1
+[S]除了我父母[NEXT][S]还有几个[NEXT][S]不过都不是人[NEXT][T]骂我呢[NEXT][KEY][S]我没骂人[KEY]	0
+[T]这跟你有什么关系[NEXT][T]是你们公司不厚道[NEXT][T]是你们公司做错了事[NEXT][T]跟你没关系好不好[NEXT][KEY][S]是 跟我没毛关系[KEY]	3
+[S]哪不舒服[NEXT][S]不说是吧[NEXT][S]走去医院[NEXT][T]妈[NEXT][KEY][S]我带你去医院[KEY]	6
+[S]晚上的 你看你有没有什么合适的介绍的[NEXT][T]你的朋友 长的怎么样[NEXT][S]长得还行吧[NEXT][T]身材喝酒怎么样[NEXT][KEY][S]能喝一点[KEY]	0
+[S]当然是夸你呀[NEXT][S]你呀又让我再崇拜一次[NEXT][T]你认为这是属于夸我是吧[NEXT][T]行吧[NEXT][KEY][S]你赶快吃寿司啊[KEY]	2
+[S]怎么过 过呀也得[NEXT][T]还有 你去看一下那马桶[NEXT][T]你赶紧把这收拾干净了[NEXT][T]我要用 我还要上班[NEXT][KEY][S]你去哪了 爸[KEY]	1
+[S]怎么还没完了[NEXT][S]刚才不是都说清楚了吗[NEXT][S]我明天考英语[NEXT][S]我得复习[NEXT][KEY][S]能不能明天再说[KEY]	1
+[S]的事[NEXT][T]名单下来了[NEXT][S]是[NEXT][S]明天就会出公示了[NEXT][KEY][S]所以 组织让我先跟你聊一聊[KEY]	2
+[S]我明天让我们家那个亲戚早点来 照顾我爸[NEXT][S]大不了多给点钱呗[NEXT][S]只要有钱 就能解决这世上绝大多数的事[NEXT][T]樊姐 你是不是临时决定要回去的[NEXT][KEY][S]也不是[KEY]	0
+[T]凭什么呀[NEXT][T]他凭什么呀 关关你也见过他好多次了吧[NEXT][T]你喜欢他吗[NEXT][S]我对他不是很了解[NEXT][KEY][S]谈不上喜欢不喜欢[KEY]	0
+[T]给宝宝做了一个海鲜土豆泥[NEXT][T]你吃了吗[NEXT][S]还没呢[NEXT][S]刚开完会[NEXT][KEY][S]主要是也不饿 也不知道吃什么好[KEY]	0
+[S]你说孩子现在高三这个时候了[NEXT][S]万一有个三长两短[NEXT][S]你说孩子没了[NEXT][S]我这么多年我忙活什么呢[NEXT][KEY][S]跟分数比起来哪个重要[KEY]	3
+[S]真乖[NEXT][S]本来妈妈想陪你一块吃的[NEXT][S]可是妈妈今天公司有一个教师培训一早就开始[NEXT][S]妈妈是组织者[NEXT][KEY][S]又是老师[KEY]	2
+[S]您不来帮他忙了[NEXT][S]手感不错吧[NEXT][S]这个可是我妈为了我的高三 给我装的隔音墙[NEXT][S]据说这隔音量[NEXT][KEY][S]能够达到45分贝[KEY]	2
+[T]5块[NEXT][S]没想到会闹成这样[NEXT][S]你还好吗[NEXT][S]不管怎么说都是因为我而引起的[NEXT][KEY][S]我跟你道歉[KEY]	5
+[S]我有时候再想想[NEXT][S]我是不是应该改改我的教育方式[NEXT][T]怎么改[NEXT][T]你改成乔卫东式的教育方式你行吗[NEXT][KEY][S]乔卫东那套 我一个也看不上[KEY]	0
+[S]其实网上有好多这方面的资料[NEXT][S]要不这样[NEXT][S]妈妈去买个硬盘 把他们都下下来[NEXT][S]等你高考以后慢慢的来看[NEXT][KEY][S]这多好[KEY]	3
+[T]我就想知道哪边的中国餐馆多[NEXT][T]哪边的饭好吃[NEXT][T]那就去西边[NEXT][T]我姑姑说那边有好多什么加州华人餐馆之类的[NEXT][KEY][S]媳妇你先等会[KEY]	6
+[T]你这是干嘛[NEXT][T]你去哪我就去哪[NEXT][T]你要不回家我也不下车了[NEXT][S]你是说从上次你们俩吵完架之后一直到现在[NEXT][KEY][S]他都没有回去[KEY]	1
+[T]来了[NEXT][S]英子 开门[NEXT][T]爸 快进来[NEXT][S]老爸给你买了早餐[NEXT][KEY][S]油条、豆浆 快来 趁热吃[KEY]	2
+[S]对不对[NEXT][S]我是为你身体好[NEXT][S]让你别生气[NEXT][S]你按按这中间我不教给你这叫[NEXT][KEY][S]你这叫檀中穴按揉一会儿[KEY]	6
+[T]她非要那个包 特别矫情[NEXT][T]分了[NEXT][T]真分了[NEXT][T]你就说你去不去吧[NEXT][KEY][S]不去[KEY]	0
+[S]其实很多事情都是他在在执行[NEXT][T]你老公他忙什么[NEXT][T]他不管家里的事情吗[NEXT][T]你家里不需要他分担吗[NEXT][KEY][S]他这两天出差 要不是家里这个情况[KEY]	0
+[T]我就给你买机票[NEXT][T]怎么了 爸[NEXT][T]还有什么事不放心啊[NEXT][S]你说你要走了[NEXT][KEY][S]我这东西放哪儿啊[KEY]	1
+[T]反正不是我的错[NEXT][S]行[NEXT][S]爸爸今天不跟你发火[NEXT][S]爸爸想跟你好好的聊聊[NEXT][KEY][S]我问你今天这个事换成你[KEY]	1
+[S]这都几点了[NEXT][S]今天这又加班是不是[NEXT][T]是这周五还加班[NEXT][T]简直是灭绝人性[NEXT][KEY][S]可不是这怎么行[KEY]	4
+[T]那么离家近[NEXT][T]上学下课都很方便[NEXT][T]真的不耽误事[NEXT][T]你说是不是[NEXT][KEY][S]你这不能因为李老师这么说了几句[KEY]	3
+[S]所谓祸不单行一来都一对对来[NEXT][S]有内忧肯定就有外患[NEXT][S]知道吧[NEXT][S]我现在就是内忧外患一块来了[NEXT][KEY][S]你还没到危机 早晚赶上[KEY]	3
+[T]您还去他家了[NEXT][T]您跟刘静阿姨[NEXT][T]熟吗[NEXT][S]他不是租咱家房吗[NEXT][KEY][S]暖气一直不太热[KEY]	2
+[S]那你稍微等一会[NEXT][T]知道您胃不好[NEXT][T]专门给您炖了鸡米粥[NEXT][T]养胃的[NEXT][KEY][S]全倒里边 全倒里边[KEY]	6
+[T]待会咱们三个想想办法[NEXT][T]甜甜呢[NEXT][S]睡了[NEXT][T]早点休息吧[NEXT][KEY][S]你等等[KEY]	6
+[T]我给你时间解释啊[NEXT][T]5分钟[NEXT][S]其实考得不错[NEXT][S]语文数学得非常好[NEXT][KEY][S]就是英语稍微差那么一点点[KEY]	2
+[S]是不是[NEXT][S]因为我现在的情况升职加薪无望[NEXT][S]家里所有的开销都要靠你了[NEXT][S]以后一个月1万多的房租[NEXT][KEY][S]孩子生活质量不能下降[KEY]	2
+[S]那就亲自问问你[NEXT][T]传闻是真的[NEXT][T]是我向蒙总发的檄文[NEXT][T]对抗他的监理制度[NEXT][KEY][S]好厉害[KEY]	4
+[T]你自己去上那个班[NEXT][T]我祝你考个好大学 妈咪[NEXT][T]凡凡呢 吵架了[NEXT][T]为什么[NEXT][KEY][S]期中考成绩方一凡450[KEY]	0
+[S]看看 咱玩了整一小时了[NEXT][S]差不多了[NEXT][S]剩下的我们高考以后再玩[NEXT][S]好不好[NEXT][KEY][S]其他的我先帮你收着[KEY]	3
+[T][NO][NEXT][S]真巧[NEXT][S]车没事了[NEXT][T]是你呀 没事了没事 谢谢你[NEXT][KEY][S]没事没事 你也去春风[KEY]	1
+[S]你甭说什么[NEXT][S]你的基因好 人英子聪明[NEXT][S]随了你了 成绩好的时候[NEXT][S]因为你 那是宋老师作为一老师 一妈妈[NEXT][KEY][S]一天天努力分不开的[KEY]	3
+[S]就想蒙混过关[NEXT][S]是不是[NEXT][S]人家蒂娜不签字[NEXT][S]你就送一瓶带麝香的香水给他[NEXT][KEY][S]什么意思[KEY]	1
+[S]你看 我都给他带来了[NEXT][S]然后回头我把录音再发给他[NEXT][S]让他好好听[NEXT][T]今天讲座他根本没去是吧[NEXT][KEY][S]对没来[KEY]	0
+[S]是来你听表哥说你妈妈说的没有错[NEXT][S]不过你来了北京 这才几月份 你就穿这么多了[NEXT][S]你不热呀[NEXT][S]行[NEXT][KEY][S]从今天开始[KEY]	6
+[T]拉钩[NEXT][S]盖章[NEXT][T]盖章[NEXT][S]说好了[NEXT][KEY][S]来 吃 给你盛点蒜泥[KEY]	2
+[T]我做饭给你吃[NEXT][T]你想吃什么跟我说[NEXT][T]你[NEXT][T]你在听什么[NEXT][KEY][S]下载的电影台词[KEY]	0
+[T]我今天早上想问你[NEXT][T]碰到不顺心的事了[NEXT][T]对了[NEXT][T]刚才我对杨杨的做法你觉得妥当不妥当[NEXT][KEY][S]我觉得你这次做的特别合适[KEY]	3
+[S]真不容易[NEXT][S]我们下一个拼他底下[NEXT][S]那个英子[NEXT][S]看看 咱玩了整一小时了[NEXT][KEY][S]差不多了[KEY]	3
+[T]我打算搬回书香雅苑[NEXT][S]你破产了[NEXT][S]又找了小女朋友 到那金屋藏娇[NEXT][T]什么呀[NEXT][KEY][S]你不会想跟宋倩复合 吃回头草吧[KEY]	1
+[S]时间太紧了[NEXT][S]我知道 这不是说你的错[NEXT][S]生日礼物同学送的也没法挑的[NEXT][S]所以妈妈才出下策[NEXT][KEY][S]说帮你先保存一下[KEY]	3
+[S]我们家第一套房子[NEXT][S]我就跟那出生长大的[NEXT][S]我还记得我们三跟着过了好久[NEXT][S]我还记得原来那卧室有我一张小床都记得[NEXT][KEY][S]我爸妈离婚之后 我爸收拾行李 一件一件的 从家里把东西往外搬[KEY]	2
+[T]我明天这样[NEXT][T]我离你远远的[NEXT][T]我在操场边站着好吗[NEXT][S]你还一个人站操场边上[NEXT][KEY][S]还不够显眼是吧[KEY]	3
+[T]你怎么在这儿[NEXT][T]找你有事[NEXT][S]你好[NEXT][T]你 你是谁呀[NEXT][KEY][S]我[KEY]	0
+[T]不是[NEXT][T]我不是一玩那个 一玩就头晕吗 我就想说小周去 她正好也没事[NEXT][T]跟朵朵的关系又好[NEXT][T]有成年人陪着不是安全吗[NEXT][KEY][S]你没玩那不对[KEY]	1
+[S]等你好了以后[NEXT][S]早上起来 我给你弄火锅吃 行吗[NEXT][T]那要不你给我买点菜吧[NEXT][T]我自个儿做[NEXT][KEY][S]别呀[KEY]	7
+[S]我们当着老师的面把这个事情正式处理了[NEXT][T]怎么说着说着就跑老师那去了[NEXT][T]您不会还要请校长[NEXT][S]你说对了[NEXT][KEY][S]就是要请校长主持会议[KEY]	2
+[S]那平常就你翻小账[NEXT][S]我不能翻小账[NEXT][T]那女的翻小账[NEXT][T]男的翻什么小账啊[NEXT][KEY][S]我今天就要翻小账[KEY]	2
+[S]你这说话说的也太难听了[NEXT][T]你是多少号[NEXT][S]7[NEXT][T]你叫什么名字[NEXT][KEY][S]鲍家明[KEY]	0
+[S]我这不是来的道歉了吗[NEXT][S]错了[NEXT][S]我这人可能没多大志向[NEXT][S]我就觉得老婆孩子热炕头挺好的[NEXT][KEY][S]可能你们觉得没什么出息是吧[KEY]	1
+[T]我真的已经很努力了[NEXT][T]如果你妈不喜欢我的话[NEXT][T]我怎么努力都是没用的[NEXT][T]别劝我回去[NEXT][KEY][S]我理解你真的对不起[KEY]	5
+[S]害怕是不是[NEXT][S]怕干不好让别人笑话[NEXT][S]是不是[NEXT][S]面子挂不住[NEXT][KEY][S]是不是[KEY]	1
+[T]我问你[NEXT][T]你刚才为什么把钱扔了[NEXT][S]那钱脏[NEXT][T]哪儿脏啊[NEXT][KEY][S]他们看不起你[KEY]	0
+[S]这在我意料之中的事情[NEXT][S]可是 可是小金怎么可以这样对我 她是我一路带过来的[NEXT][S]我从小别离那个项目就开始带她[NEXT][S]一直带到现在七八年了[NEXT][KEY][S]在我手底下[KEY]	2
+[S]要不请你吃饭[NEXT][T]我不吃了[NEXT][S]打高尔夫[NEXT][T]我不会打高尔夫[NEXT][KEY][S]我给你钱[KEY]	2
+[S]他都进去好久[NEXT][T]他那都已经进去20多分钟了[NEXT][T]你快点爸爸憋不住了[NEXT][S]没辙了[NEXT][KEY][S]要不你就先忍着[KEY]	3
+[S]我给他接了一狗粮广告[NEXT][S]后天就试镜[NEXT][S]这是个公益广告[NEXT][S]虽然钱少[NEXT][KEY][S]但事好 这事你催着点[KEY]	6
+[S]但是姥姥姥爷宠着[NEXT][S]那是因为你们常年不在怕委屈了孩子[NEXT][S]没事啊[NEXT][S]这问题马上解决了[NEXT][KEY][S]你们住在一块[KEY]	3
+[T]爸 我不穿[NEXT][T]别找了[NEXT][S]他们都走了[NEXT][T]刚走了[NEXT][KEY][S]你今天不是去面试吗[KEY]	1
+[S]你不用那么紧张[NEXT][S]等了解一些情况再说[NEXT][S]老季[NEXT][S]我年长你几岁[NEXT][KEY][S]有件事情我得提醒你一下[KEY]	2
+[T]我劝也没用啊[NEXT][T]明玉也不搭理我[NEXT][T]明玉也不让我送生活费了[NEXT][S]那明玉靠什么[NEXT][KEY][S]生活[KEY]	1
+[S]你还敢说我不是个人渣吗[NEXT][T]那他现在怎么样[NEXT][S]不知道[NEXT][T]你也先别往坏处想 这 事情先往好处想[NEXT][KEY][S]好不了[KEY]	7
+[T]我必须要给他送出去[NEXT][T]你听见没有[NEXT][S]吓死我了[NEXT][S]我以为交警来了，诶呦[NEXT][KEY][S]你打我干嘛呀[KEY]	1
+[S]谁插卡归谁[NEXT][T]那你告诉我[NEXT][T]你怎么跟小安解释以后他见不到他爸爸[NEXT][T]你怎么跟他说[NEXT][KEY][S]出国读书[KEY]	0
+[T]这么注重保暖[NEXT][T]我也怕得老寒腿[NEXT][T]你待会上班的时候把这件穿上[NEXT][T]我去做早饭了[NEXT][KEY][S]快起来[KEY]	6
+[S]你就找机会就占我便宜[NEXT][S]方圆 我承认 我乔卫东这人我做生意还是挺精的[NEXT][S]这么多年[NEXT][S]我确实是对不起宋倩[NEXT][KEY][S]英子我也没怎么管[KEY]	3
+[T]你听到没有[NEXT][S]听到[NEXT][S]妈[NEXT][S]他要来北京参加高考啊[NEXT][KEY][S]他有北京户口吗[KEY]	1
+[T]说都不怎么上文化课[NEXT][T]一天到晚就在那 对[NEXT][T]你打听打听 你问他妈[NEXT][S]好的[NEXT][KEY][S]他妈妈的微信叫什么来着[KEY]	1
+[S]你必须把精力都放在学习上[NEXT][S]咱们能不能离这不靠谱的人远一点[NEXT][T]你不是还是不想要我见他吗[NEXT][S]不是[NEXT][KEY][S]你爸这个人他有好多的不良习性[KEY]	3
+[T]咱一大老爷们不偷不抢在怕什么[NEXT][S]得得得行行了[NEXT][S]我还不知道你就是胆小害怕[NEXT][S]就是怕挂不住面子[NEXT][KEY][S]是大老爷们吗[KEY]	1
+[T]我问你三个问题[NEXT][T]一你是不是一直在这[NEXT][S]我 我一夜都在门口[NEXT][T]你是有意吓我的 是吗[NEXT][KEY][S]我 我也是有意的[KEY]	0
+[S]我之前看过一个bbc的纪录片[NEXT][S]里面就说当我们注意太空的时候[NEXT][S]我们的故事就是宇宙的故事[NEXT][S]因为我们是恒星[NEXT][KEY][S]真正的孩子[KEY]	2
+[S]也没有打水漂[NEXT][S]打到我心里去了[NEXT][S]真的 这800块钱 我跟你讲我得到一个血的教训[NEXT][S]你看我一共发了68条微信[NEXT][KEY][S]今儿[KEY]	2
+[T]绕49城好几圈[NEXT][S]那是车动[NEXT][S]能一样吗[NEXT][T]没有谁动不是动[NEXT][KEY][S]你说琴琴怎么最近这学习成绩都掉到第8名上了[KEY]	1
+[S]来给个笑脸[NEXT][S]真乖[NEXT][S]把毛巾拿来[NEXT][S]我给你时间解释啊[NEXT][KEY][S]5分钟[KEY]	2
+[T]别说打篮球了[NEXT][T]走两步都喘得很[NEXT][S]平常让你走两步都费劲[NEXT][S]你这突然一下子那么剧烈的运动[NEXT][KEY][S]不太好的 对身体[KEY]	3
+[S]而且我身上也不痒了[NEXT][S]你看我这有疹子吗[NEXT][T]没有[NEXT][T]怎么回事呢[NEXT][KEY][S]我想起来了[KEY]	0
+[T]相信我[NEXT][T]明天到学校说清楚了[NEXT][T]这件事就解决了[NEXT][T]你别太操心了[NEXT][KEY][S]你赶快去洗个澡[KEY]	6
+[S]它对于我们做的PPT跟策划都很满意[NEXT][S]可是我不知道他们为什么要换服务公司[NEXT][S]这个问题我确实想不太明白[NEXT][T]你觉得服务一个客户最重要的部分是什么[NEXT][KEY][S]把创意做好[KEY]	0
+[T]我就不明白了[NEXT][T]你为什么非要找到发布视频的人 想跟他私了 啊[NEXT][S]我觉得整件事情非常奇怪[NEXT][T]哪奇怪了[NEXT][KEY][S]这段视频把田璐拍的太清楚了点[KEY]	0
+[T]你跟爸爸都有合影[NEXT][T]你看这张没有[NEXT][T]扎了两个小丸子头[NEXT][S]我的妈[NEXT][KEY][S]快吃饭吧[KEY]	6
+[S]您还拿它当艳照门了[NEXT][S]公司年会在海边上同事之间拍几张照片就怎么了[NEXT][T]如果我跟别的男人拍这样的照片[NEXT][T]你也不会大惊小怪吗[NEXT][KEY][S]不会[KEY]	0
+[S]今天去见他了[NEXT][T]谁[NEXT][T]不会是小强[NEXT][T]你见他干嘛[NEXT][KEY][S]我不是不想你离婚[KEY]	0
+[T]陈主席快请进[NEXT][T]好久没来我们DL了[NEXT][T]来来来 快坐[NEXT][T]无事不登三宝殿吧[NEXT][KEY][S]还真被你说对了[KEY]	0
+[S]怎么样[NEXT][T]没放中药的好喝[NEXT][S]挺挑的[NEXT][S]刚才你们李老师[NEXT][KEY][S]在群里发了好多誓师大会的照片[KEY]	2
+[T]当然了[NEXT][T]怎么了[NEXT][S]交给你[NEXT][S]文艺小百科 艺考必备[NEXT][KEY][S]我跟你讲[KEY]	2
+[S]你瞎了[NEXT][S]你瞎不瞎我是无所谓了[NEXT][S]关键你坏我名声砸我饭碗[NEXT][S]传出去说方大夫给给你眼睛都瞎了是吧[NEXT][KEY][S]你倒是一了百了了[KEY]	2
+[S]我知道[NEXT][S]虽然他们说的话观点我不认同[NEXT][S]但毕竟他们是你的朋友[NEXT][S]再怎么着我也不应该让你没面子[NEXT][KEY][S]所以昨天的事对不起[KEY]	5
+[T]俩孩子互相道歉了[NEXT][T]这车也不是他们家的就完了[NEXT][T]这你赶紧让方一凡写了[NEXT][S]好好的 平白无故落个检查[NEXT][KEY][S]还有万一他们家要真有法拉利对不对[KEY]	3
+[S]咱们俩的人生理想应该是一样的[NEXT][S]我们不是说好了吗[NEXT][S]要为了去国家航天局而努力[NEXT][S]对不对[NEXT][KEY][S]大清早的没这时间了[KEY]	3
+[T]真没想到[NEXT][S]行[NEXT][S]你要红杏出墙[NEXT][S]咱防不胜防[NEXT][KEY][S]我成全你行吗[KEY]	1
+[T]你马上给我回家[NEXT][T]你老婆在这个家快要呆不下去了[NEXT][T]就这样[NEXT][T]这点找我 没好事吧[NEXT][KEY][S]对[KEY]	0
+[T]干嘛倒差价做买卖呀[NEXT][S]不是[NEXT][S]她想把琴送出国[NEXT][S]她算了一下[NEXT][KEY][S]真的她今天很认真地跟我说她算了一下[KEY]	2
+[S]完了[NEXT][S]没过去[NEXT][S]还得再来一回[NEXT][S]我这带上棉袄有必要吗 我是上山里边给人看眼睛去[NEXT][KEY][S]人家你给我带这么多干果[KEY]	1
+[T]如果你没考上[NEXT][T]你就成为一个坏分子[NEXT][T]你还不如就蹲班[NEXT][S]这还没正式开学[NEXT][KEY][S]学校怎么知道这方一凡就当不了这个分子呢[KEY]	3
+[T]安妮还是交给你来做的话[NEXT][T]那线上的部分[NEXT][T]部分我们[NEXT][T]能不能也参与进来[NEXT][KEY][S]是这样的[KEY]	0
+[T]皮肤出现密集细纹[NEXT][T]精神状态不好[NEXT][T]失眠多梦[NEXT][S]没有没有没有 叔叔 我这几天真的是累着了[NEXT][KEY][S]小艾说我平时都跟打了鸡血似的[KEY]	7
+[T]你一天都没管过我，起[NEXT][T]这小兔崽子站住[NEXT][T]小子站住回来[NEXT][S]我是说放学怎么跟你爸没说几句话[NEXT][KEY][S]人就不见了[KEY]	1
+[T]好[NEXT][T]你坐[NEXT][T]书记慢走[NEXT][S]你说[NEXT][KEY][S]你儿子干的这叫什么事[KEY]	1
+[S]爸说我要重奖你对吧[NEXT][S]我今儿去给你买礼物去了[NEXT][T]真的[NEXT][T]什么礼物[NEXT][KEY][S]你猜猜[KEY]	0
+[S]行[NEXT][S]还有别的事吗[NEXT][T]那你要是出去干活了[NEXT][T]你儿子怎么办啊[NEXT][KEY][S]我扔这儿啊[KEY]	0
+[S]行[NEXT][S]那杂志 杂志也搁回去[NEXT][T]杂志不搁[NEXT][S]我跟你说[NEXT][KEY][S]我跟你说 你这[KEY]	2
+[S]你是白阿姨的儿子[NEXT][T]是 你是李三妹[NEXT][T]李小姐吧[NEXT][S]对 我是[NEXT][KEY][S]我是[KEY]	0
+[T]什么话呀[NEXT][S]表现不错呀[NEXT][T]你还不乐意了是吧[NEXT][S]这我就乐意[NEXT][KEY][S]快快快 赶紧炸酱 来来[KEY]	6
+[S]对不起啊[NEXT][T]没什么好[NEXT][T]对不起的[NEXT][T]干杯[NEXT][KEY][S]对不起[KEY]	5
+[S]我们都挺想你的[NEXT][S]你妈也想你了[NEXT][S]你就别怄气了啊[NEXT][S]你说你是你妈亲生的 能有多大仇啊[NEXT][KEY][S]你想上大学 这不你妈也让你上了吗[KEY]	1
+[S]那爹也不可能让一个外人白捡胜利果实[NEXT][S]柳青是聪明人[NEXT][S]他不会看不到这一点的[NEXT][S]您放心好了[NEXT][KEY][S]师傅对近期这些谣言是怎么看呀[KEY]	1
+[S]遇到这种事情一定要严肃对待[NEXT][S]表情包的事情不是闹着玩的[NEXT][S]你要有敏感性[NEXT][S]明天我和你妈去学校[NEXT][KEY][S]方一凡的爸爸妈妈也会去学校的[KEY]	2
+[S]干嘛[NEXT][T]敬你一杯呀[NEXT][T]我这些日子忙着考试[NEXT][T]这家里里里外外就忙活你一人了[NEXT][KEY][S]咱俩[KEY]	2
+[T]他的能力我清楚[NEXT][T]他是我带过来的[NEXT][T]也跟了我这么多年[NEXT][T]其实很多事情都是他在在执行[NEXT][KEY][S]你老公他忙什么[KEY]	1
+[T]这个好[NEXT][S]之后咱俩就出去吃个午餐[NEXT][S]大汉堡[NEXT][S]披萨饼和薯条[NEXT][KEY][S]你随便选好吧[KEY]	3
+[S]他说也不应该跟爸爸还有妈妈那么说话[NEXT][S]她说对不起[NEXT][T]你找的他[NEXT][T]还是他找的你[NEXT][KEY][S]他出来跟我说[KEY]	0
+[T]还有新年[NEXT][T]还有我的生日[NEXT][S]你舅够趁钱的呀[NEXT][T]什么叫趁钱啊[NEXT][KEY][S]就是很有money[KEY]	0
+[T]那能一样吗[NEXT][T]你说咱们小区出入的全是豪车[NEXT][T]我跟你说骑个电动车都不好意思打招呼[NEXT][S]你啊我就不爱说你了[NEXT][KEY][S]你这样比没法比的[KEY]	2
+[S]我错了[NEXT][S]我为什么要生你[NEXT][S]我吃饱了撑的我就不该生你[NEXT][S]方一凡我真的不明白你脑子里面天天在想什么[NEXT][KEY][S]你是不是真的不知道现在高几了[KEY]	1
+[S]我可以连你还有卷子一起送[NEXT][T]你要再这样[NEXT][T]跟我开玩笑[NEXT][T]我告你骚扰了[NEXT][KEY][S]别 只送卷子 好吧[KEY]	3
+[T]拥抱自由[NEXT][S]我也想拥抱自由[NEXT][T]你还不自由[NEXT][S]我说英子你哪只眼睛看见我自由了[NEXT][KEY][S]我现在就被五指山压着[KEY]	3
+[S]我支持你所有的爱好[NEXT][S]不过话又说回来了[NEXT][S]你现在高三了[NEXT][S]老爸也不想让你在学习上分心[NEXT][KEY][S]第一[KEY]	3
+[T]要不一会就醉了[NEXT][S]醉了也好[NEXT][S]醉了省想那些破事[NEXT][T]工作啊[NEXT][KEY][S]老乔 我跟你说[KEY]	3
+[S]咱不说这个 你带我去看房子去[NEXT][T]行[NEXT][T]你要真租我肯定给你留着[NEXT][T]给你打折[NEXT][KEY][S]你不让我白住[KEY]	1
+[S]我这当爸爸的不得支持吗[NEXT][T]那么多年都没见你支持[NEXT][T]到了高三了支持什么[NEXT][T]不行[NEXT][KEY][S]我支持还分高几吗[KEY]	3
+[T]这就是我为什么一直追求你的原因[NEXT][S]潘老师[NEXT][S]你别说什么都能绕到咱俩这事上行吗[NEXT][S]行了不说了[NEXT][KEY][S]我得赶紧[KEY]	2
+[T]什么意思[NEXT][S]我在我经常活动这几个群里边[NEXT][S]他们分别是这个 你看看[NEXT][S]一个是律师这群[NEXT][KEY][S]还有我这以前叫春风化雨 老同学群[KEY]	2
+[T]别人女孩谈恋爱被人父母给抓着了[NEXT][T]好好好，不开玩笑了，你说[NEXT][S]我跟你说正经的[NEXT][T]你说怎么了[NEXT][KEY][S]他们高三年级组的组长[KEY]	2
+[T]说不定还真需要一条狗来陪陪咱们呢[NEXT][S]孩子长大了咱们就老了[NEXT][S]这是客观事实啊[NEXT][S]到那个时候咱们多出来转转走动走动[NEXT][KEY][S]像今天一样[KEY]	3
+[T]在你们男人心里[NEXT][T]像我这个年龄的女人[NEXT][T]是不是根本就没法跟那些小姑娘比[NEXT][S]我跟你说[NEXT][KEY][S]就他们在我眼里根本就不是女人[KEY]	0
+[T]自有留爷处[NEXT][S]那要是处处不留爷呢[NEXT][S]你以为都像你那么好命[NEXT][S]随便投个钱[NEXT][KEY][S]下半辈子都不用愁了[KEY]	2
+[S]这事以后别揪着不放[NEXT][T]不是我不放过你[NEXT][T]是人家就没想放过你[NEXT][T]但要我说 这事也未必是件坏事[NEXT][KEY][S]这什么意思[KEY]	1
+[T]牛奶还是百分之一脂肪[NEXT][T]不过凑合喝吧[NEXT][T]怎么了[NEXT][T]你喘什么呀 哪不舒服啊[NEXT][KEY][S]胸闷[KEY]	0
+[S]阿姨我其实觉得你现在这样真的特别好[NEXT][S]从容平静[NEXT][S]又宽容开明[NEXT][S]你肯定是个特别好的妈妈[NEXT][KEY][S]杨杨平时在家里边是不是就特别开心[KEY]	1
+[T]你还要我怎么样[NEXT][T]我不说话了行不行[NEXT][T]我不说了[NEXT][S]还成我的错了[NEXT][KEY][S]你现在是不是就想跟你爸在一起[KEY]	1
+[T]刘慈欣是个作家吗[NEXT][S]他在我们中间特别流行[NEXT][S]大家都特别爱看他的书[NEXT][S]比如说三体 流浪地球 乡村教师[NEXT][KEY][S]都是他写的书[KEY]	2
+[S]斋的跟荤的有什么区别吗[NEXT][T]周小北[NEXT][T]你跟这么个人在同一个地方同一张床上睡那么长时间[NEXT][T]你不恶心吗[NEXT][KEY][S]你管老子[KEY]	4
+[S]方圆[NEXT][S]你贴上毛你就是猴[NEXT][S]你说你要把你这点本事用在挣钱上[NEXT][S]咱家早发达了[NEXT][KEY][S]还用得着为这1万多的房租在这掰扯[KEY]	3
+[T]你才比我大几岁在这充长辈[NEXT][T]你跟我爸在一块知道的是老夫少妻[NEXT][T]不知道还以为姑娘伺候爹[NEXT][T]咱俩最多落一平辈[NEXT][KEY][S]张小宇给我站住[KEY]	6
+[T]我成倍给你追加注册资金[NEXT][S]爸爸你真好[NEXT][T]说话算数啊[NEXT][T]要是你妈问起来呢 [NEXT][KEY][S]不说[KEY]	0
+[S]对了[NEXT][S]我就说这投资的事[NEXT][S]最近这个我能不能少拿点[NEXT][T]手头上紧[NEXT][KEY][S]紧[KEY]	0
+[T]世界500强马上就来找你[NEXT][T]净给自己的就是不思进取[NEXT][T]你说咱姐那天在那说的一番话[NEXT][T]我真的是受[NEXT][KEY][S]别给我提这人[KEY]	6
+[T]鼻子怎么了[NEXT][S]流血了[NEXT][T]怎么回事儿[NEXT][S]不知道这屋里太干了[NEXT][KEY][S]你回头 这弄个加湿器吧[KEY]	3
+[T]你小子[NEXT][T]鬼点子多[NEXT][T]你帮我想想办法[NEXT][T]怎么才能让这孩子回到我身边[NEXT][KEY][S]我想想啊，主意倒是有一个，小宇知道蒂娜要生孩子了吗[KEY]	1
+[S]你呢你爸你妈[NEXT][S]没把你送去上大学[NEXT][S]你心里这个坎过不去[NEXT][S]但是你不能在琴琴身上找回来[NEXT][KEY][S]对不对[KEY]	1
+[T]Frank[NEXT][T]Frank[NEXT][S]爸[NEXT][S]你看你也这么喜欢他[NEXT][KEY][S]咱们就养着他[KEY]	1
+[T]你要再这样[NEXT][T]跟我开玩笑[NEXT][T]我告你骚扰了[NEXT][S]别 只送卷子 好吧[NEXT][KEY][S]我昨天刚救了你一命[KEY]	3
+[T]大姐[NEXT][T]我服了你了还不行吗[NEXT][S]不行[NEXT][T]那你想我怎么着[NEXT][KEY][S]请我喝汽水[KEY]	0
+[T]咱们就商量商量[NEXT][T]你说呢[NEXT][T]文洁[NEXT][T]你说呢[NEXT][KEY][S]你说得对呀[KEY]	0
+[S]说关门就关门[NEXT][S]说撵我们走就撵我们走[NEXT][T]小点声[NEXT][T]你怎么着先想办法解决好不好[NEXT][KEY][S]你去找他谈去[KEY]	6
+[S]潘老师[NEXT][S]你别说什么都能绕到咱俩这事上行吗[NEXT][S]行了不说了[NEXT][S]我得赶紧[NEXT][KEY][S]我走了[KEY]	2
+[S]英子[NEXT][T]又怎么呢[NEXT][S]你爸给你买的零食在那[NEXT][T]我爸也太好了[NEXT][KEY][S]好什么 一半都是垃圾食品[KEY]	7
+[S]你怎么叫我师傅[NEXT][T]但是他们这里都说，老师你都可以叫他师傅啊[NEXT][S]这样，你这样如果我教你功夫[NEXT][S]你就可以叫我师傅[NEXT][KEY][S]或者说我给你开车[KEY]	2
+[T]我估计他之前也不知道这张纸条[NEXT][S]看样子是[NEXT][S]不过现在他知道[NEXT][T]那你没跟他聊聊吗[NEXT][KEY][S]我跟他说了[KEY]	0
+[S]可是 可是小金怎么可以这样对我 她是我一路带过来的[NEXT][S]我从小别离那个项目就开始带她[NEXT][S]一直带到现在七八年了[NEXT][S]在我手底下[NEXT][KEY][S]他当时入这行的时候什么都不会[KEY]	2
+[T]挺有意思的[NEXT][S]后面还有好多特别精彩[NEXT][S]您看完了再走[NEXT][S]您不是最喜欢阿汤哥吗[NEXT][KEY][S]多浪费[KEY]	3
+[T]赢也要赢得坦坦荡荡[NEXT][S]无可奉告[NEXT][T]君子坦荡荡[NEXT][T]小人长戚戚[NEXT][KEY][S]Ok 是 我不得提前做功课吗[KEY]	4
+[S]早晨没吃早饭然后晕车[NEXT][S]再加上那个油漆的味儿[NEXT][S]所以有点难受[NEXT][T]压力很大[NEXT][KEY][S]有点[KEY]	0
+[T]让我看一次孩子就像探监一样[NEXT][T]有时还有点呢[NEXT][S]我儿媳妇说是要给牛牛转学转第一小学[NEXT][T]转学 转什么学 你牛牛不是已经三年级了吗[NEXT][KEY][S]是啊[KEY]	0
+[S]快起来[NEXT][S]妈妈今天做了好多好吃的 快点[NEXT][T]您做的肯定好吃[NEXT][T]油条豆腐脑吗[NEXT][KEY][S]你想吃油条豆腐脑啊[KEY]	1
+[T]那能比吗[NEXT][T]那不是一回事[NEXT][T]所以这事儿你绝对不能横着比[NEXT][T]你就得竖着看[NEXT][KEY][S]我没法数着看[KEY]	3
+[S]结果这儿正吃着吃着饭[NEXT][S]孩子餐桌上趴那儿睡着了[NEXT][S]你说这孩子累成什么样了[NEXT][S]这嘴里还含着饭呢[NEXT][KEY][S]你说这饭都没吃[KEY]	2
+[S]这儿[NEXT][T]逆袭了[NEXT][T]让妈看一下[NEXT][S]是吧[NEXT][KEY][S]来 拿钱[KEY]	6
+[T]你该怎么办[NEXT][S]他们住的房子比我住的还大呢[NEXT][S]跟我借钱 没有[NEXT][T]那我舅呢 我舅要找你借钱怎么办[NEXT][KEY][S]你妈在世的时候啊[KEY]	0
+[S]都快10点了[NEXT][T]我昨天晚上一晚上都没睡[NEXT][S]干嘛 知道自己要结婚了[NEXT][S]吓得睡不着觉了[NEXT][KEY][S]赶紧起来 走了[KEY]	6
+[S]好了 瞧你哭的 这事啊[NEXT][S]得分[NEXT][S]你到底是竖着看还是横着看[NEXT][S]比如说你要是竖着看方一凡这事[NEXT][KEY][S]他还是进步了[KEY]	3
+[T]我哪也不去[NEXT][S]说的简单[NEXT][S]要是让你重新选的话[NEXT][S]你还会选这条路的[NEXT][KEY][S]我现在真的是想 你还是别坐那么高的位子[KEY]	3
+[T]我也怕得老寒腿[NEXT][T]你待会上班的时候把这件穿上[NEXT][T]我去做早饭了[NEXT][S]快起来[NEXT][KEY][S]妈妈今天做了好多好吃的 快点[KEY]	2
+[S]有你这话爸就放心了[NEXT][S]你自己把握[NEXT][T]好的[NEXT][T]爸 你干什么呢[NEXT][KEY][S]没事[KEY]	0
+[T]他丈夫有很多的房产[NEXT][T]还有商铺[NEXT][S]但是都购于婚前 婚前房产不属于夫妻共同财产[NEXT][T]他是不是以前咨询过你[NEXT][KEY][S]当然没有[KEY]	0
+[S]这不一雷[NEXT][S]方一凡也怕他妈 就给藏床底下了[NEXT][S]今早上 童文洁给发现了[NEXT][S]他决定把这雷交给宋倩[NEXT][KEY][S]让宋倩引爆处理[KEY]	2
+[S]2万[NEXT][S]咱们这一家4口得租个小三居起码 对不对[NEXT][S]好 先不说这钱的事[NEXT][S]就算咱决定要搬过去了[NEXT][KEY][S]决定搬过去你说怎么搬[KEY]	2
+[S]妈 我回来了[NEXT][T]回来了[NEXT][T]你怎么回来的[NEXT][T]你爸送你的[NEXT][KEY][S]没有[KEY]	0
+[S]越藏着掖着呢 越看不清[NEXT][T]接触谁啊[NEXT][S]他呀[NEXT][T]哪个他 [NEXT][KEY][S]就是那个他[KEY]	0
+[T]还要给这种人当助理吗[NEXT][S]不是你先冷静一下[NEXT][S]你又不知道具体发生了什么事儿[NEXT][T]你别再替他辩护了[NEXT][KEY][S]我没有辩护[KEY]	7
+[S]我实在是忍不了了[NEXT][T]如果你们一定要离婚[NEXT][T]我就跟着你[NEXT][S]傻孩子[NEXT][KEY][S]你要是真跟着我[KEY]	7
+[S]所以如果他是为了这份遗产[NEXT][S]没必要这么大费周折[NEXT][T]的确[NEXT][T]可他这什么意思呢[NEXT][KEY][S]不管了[KEY]	0
+[S]我给你做饭你都可以叫我师傅[NEXT][S]但我要教你给人看眼睛当大夫[NEXT][S]你得叫我老师[NEXT][S]除非你是跟了我特别特别长时间[NEXT][KEY][S]你叫我师傅还说得过去[KEY]	2
+[T]戴曦确实有背景[NEXT][T]什么背景[NEXT][T]应该还挺深的[NEXT][T]罗槟说他不能泄露[NEXT][KEY][S]胡扯你去查[KEY]	6
+[S]这在陌生人面前啊[NEXT][S]没必要那么不诚实[NEXT][T]我问你啊[NEXT][T]咱们俩还算陌生人吗[NEXT][KEY][S]不算了吧[KEY]	0
+[S]如果朵朵真的恋爱了[NEXT][S]你是希望他诚实的告诉你[NEXT][S]还是他心里很怕[NEXT][S]不敢跟你说[NEXT][KEY][S]直到你查出来为止[KEY]	1
+[S]你怎么永远说什么都是男男女女都永远联系到这儿来[NEXT][S]我去年是个男学生那就男学生去吗[NEXT][S]今年是个女学生 就跟那个女学生去 之前也带着女学生去过[NEXT][T]你什么时候带女学生去过[NEXT][KEY][S]我怎么没带 原来那个黄衣服的女学生不就是我带着去的[KEY]	4
+[T]从某种角度上讲我也是受害者[NEXT][S]乔卫东还说他无辜 说他当年不是出轨[NEXT][S]他不出轨[NEXT][S]宋倩跟他离婚[NEXT][KEY][S]宋倩疯了[KEY]	4
+[S]走了之后我妈给医院打电话[NEXT][S]你觉得挺好的[NEXT][S]190血压你觉得好吗[NEXT][S]童文洁[NEXT][KEY][S]平常你跟家里你呲儿朵朵[KEY]	2
+[S]咱现在没人脉[NEXT][S]你扔一堆红包啥用没有[NEXT][S]我今天从我的师弟那个楼上一下来[NEXT][S]我坐在路边在想[NEXT][KEY][S]我也是一老帮菜了[KEY]	3
+[T]他们刚毕业没钱[NEXT][T]比较适合这种苦工[NEXT][S]其实我考证其实一点问题没有[NEXT][S]而且从初级做起[NEXT][KEY][S]我也行[KEY]	3
+[T]不是 这 不[NEXT][T]这真是我的 这不是我给的[NEXT][T]这是我的 好几年前我还找 以为给我扔了[NEXT][T]合着这小子拿过来搁他这了[NEXT][KEY][S]难怪学习成绩不好[KEY]	3
+[S]好 不说基因的事了[NEXT][S]我觉得是这样[NEXT][S]既然它是一个分班考是吧[NEXT][S]他已经考成这个结果[NEXT][KEY][S]我们先接纳这个结果[KEY]	3
+[T]你应该知道 我是清白的[NEXT][T]你不要相信他说的话[NEXT][T]你要相信我[NEXT][T]妈[NEXT][KEY][S]坐[KEY]	6
+[T]真的[NEXT][T]我发誓[NEXT][T]别哭了[NEXT][S]英子 英子[NEXT][KEY][S]我有话跟你说[KEY]	3
+[T]是我编的[NEXT][T]但是 我还就真不信了[NEXT][T]你就从来没有想过 你跟唐琳的过去吗[NEXT][T]你就没幻想着你俩当年那个[NEXT][KEY][S]别胡说八道[KEY]	6
+[S]这就是我想的型号[NEXT][S]谢谢[NEXT][S]要不您还是拿回去[NEXT][S]我最近忙着学习[NEXT][KEY][S]我妈肯定不让我玩[KEY]	3
+[T]听见了吧[NEXT][T]所以我估计撒谎的事肯定也是小宇赶鸭子上架把朵朵给赶开的[NEXT][S]我跟你说小宇改卷子是小宇的不对[NEXT][S]但是朵朵同意小宇改卷子[NEXT][KEY][S]方朵朵难道没错吗[KEY]	4
+[T]人比人气死人甭跟人比[NEXT][S]要不说就不愿意跟你聊天[NEXT][S]你这人全是低气压负能量[NEXT][T]那该怎么说[NEXT][KEY][S]什么叫没钱认命我跟你说有钱人可是有有钱人的烦恼[KEY]	0
+[S]Frank不能放屁啊[NEXT][S]不能那么大声，姐姐在做作业呢[NEXT][T]它知道了[NEXT][S]好[NEXT][KEY][S]一股蒜味[KEY]	2
+[S]你先喝点茶[NEXT][S]你妈是好心[NEXT][S]生吃海参[NEXT][S]补脑子[NEXT][KEY][S]对身体好[KEY]	3
+[T]他肯定怀疑咱们，看会电视[NEXT][T]我下午才出车[NEXT][T]你让我睡会儿[NEXT][T]起来[NEXT][KEY][S]跟你说个事快点的[KEY]	6
+[S]不过[NEXT][S]他攀岩还是有一套的[NEXT][T]江焱也会去吗[NEXT][T]他家里最近出了这么大的事儿[NEXT][KEY][S]我最近在学校没有见过他[KEY]	0
+[S]高考可不是百米冲刺[NEXT][S]那是马拉松[NEXT][S]有的你努力的 要依我说 高考以前这些玩具[NEXT][S]就妈妈帮你保存[NEXT][KEY][S]行吗[KEY]	1
+[T]我承认撒过谎[NEXT][T]但是为什么你们就是不相信我呢[NEXT][S]好好你先不激动[NEXT][S]朵朵[NEXT][KEY][S]你听妈妈我说两句行不行[KEY]	1
+[S]我就不发这表情包了[NEXT][S]不过我觉得你的道歉信写的挺酷的[NEXT][T]酷吗[NEXT][T]我都不知道自己在说什么[NEXT][KEY][S]酷[KEY]	0
+[T]给英子[NEXT][T]就是说约英子吃饭的事[NEXT][S]给英子打电话[NEXT][S]我不能听吗[NEXT][KEY][S]你到底是给英子打还是给你前妻打[KEY]	1
+[S]我只想要一点尊严[NEXT][T]工作的事情不着急[NEXT][T]现在最重要的是你住到哪里去[NEXT][T]你怎么来了[NEXT][KEY][S]我找你[KEY]	0
+[T]早餐也都是叫外卖的[NEXT][T]还有午餐和晚餐都是在公司里面叫外卖解决的[NEXT][S]叫早餐倒是行[NEXT][S]可是我这个午餐 怎么整啊[NEXT][KEY][S]我合着不能上你们公司去吃去吧[KEY]	4
+[T]那我给您核对核对您的信息[NEXT][T]你这牙挺好的[NEXT][S]也得洗洗爱美之心人皆有之[NEXT][T]您的姓名[NEXT][KEY][S]刘珍珍[KEY]	0
+[T]来 吃了它[NEXT][S]我这不是没病吗[NEXT][S]我这好好的[NEXT][T]你昨天不是还不舒服来着[NEXT][KEY][S]那是昨天 我现在好了[KEY]	2
+[S]咬一口血刺呼啦的[NEXT][S]那菜都是生的 是[NEXT][S]冰水想喝口热的[NEXT][S]没地找去[NEXT][KEY][S]你说咱孩子那胃能受的了吗[KEY]	1
+[T]一共是680[NEXT][S]六百八[NEXT][T]菜钱是200[NEXT][T]服务费算480[NEXT][KEY][S]服务费这么高[KEY]	1
+[T]喝点粥 喝点粥就舒服了[NEXT][T]怎么了[NEXT][S]还是热了[NEXT][S]榨菜一点味都没有[NEXT][KEY][S]我能不能吃点肉啊[KEY]	1
+[T]我是让你放松[NEXT][T]可一个电影看两遍 闲的[NEXT][T]这有意义吗[NEXT][S]这怎么没意义了[NEXT][KEY][S]让你高兴不是意义吗[KEY]	3
+[T]第二天上来就懂了[NEXT][T]而且懂得头头是道[NEXT][T]能自圆其说[NEXT][T]熬夜做功课的[NEXT][KEY][S]是[KEY]	0
+[S]我说你看人亮忠天天在外边公司那么多事那么忙[NEXT][S]是吧[NEXT][S]你怎么能让就是后院得太平[NEXT][S]咱不能后院起火[NEXT][KEY][S]你说是不是[KEY]	1
+[S]咱们说去国家航天局这不才是你理想吗[NEXT][S]你过来[NEXT][S]妈妈跟你说[NEXT][S]我知道你不高兴了[NEXT][KEY][S]刚没收你乐高[KEY]	2
+[T]所以他们在四处地诋毁你[NEXT][T]并且要求要吊销你的律师证[NEXT][S]可笑 凭什么[NEXT][T]就凭你去威胁了栗伟正[NEXT][KEY][S]我没有[KEY]	7
+[T]没有[NEXT][T]正合适 你看[NEXT][T]这应该 要不咱们[NEXT][S]这袋是吗[NEXT][KEY][S]来[KEY]	6
+[T]咱说认真的[NEXT][T]要到时候真的不行了[NEXT][T]咱就复读一年[NEXT][S]你再读一年这何必 凡凡你自己算算这个账[NEXT][KEY][S]你现在能努力，拼一下，就拼9个月[KEY]	3
+[T]宝贝啊[NEXT][T]昨天妈妈有点急[NEXT][T]你不怪她吧[NEXT][T]她昨天有掐疼你吗[NEXT][KEY][S]妈妈没掐我[KEY]	0
+[S]但是为你好[NEXT][S]你嫁到我们家了[NEXT][S]已经是人家的儿媳妇了[NEXT][S]你哪能干什么[NEXT][KEY][S]不像什么 哪能什么都不会呢[KEY]	4
+[T]下次打拳的时候[NEXT][T]得把腕子绷直了[NEXT][T]要不然受苦的是你自己[NEXT][T]放松 第一次玩[NEXT][KEY][S]第一次[KEY]	0
+[T]万一有个三长两短[NEXT][T]你说孩子没了[NEXT][T]我这么多年我忙活什么呢[NEXT][T]跟分数比起来哪个重要[NEXT][KEY][S]这样这样[KEY]	2
+[S]三爱学习更爱生活[NEXT][T]这个有一半[NEXT][S]10相信比成绩重要的东西还有很多[NEXT][T]这个 他太相信了[NEXT][KEY][S]你说方一凡基本都有[KEY]	1
+[S]肯定是担心我嘛[NEXT][S]想看我是不是到家睡觉了没有[NEXT][T]真是这样[NEXT][S]是啊[NEXT][KEY][S]我骗你干嘛呀[KEY]	4
+[T]怎么回事呢[NEXT][S]我想起来了[NEXT][S]我来之前吃抗过敏的药了[NEXT][S]那药真好使[NEXT][KEY][S]你看没事了[KEY]	2
+[S]咱俩吃饭去吧[NEXT][T]没心情[NEXT][S]喝一下午茶肚子油都刮光了[NEXT][S]没心情也得吃饭[NEXT][KEY][S]你别饿着[KEY]	3
+[S]那还不得让他给折磨死[NEXT][S]没准还得伺候他那俩傻儿子[NEXT][S]琴琴在咱家是心肝宝贝[NEXT][S]到那去给人家当丫头[NEXT][KEY][S]我疯了我[KEY]	4
+[S]菜钱是200[NEXT][S]服务费算480[NEXT][T]服务费这么高[NEXT][S]今天心情不太好[NEXT][KEY][S]所以服务费收高一点[KEY]	0
+[T]曹丕和曹植也是兄弟[NEXT][T]是亲兄弟[NEXT][T]不是如兄弟[NEXT][S]帮我约一下光睿[NEXT][KEY][S]看中午能不能一起吃个饭[KEY]	6
+[S]我就是想养frank吗[NEXT][S]这只小狗就叫Frank[NEXT][S]我本来想是说说先放小宇家待两天[NEXT][S]可谁知道他老姨对狗毛过敏[NEXT][KEY][S]我没办法[KEY]	2
+[S]这是你的[NEXT][S]我这件太花了吧[NEXT][T]不花这很衬肤色的[NEXT][S]我看你这件[NEXT][KEY][S]喜欢吗[KEY]	1
+[T]你把门打开一下[NEXT][T]我给孩子拿着点东西[NEXT][S]咱们说好了一个月见一次的[NEXT][S]别坏了规矩好不好[NEXT][KEY][S]天天来打扰，你先回去把[KEY]	6
+[T]真是气死人了真是[NEXT][T]我不是发火 着急 童文洁 你说[NEXT][T]你那天 打 那天孩子打架的时候[NEXT][T]你是不是去了[NEXT][KEY][S]我去了[KEY]	2
+[S]天天在敷衍他[NEXT][S]田璐不想当小三儿[NEXT][S]所以他才找到我[NEXT][S]让我帮他拍了这条视频发到网上去[NEXT][KEY][S]我没编 哥[KEY]	7
+[S]从来对豪车豪宅不沾边的[NEXT][S]你开这个法拉利去学校[NEXT][S]这本来就违反校纪校规的[NEXT][S]并且给我们家庭造成了极其恶劣的影响[NEXT][KEY][S]你必须道歉[KEY]	3
+[S]钱在这儿呢[NEXT][S]答应我一件事[NEXT][S]答应了就给你[NEXT][T]你说[NEXT][KEY][S]钱立刻存银行定期存存现在就存[KEY]	6
+[T]她出国之后就见不到他爸爸妈妈[NEXT][T]她一个人，那要想她爸妈怎么办[NEXT][S]方朵朵[NEXT][S]这事跟你有关系吗[NEXT][KEY][S]她爸爸妈妈愿意送是他爸爸妈妈的事情[KEY]	2
+[S]朵朵[NEXT][S]我问你[NEXT][S]我听你们老师说说你们班很多人不爱写作业[NEXT][S]老抄作业[NEXT][KEY][S]为什么不写作业[KEY]	1
+[S]你能理解我这个感受吗[NEXT][T]理解不了[NEXT][S]就是说 你也不明白[NEXT][S]就是说艺术要用心去感受[NEXT][KEY][S]这样 要不我再给你跳一个[KEY]	1
+[T]我离你既远又近若离[NEXT][T]让人觉得我们既是一个家庭[NEXT][T]同时又是一个不甚完美的家庭[NEXT][S]乔卫东[NEXT][KEY][S]你是不是这偷鸡摸狗的事干多了[KEY]	3
+[T]什么时候的事[NEXT][T]你真是挺有能耐的[NEXT][T]我真是低估你了[NEXT][S]不是姐不是这样的[NEXT][KEY][S]要不这样[KEY]	3
+[T]你爱穿什么穿什么[NEXT][S]老师[NEXT][T]老师问你个事[NEXT][S]等会 老师 你不是不教我们班了吗[NEXT][KEY][S]咱们就没什么问题了[KEY]	3
+[S]没心情也得吃饭[NEXT][S]你别饿着[NEXT][S]我跟你说我的人生经验就是这样的[NEXT][S]没有什么事是一顿火锅解决不了的[NEXT][KEY][S]咱不吃那什么健康食品有机食品了[KEY]	3
+[S]到外面吃[NEXT][S]那得多贵呀[NEXT][S]还是花咱俩的钱哪[NEXT][S]你自己想想你爸住进来以后[NEXT][KEY][S]咱俩的生活水平是不是下降了[KEY]	1
+[T]不是我没有[NEXT][S]怎么可能咱们这个年龄段谁都有个欣赏的人[NEXT][T]表哥你[NEXT][T]有吗[NEXT][KEY][S]我当然有了[KEY]	0
+[T]在一起那么多年了 白处了[NEXT][T]你不知道我是什么人吗[NEXT][S]彭总来了 来 快坐[NEXT][T]都能下床了[NEXT][KEY][S]快坐[KEY]	6
+[S]想让你送点清淡的过去[NEXT][S]每天做两餐就行[NEXT][S]我在外地 回来再给你结账可以吗[NEXT][T]你家人啊[NEXT][KEY][S]我有义务告诉你吗[KEY]	1
+[S]卑躬屈膝[NEXT][S]天天在家 媳妇 吃苹果不 吃水果不[NEXT][S]他就是在家一点存在感都没有[NEXT][S]然后我妈就是在家太强势了[NEXT][KEY][S]天天[KEY]	2
+[S]他没学历没文凭[NEXT][S]他哪个单位接纳他[NEXT][S]还没本事挣钱[NEXT][S]没本事养家[NEXT][KEY][S]哪个女朋友要他[KEY]	1
+[T]我跟宋倩跟他干了一仗[NEXT][T]还给他打了个差评[NEXT][T]我不去找他[NEXT][S]童文洁 我跟你讲[NEXT][KEY][S]我严肃的提醒你[KEY]	3
+[T]行 不想穿就不穿 好吧[NEXT][T]都依你[NEXT][S]不是 你这么叹气 什么意思[NEXT][S]怎么随我 都依着我 家里大事小事不都依着你吗[NEXT][KEY][S]哪件事我不是听你的 大事[KEY]	3
+[T]文洁[NEXT][T]你说呢[NEXT][S]你说得对呀[NEXT][T]什么对呀，你是不是睡着了[NEXT][KEY][S]没睡着，我就[KEY]	0
+[T]比如说突然会玩微信了[NEXT][T]锻炼的时间明显比以前长了[NEXT][T]即使鬼迷心窍[NEXT][T]也不至于这么短[NEXT][KEY][S]不至于什么[KEY]	7
+[S]我弄汤呢[NEXT][T]你弄你的汤[NEXT][T]我这不影响你[NEXT][T]该弄你的弄起来[NEXT][KEY][S]我跟你说今天孩子们说了[KEY]	2
+[S]英子[NEXT][T]妈[NEXT][T]还有什么事吗[NEXT][S]没什么事[NEXT][KEY][S]那部蚁人 你还没看过吧[KEY]	1
+[S]得意也是什么[NEXT][S]也是不理智的[NEXT][S]得意 也是盲目的得意[NEXT][S]痛苦的也是不着边际的痛苦[NEXT][KEY][S]但是人这一辈子 童文洁[KEY]	3
+[S]你多次 他 到他原谅你算结束这事[NEXT][S]反正你说滚刀肉无所谓的[NEXT][S]你就别挑这些理了[NEXT][S]你知道吗[NEXT][KEY][S]我说的就是 有没有道理[KEY]	3
+[T]所以说[NEXT][T]机器是最公正的[NEXT][S]也最无情[NEXT][T]所以适合你的法律工作呀[NEXT][KEY][S]不你错了[KEY]	7
+[S]你不是说你听讲座去了吗[NEXT][S]你去你爸那多久了[NEXT][S]你不上第一节早课多久了[NEXT][T]两天[NEXT][KEY][S]两天[KEY]	1
+[S]还没到穿棉服的时候吧[NEXT][T]这多冷 屋里边 咱们又是一层[NEXT][T]这没来暖气的[NEXT][T]多穿点没错[NEXT][KEY][S]没那么夸张[KEY]	3
+[T]去好好休息[NEXT][T]什么事都不要管了[NEXT][S]在哪儿呢[NEXT][T]我刚跟我师傅分开[NEXT][KEY][S]这我知道 那什么 关于我的事儿[KEY]	0
+[S]当时爸没去成美国[NEXT][S]我们讨论过他的赡养问题[NEXT][S]你让他问问苏明成和朱丽 当时是怎么跟爸保证的[NEXT][T]保证什么[NEXT][KEY][S]具体我就不多说了[KEY]	0
+[S]然后咱们这样先吃早饭[NEXT][S]我想咱们弄个[NEXT][S]铰子[NEXT][T]行三全的[NEXT][KEY][S]抱蛋煎饺[KEY]	3
+[T]那事啊 那天他进来 你转的挺好的[NEXT][T]他未必听得出来你在说她[NEXT][S]是你傻还是他傻[NEXT][S]他连这个都听不出来[NEXT][KEY][S]他不可能坐到今天这个位置[KEY]	3
+[T]这一打岔至少5个亿[NEXT][T]对了佳妮啊[NEXT][T]我还要问你呢[NEXT][T]你是不是给琴琴请家教了[NEXT][KEY][S]那个精锐教育[KEY]	2
+[S]哪儿有家啊[NEXT][S]你回什么家呀[NEXT][S]这是我的家[NEXT][S]你的家在美国 回美国去 你给我回美国去[NEXT][KEY][S]别跟着我[KEY]	6
+[T]到处传[NEXT][T]影响多不好[NEXT][T]所以我赶紧发给你看看怎么办[NEXT][S]这影响是挺不好的[NEXT][KEY][S]但这些都得等这次期中考完试再说[KEY]	3
+[T]先搁这[NEXT][T]哪本在前面来着[NEXT][T]行 先这样吧[NEXT][T]现场恢复一下[NEXT][KEY][S]你恢复去吧[KEY]	6
+[S]防着谁[NEXT][S]谁跟他们在一块时间最长[NEXT][S]防着谁[NEXT][T]谁跟他时间最长[NEXT][KEY][S]你啊 你停车停车[KEY]	0
+[S]不用人朝后[NEXT][T]怎么叫用人朝前不用人朝后[NEXT][T]这不刚给你买一包吗[NEXT][S]你还好意思说[NEXT][KEY][S]这半年你就给我买过一个包[KEY]	2
+[S]还弄什么比谁反应快[NEXT][S]比谁失误率低是吧[NEXT][S]比谁做卷正确率高[NEXT][S]这是干嘛[NEXT][KEY][S]你说学那些英语什么阅读[KEY]	2
+[S]我平常发火吗[NEXT][S]对不对[NEXT][S]该发火就得发火[NEXT][S]你要不下不住他[NEXT][KEY][S]他这是皮惯了[KEY]	3
+[T]是 跟我没毛关系[NEXT][T]但是你千万别跟他们说 说了之后[NEXT][T]真的我不知道怎么面对孩子[NEXT][T]千万别说[NEXT][KEY][S]你打算瞒他们瞒多久[KEY]	1
+[T]大家跟那活动 谁会注意到我[NEXT][S]手好痛[NEXT][T]你今儿怎么过来了[NEXT][S]今天我有个学员请假[NEXT][KEY][S]所以我就休息了[KEY]	0
+[S]你你是撞到了枪眼上了[NEXT][S]也是赶巧啊[NEXT][S]这老大天天看着小金加班到半夜[NEXT][S]而且他做的报表非常的整洁明了[NEXT][KEY][S]所以他就提拔小金做了副总监[KEY]	2
+[T]人家是富二代还加油[NEXT][T]工作呢[NEXT][T]你生意刚刚起步[NEXT][T]你怎么就能托大到放弃送上门的生意呢[NEXT][KEY][S]不是我托大 人小曲去的是国外[KEY]	0
+[T]还说女生开车危险[NEXT][T]对因为超市你煮的当然不清楚的[NEXT][S]好吃[NEXT][T]你现在的样子好像仓鼠 仓鼠就是把东西都储存在嘴巴里面[NEXT][KEY][S]你说我胖了是不是[KEY]	1
+[S]没压力有什么动力[NEXT][T]搞定[NEXT][T]你说什么刚才[NEXT][S]压力大动力大[NEXT][KEY][S]今天这事真的不赖我[KEY]	2
+[S]你说咱在家里边是吧[NEXT][S]孩子每天吃什么穿什么几点走[NEXT][S]上哪个补习班[NEXT][S]咱要搬家还是不搬家[NEXT][KEY][S]对不对[KEY]	3
+[T]你是说他[NEXT][S]然后我认识的那个女的是他们的一家的[NEXT][S]我明白明白[NEXT][S]你知道吧[NEXT][KEY][S]知道了，自从你跟你结婚第二年开始[KEY]	3
+[T]在家不怕有爸爸妈妈 在学校[NEXT][T]你就要多带他[NEXT][S]我带他[NEXT][S]妈 你没开玩笑[NEXT][KEY][S]我努力学习成绩也就他的一半[KEY]	3
+[S]就刘静阿姨[NEXT][S]想感谢我[NEXT][T]谢什么[NEXT][S]我不是给[NEXT][KEY][S]季杨杨送卷子去了[KEY]	0
+[T]我知道[NEXT][T]等等先别走[NEXT][T]现在可以说说昨天晚上的事[NEXT][T]你们两口子真挠啊[NEXT][KEY][S]不 我自己磕的[KEY]	0
+[T]说的都是废话[NEXT][T]你干嘛去[NEXT][T]找找清楚的人说去[NEXT][T]你在这干嘛[NEXT][KEY][S]赚钱养活我自己[KEY]	0
+[T]方一帆好多事也瞒着我[NEXT][T]你说为什么[NEXT][T]怕讲实话了我们不同意[NEXT][T]怕我们不高兴[NEXT][KEY][S]我有那么凶[KEY]	1
+[S]咱们一家三口好不容易团聚 庆祝庆祝[NEXT][S]现在不是提倡什么生活仪式感[NEXT][S]年轻的东西 我搞得不大懂[NEXT][S]本来让他包一束团圆的[NEXT][KEY][S]包了一包苹果[KEY]	2
+[T]这根本就是道德品质问题[NEXT][S]是道德品质问题[NEXT][S]可是怎么说乔卫东也是英子的亲爹[NEXT][S]打断骨头连着筋[NEXT][KEY][S]乔卫东对英子多好[KEY]	3
+[S]我们肯定会找学生和家长谈话的[NEXT][S]再说了学生那点小动作[NEXT][S]老师看的还是很清楚的[NEXT][T]那就好[NEXT][KEY][S]您就放心吧[KEY]	2
+[T]没活[NEXT][T]你让我怎么着[NEXT][T]我抓一人塞车了[NEXT][T]那叫绑票[NEXT][KEY][S]完了吧你别找借口了[KEY]	7
+[T]这不更像姐俩了[NEXT][T]店里这几天招新人[NEXT][T]新人我得盯着 走了[NEXT][T]死丫头你跟田坤的事到底怎么着过这村就没这店了[NEXT][KEY][S]我不要回去[KEY]	7
+[T]我在这儿镇守等你回来[NEXT][S]这么巧啊[NEXT][T]这么巧[NEXT][T]蓄谋的吧[NEXT][KEY][S]不可能啊[KEY]	0
+[T]妈妈气死爸爸估计也活不了多久了[NEXT][T]你不也是孤儿吗[NEXT][T]赶紧弄走[NEXT][S]不是[NEXT][KEY][S]我就是想养frank吗[KEY]	2
+[T]我也行[NEXT][S]师哥要不这样[NEXT][S]你再好好的考虑一下性价比[NEXT][S]你看你考司考复习就得一年半载的[NEXT][KEY][S]然后到我这来做助理[KEY]	3
+[T]我把话说得直白一点[NEXT][T]便于你理解[NEXT][S]啊 好[NEXT][T]夏小白你认识吗[NEXT][KEY][S]认识[KEY]	0
+[T]我也不想知道[NEXT][S]不想知道我也要说[NEXT][S]他跟修电脑的师傅住在一块 太丢脸[NEXT][T]不会吧[NEXT][KEY][S]他亲口说的[KEY]	0
+[S]周一还要开家长会[NEXT][S]我和你妈都挺着急的[NEXT][S]来 你看看这个[NEXT][S]坐下[NEXT][KEY][S]我就想着急也没有用[KEY]	2
+[T]抱歉[NEXT][S]宋老师你说现在考一个大学确实不是什么难事儿[NEXT][S]难的就是考上一个称心的大学[NEXT][S]好的大学[NEXT][KEY][S]然后再找一个适合他自己的专业不容易[KEY]	3
+[S]他在学校管我要来的[NEXT][S]想看一下解题步骤什么的[NEXT][S]你喝点水[NEXT][S]然后刘静阿姨就送我出门了[NEXT][KEY][S]让我在学习上多帮衬着点杨杨[KEY]	2
+[S]对啊[NEXT][T]那现在这些是假的[NEXT][T]那你这个疼吗[NEXT][S]还好还好[NEXT][KEY][S]我也不知道[KEY]	0
+[T]对 主卧 [NEXT][S]不用放太多家具过来[NEXT][S]就住个小一年的[NEXT][S]你说回头这一家具放哪儿 真好[NEXT][KEY][S]这个位置是真好[KEY]	3
+[T]你说你这香蕉把皮剥了是什么效果[NEXT][S]你有话跟妈妈说吗[NEXT][S]今天[NEXT][T]说说什么啊？[NEXT][KEY][S]你说说什么[KEY]	1
+[S]我觉得这样 这事就过去了[NEXT][S]好吧[NEXT][S]你给孩子就说[NEXT][S]说声对不起 道个歉[NEXT][KEY][S]这事结了[KEY]	3
+[T]这点面子他们总会给的[NEXT][T]我去[NEXT][T]我去找他们[NEXT][S]把心放踏实了[NEXT][KEY][S]把饭吃了[KEY]	6
+[S]受人尊重[NEXT][T]你就想多了[NEXT][S]是确实想多了[NEXT][S]媳妇[NEXT][KEY][S]你既然说你要养我[KEY]	3
+[T]这家里边就剩咱们俩了[NEXT][T]孤寡老人[NEXT][T]说不定还真需要一条狗来陪陪咱们呢[NEXT][S]孩子长大了咱们就老了[NEXT][KEY][S]这是客观事实啊[KEY]	2
+[S]我是说我跌跟头和你跌跟头是一回事吗[NEXT][S]你跌是多少岁的时候跌的[NEXT][S]你30来岁跌的[NEXT][S]对不对[NEXT][KEY][S]后来你就发家致富了[KEY]	2
+[T]我找去[NEXT][T]但我觉得方一凡真上不了台面[NEXT][T]你觉得他行吗[NEXT][T]昨晚没睡好[NEXT][KEY][S]半夜才睡着的[KEY]	0
+[T]你弟弟就少受一点苦[NEXT][S]你不要太操心了[NEXT][S]注意身体[NEXT][T]你在哪里 怎么那么吵[NEXT][KEY][S]我在路边等人呢[KEY]	0
+[T]她那个电话肯定不是给琴琴打的[NEXT][T]如果她是给琴琴打的她有什么不能说的[NEXT][T]分明是心里面有鬼[NEXT][T]你给小宇打电话直接问[NEXT][KEY][S]不能直接打电话问小宇跟他是好伙伴[KEY]	7
+[S]完了 起晚了[NEXT][S]飞机要赶不上了[NEXT][T]赶得上 怎么会赶不上 几点了[NEXT][S]都赖你 晚上喝什么红酒[NEXT][KEY][S]快快[KEY]	6
+[T]小梦不是甲醛过敏吗[NEXT][T]我就把我那老房子重新粉刷了一下[NEXT][T]然后换了个地板[NEXT][T]然后挑了点有味的家具放里了[NEXT][KEY][S]乔卫东 你 你发财还是有道理的[KEY]	3
+[S]我在一忍辱负重[NEXT][S]孩子们再一考上大学[NEXT][S]我们共享清福是[NEXT][S]对[NEXT][KEY][S]我买只鸡[KEY]	2
+[S]要是不行的话[NEXT][S]我去机场等您[NEXT][S]请您务必给我10分钟[NEXT][T]又要跟我谈孙副总的事 是不是[NEXT][KEY][S]是的[KEY]	0
+[S]给他喝彩[NEXT][S]肯定他这57分是个进步[NEXT][S]他可能就真的进步了[NEXT][S]我觉得这样 这事就过去了[NEXT][KEY][S]好吧[KEY]	3
+[S]要喝给你爸喝[NEXT][S]你爸火比我大[NEXT][T]还生气呢[NEXT][S]我没气[NEXT][KEY][S]我只是在跟你说这个道理[KEY]	2
+[S]我打听过了[NEXT][S]我周围比邻居家的保姆的工资都比我高[NEXT][S]我很想换一家[NEXT][T]我不是保姆[NEXT][KEY][S]对不起[KEY]	5
+[T]我跟你说个事儿[NEXT][T]快[NEXT][S]什么事[NEXT][T]还是琴琴出国留学的事儿[NEXT][KEY][S]咱不是说不去了吗[KEY]	1
+[S]这不是我的意思[NEXT][S]这是老大的意思[NEXT][S]不过说实话[NEXT][S]你最近的状态确实不ok[NEXT][KEY][S]你说你连续请假 这罗杰都知道[KEY]	2
+[S]你别急[NEXT][S]这不是你们都还在吗[NEXT][S]等你们一走[NEXT][S]我那宝贝望远镜就要被没收了[NEXT][KEY][S]我要是管他要的话[KEY]	3
+[T]我就过来了[NEXT][T]这么大事你怎么也没告诉我[NEXT][T]连舅舅也不知道[NEXT][S]搬家多大的事[NEXT][KEY][S]还兴师动众的[KEY]	3
+[T]像咱俩这种性格[NEXT][T]宫斗戏里活不过两集[NEXT][S]这个事赖我[NEXT][S]我太八卦了[NEXT][KEY][S]我就不该跟你说[KEY]	3
+[T]好到现在一点回音都没有[NEXT][T]Unbelievable[NEXT][T]你有没有在听我说话[NEXT][S]我在听[NEXT][KEY][S]实在不好意思[KEY]	5
+[S]老朋友了[NEXT][T]你干啥子工作[NEXT][S]我开公司[NEXT][T]大老板[NEXT][KEY][S]阿姨 我不是大老板[KEY]	7
+[S]第一时间引起杨杨对你的关注[NEXT][T]可这个网络我一窍不通[NEXT][S]没事[NEXT][S]你有QQ号吗[NEXT][KEY][S]微博呢[KEY]	1
+[S]你说你还金牌教师 说话就不能文明点[NEXT][T]谁先说的 谁不文明[NEXT][T]乔卫东 别得寸进尺[NEXT][T]让你进屋你还得谢谢我[NEXT][KEY][S]你该谢谢我[KEY]	3
+[T]这属于消费欺诈何赛擅长[NEXT][T]什么呀[NEXT][S]一个礼物[NEXT][T]送我礼物干什么[NEXT][KEY][S]求你接一个案子[KEY]	0
+[T]尽量不熬夜[NEXT][S]爸 你是不是紧张[NEXT][T]不紧张[NEXT][S]总觉得不太靠谱[NEXT][KEY][S]你这属于先斩后奏啊[KEY]	2
+[T]他好像一直都有女朋友[NEXT][S]那是 没有就不是他了[NEXT][S]就这德行 甭搭理他[NEXT][T]不过方圆还行[NEXT][KEY][S]方圆 方圆限量版 没办法 我命好[KEY]	3
+[T]对对对 我问一下成绩[NEXT][T]没在学校[NEXT][S]英子也没考好[NEXT][T]历史新低[NEXT][KEY][S]多少分[KEY]	1
+[S]没本事的 你看你印仨字[NEXT][S]对吧[NEXT][S]印三字也可以[NEXT][S]比如说你 马化腾 还用介绍你是谁吗[NEXT][KEY][S]你换一人[KEY]	3
+[T]对磊磊真好[NEXT][T]对我也好[NEXT][S]你现在觉出来了[NEXT][T]你就是我的大白[NEXT][KEY][S]你是说我胖了是吧[KEY]	1
+[T]吃意大利面[NEXT][S]爷爷 你怎么不吃啊[NEXT][T]我刚才吃了一口满嘴的西红柿味 你吃吧[NEXT][T]知道为什么要吃面条吗[NEXT][KEY][S]不知道[KEY]	0
+[T]又不是出国[NEXT][S]反正也是打车[NEXT][T]不用送[NEXT][T]这还是感冒了吧[NEXT][KEY][S]晚上睡到半夜冻醒了[KEY]	2
+[T]你给拿出来[NEXT][S]你扶住了啊[NEXT][S]哎哟 哇塞[NEXT][S]我操[NEXT][KEY][S]有点分量[KEY]	2
+[T]上刀山下火海都可以[NEXT][S]樊斌 跪天跪地跪父母 为了6颗心[NEXT][S]你至于这样吗[NEXT][T]你千万不要告诉小北好吗[NEXT][KEY][S]起来[KEY]	6
+[S]他跟他爸联起手来一起瞒我[NEXT][S]逃学也就算了[NEXT][S]她爸都搬过来快两个月了[NEXT][S]把我像一个傻子一样骗得团团转[NEXT][KEY][S]想想就伤心[KEY]	2
+[T]到你住处去看看[NEXT][S]妹妹 你想跟我私会这理由有点low啊[NEXT][T]别说有的没的[NEXT][T]你敢不敢吧[NEXT][KEY][S]敢[KEY]	0
+[S]做什么饭[NEXT][S]家里电饭锅什么锅都没有[NEXT][S]做什么饭呢[NEXT][S]再说我也不敢做呀[NEXT][KEY][S]万一我再把房子给点了呢[KEY]	1
+[T]最低分82分[NEXT][T]差了9分[NEXT][T]咱们这学期的任务就是把它拉高拉平[NEXT][S]你等我周末有时间再来细说成不成[NEXT][KEY][S]我这明年还要考英语跟理综[KEY]	2
+[T]我就在一会有什么事你叫我[NEXT][S]别着急[NEXT][S]坐你先坐[NEXT][T]怎么了[NEXT][KEY][S]咱们是好姐妹[KEY]	3
+[S]他们家[NEXT][S]如果有一天乔卫东跟小梦结婚了[NEXT][S]或者乔卫东跟宋倩复婚了[NEXT][S]不管哪件事发生你都落不着好[NEXT][KEY][S]你都是个外人知道吧[KEY]	3
+[T]没准还得伺候他那俩傻儿子[NEXT][T]琴琴在咱家是心肝宝贝[NEXT][T]到那去给人家当丫头[NEXT][T]我疯了我[NEXT][KEY][S]不是我跟你说[KEY]	7
+[T]一大早非要起来送我上班[NEXT][T]说吧 还有什么别的企图[NEXT][S]查你的岗呗[NEXT][S]盯着你[NEXT][KEY][S]24小时盯着你[KEY]	0
+[T]不用找 算你的小费[NEXT][T]丽丽[NEXT][T]妈想问你[NEXT][T]你跟明成 吵架了[NEXT][KEY][S]没有啊[KEY]	0
+[T]稍等一会[NEXT][T]现在你人到底在哪[NEXT][S]我在医院[NEXT][S]我可能得病了[NEXT][KEY][S]千万不能让杨杨知道[KEY]	6
+[S]杨杨现在在哪[NEXT][T]没事[NEXT][S]让他回来吧[NEXT][S]总躲着也不是个事[NEXT][KEY][S]也不是个事儿[KEY]	3
+[S]那是哪样的[NEXT][S]如果不是今天我撞见了[NEXT][S]你还打算瞒我[NEXT][S]我到什么时候[NEXT][KEY][S]天还没亮[KEY]	2
+[T]这样就特别清晰了[NEXT][S]很好[NEXT][S]来我签我签[NEXT][S]我签我签[NEXT][KEY][S]哟这手怎么冰凉[KEY]	1
+[S]我说什么来着[NEXT][T]说到咱俩有缘分[NEXT][S]什么缘[NEXT][S]对，房子[NEXT][KEY][S]房子是吧[KEY]	1
+[T]一个半小时[NEXT][S]俩孩子节约多长时间[NEXT][T]三小时[NEXT][S]你这个数学是语文老师教的[NEXT][KEY][S]不是 你1个孩子来回是1个半小时[KEY]	2
+[T]没事[NEXT][T]不想[NEXT][S]你说你也是非早上那么大早给人叫起来背单词[NEXT][S]你路上这车上不是一样背[NEXT][KEY][S]早上多睡半个小时多重要[KEY]	2
+[S]这又得凑份子[NEXT][T]那没辙[NEXT][T]咱琴琴周岁人不也来了吗[NEXT][S]周岁那什么年头[NEXT][KEY][S]200块钱还当钱[KEY]	4
+[S]忙吗[NEXT][T]怎么了[NEXT][S]你来看看这两个房子你更喜欢哪个[NEXT][T]你也买房啊[NEXT][KEY][S]结婚得用[KEY]	0
+[S]袁老师吃饭了[NEXT][T]你也坐下来吃[NEXT][S]我一会再吃[NEXT][T]怎么有点苦[NEXT][KEY][S]粥里我放了莲子心败火的[KEY]	0
+[T]你别太操心了[NEXT][T]你赶快去洗个澡[NEXT][T]累一天了[NEXT][S]我这基本上都装完了[NEXT][KEY][S]你那怎么样了[KEY]	1
+[S]不久你就发了[NEXT][T]大叔 我能方便问一下[NEXT][T]您大概[NEXT][T]投了多少进去吗[NEXT][KEY][S]我投得不多[KEY]	0
+[S]一会我就拿给你[NEXT][S]那天晚上我给你打电话[NEXT][S]就是想把房租退给你[NEXT][T]蛋炒饭是这样炒的[NEXT][KEY][S]这是日本做法[KEY]	0
+[S]你妈没发现吗[NEXT][T]没有[NEXT][T]我不说 您不说 谁能发现[NEXT][T]放心吧[NEXT][KEY][S]这什么姿势这么大的姑娘了[KEY]	3
+[T]就你懂我[NEXT][T]讨厌[NEXT][T]阿姨[NEXT][T]你怎么坐这了[NEXT][KEY][S]心烦[KEY]	0
+[T]好像没什么感觉[NEXT][S]因为你转太快了[NEXT][S]集中注意力[NEXT][S]闭上眼睛[NEXT][KEY][S]开始 集中注意力 呼吸[KEY]	6
+[S]别着急[NEXT][T]下周艾瑞公司的提案交给我来做[NEXT][S]这个客户很难缠[NEXT][S]这也是我们公司最后一次机会[NEXT][KEY][S]你刚来对工作还不熟悉[KEY]	7
+[T]她妈那儿[NEXT][S]确定吗[NEXT][T]那还能去哪儿[NEXT][S]反正我觉得这个头不能开[NEXT][KEY][S]你打算怎么办[KEY]	1
+[T]书记慢走[NEXT][S]你说[NEXT][S]你儿子干的这叫什么事[NEXT][S]你说他这是干什么[NEXT][KEY][S]这不捣乱吗 在这[KEY]	3
+[S]支持我去冬令营 支持我去南大 YES[NEXT][T]去 去什么南大[NEXT][T]哪的南大[NEXT][S]南大 您不是支持我多出去看看吗[NEXT][KEY][S]而且南大的天文系可是全国第一名[KEY]	2
+[S]我跟你讲[NEXT][S]女强人有钱把孩子送国外去上高中[NEXT][S]结果在学校遭遇校园暴力[NEXT][S]真的，回来弄个抑郁症全家都乱套[NEXT][KEY][S]就为这个，你知道，我们家都不能提说朵朵出国的事[KEY]	2
+[S]妈我错了[NEXT][S]爸爸都跟我说了[NEXT][S]我诚恳的向您认错[NEXT][S]我不应该收爸爸的礼[NEXT][KEY][S]我也不应该让方一凡帮我藏着[KEY]	3
+[T]这些年我一人带着英子[NEXT][T]真是什么苦没吃[NEXT][S]行了[NEXT][S]你这叫苦尽甘来[NEXT][KEY][S]我都羡慕死你了[KEY]	3
+[S]你别闹了[NEXT][S]好你去洗澡去[NEXT][T]行行[NEXT][T]不生气咱俩一块洗去[NEXT][KEY][S]不是我[KEY]	7
+[T]不要在那出现好吗[NEXT][T]表哥你们北京人这么抗冻[NEXT][T]是你太耐热了[NEXT][S]都起来了[NEXT][KEY][S]怎么起这么早[KEY]	1
+[S]你说你要把你这点本事用在挣钱上[NEXT][S]咱家早发达了[NEXT][S]还用得着为这1万多的房租在这掰扯[NEXT][S]你看看人宋倩[NEXT][KEY][S]十几年前多有眼光[KEY]	2
+[T]你老惦记你的万贯家产[NEXT][T]你到底有多少钱啊[NEXT][S]你问这个这个干嘛啊[NEXT][T]一个亿[NEXT][KEY][S]你什么意思[KEY]	1
+[T]大哥倒时差[NEXT][T]你让他再睡一会[NEXT][T]你要饿[NEXT][T]你先吃呗[NEXT][KEY][S]你吃不吃[KEY]	1
+[S]叫爱满分[NEXT][S]你把它存好了[NEXT][S]上面有单号[NEXT][S]30年后合同约满了[NEXT][KEY][S]还能分你一笔钱[KEY]	2
+[S]这件事情吧 我也有做得不好的地方[NEXT][S]不管发生什么事情[NEXT][S]我都不该对爸发脾气[NEXT][S]不该那样跟他说话[NEXT][KEY][S]我错了[KEY]	5
+[S]藏在方一凡这了[NEXT][T]不行[NEXT][T]我得给他还回去[NEXT][S]你等会 你别弄这个 宋倩跟乔卫东本来就不合[NEXT][KEY][S]你再弄这不煽风点火[KEY]	3
+[T]我先说一个[NEXT][T]其实我特别爱不爱吃蒜蓉[NEXT][S]你不爱吃蒜蓉[NEXT][T]有股怪味[NEXT][KEY][S]以前怎么没跟我说过[KEY]	1
+[S]能做多少题[NEXT][S]天文馆永远在 可高三的时间丢了[NEXT][S]你永远补不上的[NEXT][S]你要是连高考都考不好[NEXT][KEY][S]还有什么人生我说的对吗[KEY]	3
+[T]真的[NEXT][T]真的姐[NEXT][T]谢谢姐[NEXT][T]琴琴[NEXT][KEY][S]上课了[KEY]	1
+[T]现在大家都把这当一乐[NEXT][T]到处传[NEXT][T]影响多不好[NEXT][T]所以我赶紧发给你看看怎么办[NEXT][KEY][S]这影响是挺不好的[KEY]	3
+[T]不过刚刚确实拐了一个小弯[NEXT][T]去车场了解杨杨的喜好[NEXT][T]这一招确实很有效果[NEXT][S]真的[NEXT][KEY][S]你们都干什么了[KEY]	1
+[S]好了[NEXT][S]你现在应该想的是为什么[NEXT][S]英子这么多事瞒着你[NEXT][T]为什么[NEXT][KEY][S]方一帆好多事也瞒着我[KEY]	3
+[S]我这人看书比较快[NEXT][T]请坐[NEXT][S]谢谢[NEXT][T]还没好[NEXT][KEY][S]还行好多了[KEY]	0
+[T]这是谁说的呀[NEXT][S]嘟嘟姐姐[NEXT][T]嘟嘟[NEXT][T]嘟嘟是那个是她奶奶住在我们小区的那个吗[NEXT][KEY][S]就是她[KEY]	0
+[T]是[NEXT][S]别哭了别哭了让我的心里也不是滋味[NEXT][S]坏了坏了律师在楼下等着这样[NEXT][S]我今天晚上到你那去住[NEXT][KEY][S]你回去随便做几个家常菜[KEY]	6
+[T]要狠、稳、准、狠[NEXT][S]李理 你不是说[NEXT][S]你喜欢我吗[NEXT][T]什么时候说的[NEXT][KEY][S]在北京喝多那次[KEY]	0
+[S]你不要跟我说尺寸长短的事情，高考不管你尺寸长短[NEXT][S]高考不管你尺寸长短[NEXT][S]你今天要是进不了前100[NEXT][S]你就进不了重点高中[NEXT][KEY][S]你进不了重点高中进不了重点大学[KEY]	2
+[S]你是我怎么办[NEXT][S]怎么处理怎么解决为好[NEXT][S]你说我听听[NEXT][T]说真话[NEXT][KEY][S]说真话[KEY]	0
+[T]比起消化食物[NEXT][T]我觉得帮你恢复心情更重要[NEXT][T]来感情深一口闷[NEXT][T]感情浅一大口[NEXT][KEY][S]不对吧[KEY]	7
+[T]喂我不看小贝[NEXT][T]人家恩爱的那个视频[NEXT][T]你这次你要再给人发网上[NEXT][T]你可就犯法了[NEXT][KEY][S]我又没拍什么[KEY]	7
+[T]你快说他说什么了[NEXT][S]还能说什么[NEXT][S]就是说 问我有没有时间约我见面[NEXT][T]你现在准备去啊[NEXT][KEY][S]当然了[KEY]	0
+[S]我们之前有一个员工就是打官司打了一年多[NEXT][S]各种方法都想了赢不了[NEXT][S]我现在真是没辙[NEXT][S]你说可是我跟他耗着 等于没岗了 就发了基本工资[NEXT][KEY][S]还等于不拿钱[KEY]	2

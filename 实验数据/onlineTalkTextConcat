@@ -1,0 +1,69 @@
+Iter:      0,  Train Loss:   2.2,  Train Acc:  6.25%,  Val Loss:   2.2,  Val Acc:  2.78%,  Time: 0:00:12 *
+Iter:    100,  Train Loss:   2.0,  Train Acc: 18.75%,  Val Loss:   1.8,  Val Acc: 29.28%,  Time: 0:00:59 *
+Iter:    200,  Train Loss:   1.6,  Train Acc: 25.00%,  Val Loss:   1.3,  Val Acc: 56.91%,  Time: 0:01:47 *
+Iter:    300,  Train Loss:   1.4,  Train Acc: 50.00%,  Val Loss:   1.3,  Val Acc: 55.39%,  Time: 0:02:33
+Iter:    400,  Train Loss:   1.0,  Train Acc: 62.50%,  Val Loss:   1.2,  Val Acc: 57.96%,  Time: 0:03:21 *
+Iter:    500,  Train Loss:   1.4,  Train Acc: 43.75%,  Val Loss:   1.1,  Val Acc: 60.48%,  Time: 0:04:09 *
+Iter:    600,  Train Loss:   1.2,  Train Acc: 68.75%,  Val Loss:   1.3,  Val Acc: 53.60%,  Time: 0:04:56
+Iter:    700,  Train Loss:   1.5,  Train Acc: 50.00%,  Val Loss:   1.1,  Val Acc: 61.86%,  Time: 0:05:45 *
+Epoch [2/12]
+Iter:    800,  Train Loss:   1.2,  Train Acc: 50.00%,  Val Loss:   1.0,  Val Acc: 63.12%,  Time: 0:06:33 *
+Iter:    900,  Train Loss:  0.87,  Train Acc: 75.00%,  Val Loss:   1.1,  Val Acc: 62.86%,  Time: 0:07:21
+Iter:   1000,  Train Loss:  0.89,  Train Acc: 75.00%,  Val Loss:  0.92,  Val Acc: 67.94%,  Time: 0:08:11 *
+Iter:   1100,  Train Loss:  0.82,  Train Acc: 75.00%,  Val Loss:  0.97,  Val Acc: 66.89%,  Time: 0:08:58
+Iter:   1200,  Train Loss:  0.58,  Train Acc: 68.75%,  Val Loss:  0.93,  Val Acc: 68.01%,  Time: 0:09:46
+Iter:   1300,  Train Loss:   1.0,  Train Acc: 62.50%,  Val Loss:  0.98,  Val Acc: 67.15%,  Time: 0:10:35
+Iter:   1400,  Train Loss:  0.71,  Train Acc: 81.25%,  Val Loss:  0.89,  Val Acc: 67.68%,  Time: 0:11:24 *
+Iter:   1500,  Train Loss:  0.71,  Train Acc: 75.00%,  Val Loss:  0.94,  Val Acc: 67.09%,  Time: 0:12:12
+Epoch [3/12]
+Iter:   1600,  Train Loss:   0.5,  Train Acc: 87.50%,  Val Loss:  0.93,  Val Acc: 66.23%,  Time: 0:13:00
+Iter:   1700,  Train Loss:  0.57,  Train Acc: 81.25%,  Val Loss:   1.0,  Val Acc: 66.75%,  Time: 0:13:48
+Iter:   1800,  Train Loss:  0.36,  Train Acc: 87.50%,  Val Loss:  0.94,  Val Acc: 68.27%,  Time: 0:14:37
+Iter:   1900,  Train Loss:  0.36,  Train Acc: 87.50%,  Val Loss:  0.94,  Val Acc: 69.53%,  Time: 0:15:25
+Iter:   2000,  Train Loss:  0.44,  Train Acc: 81.25%,  Val Loss:  0.89,  Val Acc: 71.25%,  Time: 0:16:14 *
+Iter:   2100,  Train Loss:  0.42,  Train Acc: 87.50%,  Val Loss:  0.97,  Val Acc: 68.87%,  Time: 0:17:02
+Iter:   2200,  Train Loss:  0.61,  Train Acc: 81.25%,  Val Loss:   1.0,  Val Acc: 66.62%,  Time: 0:17:51
+Epoch [4/12]
+Iter:   2300,  Train Loss:   0.3,  Train Acc: 87.50%,  Val Loss:  0.92,  Val Acc: 70.06%,  Time: 0:18:40
+Iter:   2400,  Train Loss:  0.26,  Train Acc: 93.75%,  Val Loss:  0.94,  Val Acc: 71.71%,  Time: 0:19:29
+Iter:   2500,  Train Loss:   1.1,  Train Acc: 68.75%,  Val Loss:  0.94,  Val Acc: 69.86%,  Time: 0:20:17
+Iter:   2600,  Train Loss:  0.37,  Train Acc: 87.50%,  Val Loss:  0.89,  Val Acc: 72.04%,  Time: 0:21:05
+Iter:   2700,  Train Loss:  0.18,  Train Acc: 93.75%,  Val Loss:  0.91,  Val Acc: 71.98%,  Time: 0:21:54
+Iter:   2800,  Train Loss:  0.18,  Train Acc: 93.75%,  Val Loss:  0.99,  Val Acc: 73.03%,  Time: 0:22:42
+Iter:   2900,  Train Loss:   0.3,  Train Acc: 93.75%,  Val Loss:  0.99,  Val Acc: 69.27%,  Time: 0:23:31
+Iter:   3000,  Train Loss:  0.12,  Train Acc: 93.75%,  Val Loss:  0.93,  Val Acc: 70.26%,  Time: 0:24:19
+No optimization for a long time, auto-stopping...
+[[249   9  14  13  10   0   6   8]
+ [ 17 251   6  15   6   1   3   0]
+ [ 10  42 183  41   4   0  18   0]
+ [ 12  28  35 204   6   1  13   2]
+ [ 15  16   3   7  24   0   3   2]
+ [  0   1   0   0   0  36   1   0]
+ [  9   4   8   3   1   0 109   0]
+ [ 10  10   1   6   6   0  12  18]]
+Test Loss:  0.93,  Test Acc: 71.03%
+Precision, Recall and F1-Score...
+                       precision    recall  f1-score   support
+
+               answer     0.7733    0.8058    0.7892       309
+             question     0.6953    0.8395    0.7606       299
+statement-non-opinion     0.7320    0.6141    0.6679       298
+    statement-opinion     0.7059    0.6777    0.6915       301
+                irony     0.4211    0.3429    0.3780        70
+              apology     0.9474    0.9474    0.9474        38
+              command     0.6606    0.8134    0.7291       134
+         disagreement     0.6000    0.2857    0.3871        63
+
+             accuracy                         0.7103      1512
+            macro avg     0.6919    0.6658    0.6688      1512
+         weighted avg     0.7072    0.7103    0.7031      1512
+
+Confusion Matrix...
+[[249   9  14  13  10   0   6   8]
+ [ 17 251   6  15   6   1   3   0]
+ [ 10  42 183  41   4   0  18   0]
+ [ 12  28  35 204   6   1  13   2]
+ [ 15  16   3   7  24   0   3   2]
+ [  0   1   0   0   0  36   1   0]
+ [  9   4   8   3   1   0 109   0]
+ [ 10  10   1   6   6   0  12  18]]

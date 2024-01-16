@@ -1,0 +1,60 @@
+Iter:      0,  Train Loss:   2.3,  Train Acc:  0.00%,  Val Loss:   2.3,  Val Acc:  1.39%,  Time: 0:00:09 *
+Iter:    100,  Train Loss:  0.62,  Train Acc: 81.25%,  Val Loss:   1.1,  Val Acc: 66.50%,  Time: 0:00:54 *
+Iter:    200,  Train Loss:   1.3,  Train Acc: 50.00%,  Val Loss:   0.9,  Val Acc: 70.76%,  Time: 0:01:38 *
+Iter:    300,  Train Loss:   1.2,  Train Acc: 56.25%,  Val Loss:   1.2,  Val Acc: 59.37%,  Time: 0:02:22
+Iter:    400,  Train Loss:   1.6,  Train Acc: 37.50%,  Val Loss:   1.7,  Val Acc: 33.60%,  Time: 0:03:05
+Iter:    500,  Train Loss:   1.6,  Train Acc: 25.00%,  Val Loss:   1.7,  Val Acc: 33.60%,  Time: 0:03:50
+Epoch [2/12]
+Iter:    600,  Train Loss:   1.7,  Train Acc: 37.50%,  Val Loss:   1.7,  Val Acc: 33.60%,  Time: 0:04:34
+Iter:    700,  Train Loss:   1.9,  Train Acc: 18.75%,  Val Loss:   1.7,  Val Acc: 33.60%,  Time: 0:05:18
+Iter:    800,  Train Loss:   1.4,  Train Acc: 37.50%,  Val Loss:   1.7,  Val Acc: 33.60%,  Time: 0:06:02
+Iter:    900,  Train Loss:   1.5,  Train Acc: 37.50%,  Val Loss:   1.7,  Val Acc: 33.60%,  Time: 0:06:46
+Iter:   1000,  Train Loss:   1.8,  Train Acc: 18.75%,  Val Loss:   1.7,  Val Acc: 33.60%,  Time: 0:07:31
+Epoch [3/12]
+Iter:   1100,  Train Loss:   1.6,  Train Acc: 37.50%,  Val Loss:   1.7,  Val Acc: 33.60%,  Time: 0:08:15
+Iter:   1200,  Train Loss:   1.8,  Train Acc: 25.00%,  Val Loss:   1.7,  Val Acc: 33.60%,  Time: 0:08:59
+No optimization for a long time, auto-stopping...
+C:\ProgramData\Anaconda3\envs\bertLstm\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_divisio
+n` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\ProgramData\Anaconda3\envs\bertLstm\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_divisio
+n` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\ProgramData\Anaconda3\envs\bertLstm\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_divisio
+n` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+[[  0   6   6  27  10   0   0   1]
+ [  0 171   6  24   7   0   0   1]
+ [  0   2  19  45  11   0   0   3]
+ [  0  14   2 306  25   0   0   1]
+ [  0   1   0  30  84   0   0   5]
+ [  0   1   0   2   4   0   0   0]
+ [  0   1   0   0   1   0   0   0]
+ [  0   2   1   6  61   0   0 118]]
+Test Loss:  0.93,  Test Acc: 69.52%
+Precision, Recall and F1-Score...
+              precision    recall  f1-score   support
+
+   教师评价或回应学生     0.0000    0.0000    0.0000        50
+        教师提问     0.8636    0.8182    0.8403       209
+        教师指令     0.5588    0.2375    0.3333        80
+        教师讲授     0.6955    0.8793    0.7766       348
+     学生被动型应答     0.4138    0.7000    0.5201       120
+     学生创造型应答     0.0000    0.0000    0.0000         7
+   学生主动提问或发言     0.0000    0.0000    0.0000         2
+     沉寂杂音或讨论     0.9147    0.6277    0.7445       188
+
+    accuracy                         0.6952      1004
+   macro avg     0.4308    0.4078    0.4019      1004
+weighted avg     0.6861    0.6952    0.6723      1004
+
+Confusion Matrix...
+[[  0   6   6  27  10   0   0   1]
+ [  0 171   6  24   7   0   0   1]
+ [  0   2  19  45  11   0   0   3]
+ [  0  14   2 306  25   0   0   1]
+ [  0   1   0  30  84   0   0   5]
+ [  0   1   0   2   4   0   0   0]
+ [  0   1   0   0   1   0   0   0]
+ [  0   2   1   6  61   0   0 118]]
+Time usage: 0:00:06
